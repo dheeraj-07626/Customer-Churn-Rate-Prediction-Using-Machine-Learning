@@ -1,0 +1,1101 @@
+Customer_Name,Gender,Age,City,State,Signup_Date,Last_Login,Tenure,Contract_Type,Subscription_Plan,Monthly_Charges,Total_Charges,Payment_Method,Auto_Payment,Support_Calls,Complaints,Internet_Usage_GB,Avg_Session_Minutes,Login_Frequency,Satisfaction_Score,Customer_Service_Rating,Device_Type,Referral_Source,Churn
+ananya rao,male,38,warangal,telangana,11-07-2026,27-08-2026,1,monthly,basic,600,500,upi,no,3,3,13.9,44.3,monthly,2,2,mobile,friend,no
+riya kapoor,male,49,tirupati,andhra pradesh,26-08-2024,22-08-2026,24,two-year,basic,560,10600,debit card,no,1,1,23,36,daily,3,4,android phone,friend,no
+suresh babu,female,26,unknown,delhi,21-07-2026,27-08-2026,1,monthly,basic,452,415,credit card,no,6,0,21.1,87,daily,5,5,android phone,google,no
+sneha patel,female,55,delhi,unknown,16-04-2026,30-08-2026,12,monthly,pro,1,5100,debit card,yes,2,1,18.4,12,2-3 times/week,5,3,iphone,google,no
+amit shah,male,39,unknown,telangana,14-07-2026,27-08-2026,12,monthly,premium,1400,1,credit card,yes,0,1,21.7,75,weekly,3,2,android phone,google,no
+meera nair,male,18,baroda,gujarat,27-08-2026,17-08-2026,10,monthly,premium,1,10260,credit card,yes,2,0,10.7,59,daily,4,4,android phone,friend,no
+ananya rao,male,23,coimbatore,tamil nadu,13-07-2026,27-08-2026,12,monthly,pro,1,1,bank transfer,yes,1,2,9.5,54,monthly,3,2,mobile,friend,no
+harsha vardhan,female,24,tirupati,andhra pradesh,09-06-2023,24-08-2026,39,monthly,basic,648,25,credit card,yes,5,1,10.2,62,weekly,4,3,laptop,friend,no
+rahul sharma,male,51,vijayawada,andhra pradesh,06-08-2025,25-08-2026,13,monthly,premium,1,18,credit card,yes,4,1,28.7,28,weekly,4,3,android phone,advertisement,no
+pooja nair,female,44,baroda,gujarat,22-06-2026,27-08-2026,2,annual,premium,833,1,credit card,yes,1,2,74.4,65,daily,5,5,iphone,social media,no
+aditya rao,female,26,karimnagar,telangana,13-03-2023,27-08-2026,42,monthly,basic,483,16,credit card,yes,1,2,22.9,65,rarely,3,3,iphone,website,no
+rohit mehta,female,43,bom,maharashtra,28-06-2024,27-08-2026,26,monthly,premium,1,35,upi,no,3,1,21.7,40,daily,3,3,iphone,website,no
+amit shah,female,36,delhi,dl,26-07-2026,27-08-2026,1,monthly,premium,1,1,credit card,yes,4,2,22,36,rarely,5,4,laptop,social media,yes
+kiran das,male,37,salem,tamil nadu,07-12-2026,11-08-2026,12,monthly,basic,695,600,credit card,yes,2,1,42.6,14,daily,3,3,mobile,social media,yes
+arjun kumar,male,25,mangaluru,karnataka,11-07-2026,01-09-2026,12,monthly,basic,517,353.5,bank transfer,yes,2,0,8.3,86,rarely,4,4,iphone,social media,yes
+riya kapoor,female,34,karimnagar,telangana,13-12-2023,29-08-2026,33,monthly,premium,800,353.5,upi,yes,2,1,15.9,42,daily,3,2,laptop,social media,no
+lakshmi devi,male,18,unknown,dl,15-07-2026,31-08-2026,1,two-year,premium,812,855,credit card,yes,3,1,121.9,39,daily,3,2,android phone,social media,no
+aditya rao,female,57,chennai,unknown,06-03-2026,03-08-2026,3,monthly,basic,674,1700,credit card,yes,1,1,18,34,rarely,4,3,android phone,friend,no
+amit shah,male,29,cochin,kerala,30-07-2026,29-08-2026,12,monthly,basic,888,905,upi,yes,1,1,20.6,39.7,monthly,4,4,android phone,advertisement,yes
+rohit mehta,female,43,unknown,delhi,23-07-2026,27-08-2026,1,monthly,pro,1,353.5,credit card,no,4,1,9.1,49.3,weekly,3,4,iphone,google,yes
+suresh babu,male,44,nashik,unknown,27-08-2026,16-08-2026,5,monthly,premium,1585,8,credit card,yes,3,1,9.6,48,weekly,3,3,iphone,google,no
+meera nair,male,19,unknown,delhi,23-05-2026,27-08-2026,3,monthly,basic,2886,7,debit card,yes,5,0,14.4,50,daily,3,3,android phone,social media,yes
+suresh babu,male,35,kozhikode,kerala,16-05-2026,30-08-2026,3,annual,basic,809,2400,debit card,yes,4,0,22.3,48,2-3 times/week,4,4,android phone,google,no
+manish gupta,female,35,unknown,delhi,07-01-2026,24-08-2026,2,monthly,pro,2,4705,credit card,yes,5,1,28.9,13,daily,4,4,android phone,website,yes
+arjun kumar,male,37,salem,tamil nadu,17-07-2026,31-08-2026,1,monthly,premium,814,630,debit card,yes,2,1,12.4,42.2,2-3 times/week,5,5,mobile,friend,no
+rahul sharma,male,51,cbe,tamil nadu,25-06-2026,30-08-2026,2,annual,basic,706,1,debit card,yes,2,2,16.7,60,monthly,2,1,laptop,friend,no
+priya reddy,male,18,baroda,gujarat,10-06-2022,25-08-2026,51,monthly,basic,499,19,bank transfer,yes,5,1,16.5,68,2-3 times/week,2,3,iphone,advertisement,no
+meera nair,female,43,unknown,karnataka,27-07-2026,31-08-2026,1,monthly,basic,544,500,upi,yes,3,1,30.8,64,rarely,3,3,iphone,friend,no
+pooja nair,female,39,salem,unknown,28-07-2026,16-08-2026,1,two-year,premium,581,1600,debit card,yes,1,1,45.4,27.3,rarely,2,2,android phone,advertisement,no
+sanjay kumar,male,28,coimbatore,tamil nadu,12-05-2026,23-08-2026,3,monthly,basic,581,2,credit card,yes,2,0,13.9,65,rarely,5,5,android phone,website,no
+rahul sharma,female,25,ahmedabad,unknown,29-12-2025,29-07-2026,8,two-year,premium,991,6,upi,yes,2,0,25.3,30,weekly,3,2,android phone,social media,no
+neha verma,male,37,delhi,dl,17-07-2026,14-08-2026,1,monthly,premium,803,353.5,upi,yes,4,1,26.4,23,weekly,3,2,android phone,social media,no
+aditya rao,female,35,visakhapatnam,andhra pradesh,27-05-2026,20-08-2026,12,monthly,basic,837,2300,credit card,yes,3,0,45.8,36,monthly,2,2,mobile,website,no
+swathi reddy,female,48,vadodara,gujarat,28-07-2026,22-08-2026,12,monthly,pro,2,1700,credit card,no,6,2,22.1,74,rarely,3,3,iphone,friend,no
+kiran das,male,37,nzb,telangana,29-07-2026,28-08-2026,12,monthly,premium,581,1,debit card,yes,6,2,48,65.4,daily,5,5,android phone,social media,no
+priya reddy,female,47,unknown,gujarat,29-08-2025,22-07-2026,12,two-year,basic,588,7400,debit card,yes,2,3,128.3,42,daily,4,5,mobile,friend,yes
+neha verma,female,36,nizamabad,telangana,06-08-2022,09-01-2026,50,monthly,pro,2,353.5,upi,yes,1,1,58,59,weekly,4,5,iphone,friend,yes
+manish gupta,male,29,thiruvananthapuram,kerala,30-06-2024,31-08-2026,26,monthly,basic,721,19,bank transfer,yes,2,0,17.4,52,daily,5,5,android phone,website,no
+nikhil joshi,female,22,mysuru,kar,26-06-2026,16-08-2026,12,monthly,premium,1,1930,upi,yes,5,1,16.8,48,monthly,1,2,android phone,friend,no
+vikram singh,female,39,unknown,karnataka,27-06-2026,27-08-2026,2,two-year,premium,910,1,credit card,yes,3,1,21.7,43,monthly,3,4,android phone,google,no
+varun malhotra,female,45,madurai,tamil nadu,11-07-2026,27-08-2026,12,monthly,basic,1601,1,debit card,yes,4,1,21.7,48,monthly,3,2,android phone,friend,no
+meera nair,female,42,unknown,karnataka,08-02-2026,27-08-2026,6,monthly,premium,1,7897,upi,yes,3,3,42.7,41,daily,2,3,iphone,advertisement,no
+rohit mehta,female,38,vadodara,unknown,01-11-2024,01-09-2026,22,monthly,basic,900,14,credit card,yes,3,1,34.5,40,2-3 times/week,5,5,android phone,google,no
+suresh babu,male,26,salem,tamil nadu,20-11-2024,28-08-2026,21,monthly,pro,2872,57458,credit card,yes,2,0,31.3,48,daily,2,1,iphone,friend,yes
+ananya rao,male,22,unknown,telangana,31-05-2026,08-10-2026,3,annual,basic,500,1,bank transfer,yes,2,4,34.5,76.3,rarely,3,3,android phone,friend,yes
+riya kapoor,female,35,cbe,tamil nadu,20-07-2026,24-08-2026,1,monthly,pro,2,1,credit card,yes,3,1,21.9,30,2-3 times/week,2,2,mobile,social media,yes
+neha verma,male,29,nashik,maharashtra,07-04-2025,20-08-2026,17,monthly,basic,700,9591,credit card,yes,3,1,34.8,60,monthly,1,1,mobile,social media,no
+meera nair,male,37,delhi,dl,03-11-2025,04-08-2026,10,monthly,basic,509,353.5,bank transfer,yes,1,1,4.7,84,rarely,2,1,android phone,google,yes
+kavya rao,female,39,nagpur,maharashtra,27-08-2026,03-07-2026,14,monthly,basic,560,6,upi,yes,2,1,42.6,48,weekly,5,5,android phone,friend,no
+pooja nair,female,39,delhi,dl,27-07-2025,26-08-2026,13,annual,basic,399,4,credit card,yes,1,1,49.5,73.4,weekly,2,2,iphone,social media,yes
+harsha vardhan,male,51,bom,maharashtra,23-01-2024,27-08-2026,12,monthly,premium,581,29,upi,no,4,1,54.5,33,weekly,1,1,android phone,website,no
+divya iyer,male,34,mysore,karnataka,23-01-2026,27-08-2026,7,annual,basic,403,2,upi,no,5,1,6.5,60,daily,4,4,laptop,google,no
+riya kapoor,male,44,unknown,telangana,23-12-2025,09-01-2026,8,monthly,premium,1,10,debit card,yes,3,0,21.6,29.9,weekly,2,1,iphone,google,no
+neha verma,male,46,kozhikode,kerala,31-07-2026,27-08-2026,1,annual,basic,540,565,bank transfer,yes,2,1,14.2,28,daily,2,3,android phone,website,no
+sanjay kumar,female,52,thrissur,kerala,07-10-2022,10-08-2026,47,monthly,basic,800,39500,bank transfer,yes,3,1,37.9,25.5,2-3 times/week,3,3,iphone,friend,no
+riya kapoor,female,28,nagpur,maharashtra,16-07-2026,26-08-2026,12,monthly,pro,2,1,bank transfer,yes,1,1,19.8,42,rarely,3,3,iphone,social media,no
+meera nair,female,42,vijayawada,andhra pradesh,14-07-2026,23-08-2026,1,monthly,pro,2,2800,bank transfer,no,3,2,21.7,54,2-3 times/week,3,2,iphone,website,no
+riya kapoor,female,22,cochin,kerala,01-12-2024,25-08-2026,32,monthly,basic,419,11,debit card,yes,6,1,56.7,57,daily,5,4,iphone,friend,yes
+rahul sharma,male,37,nasik,maharashtra,25-03-2026,22-08-2026,5,monthly,premium,1009,5,bank transfer,yes,4,3,9.8,58,weekly,1,1,android phone,social media,no
+nikhil joshi,male,28,salem,tamil nadu,20-04-2022,27-08-2026,53,annual,premium,1,63,bank transfer,yes,1,1,36.9,25,rarely,3,3,iphone,advertisement,no
+kiran das,female,42,unknown,unknown,26-06-2026,31-08-2026,2,monthly,basic,868,1600,bank transfer,yes,5,1,141,42,weekly,4,5,iphone,google,no
+kavya rao,female,37,salem,tamil nadu,09-12-2023,17-08-2026,12,monthly,premium,1,35600,upi,yes,4,4,30.6,52.2,daily,2,2,laptop,friend,no
+rohit mehta,female,37,unknown,andhra pradesh,27-08-2026,27-08-2026,12,two-year,premium,1,1300,credit card,yes,2,3,29.8,39.6,daily,3,3,mobile,advertisement,no
+lakshmi devi,male,31,unknown,tamil nadu,21-05-2026,29-08-2026,3,monthly,premium,581,353.5,upi,yes,3,1,4.7,48,daily,5,5,android phone,social media,no
+swathi reddy,male,26,unknown,gujarat,02-04-2025,24-08-2026,12,monthly,pro,2,49500,bank transfer,no,4,1,44.9,24,rarely,5,5,android phone,friend,no
+manish gupta,male,39,ahmedabad,gujarat,16-05-2026,21-07-2026,3,annual,basic,820,1958,debit card,yes,1,3,27,54,monthly,2,2,android phone,friend,no
+divya iyer,female,39,unknown,dl,02-08-2024,27-08-2026,31,monthly,basic,600,15300,credit card,no,1,0,19.7,30,daily,3,3,android phone,google,no
+pooja nair,male,32,unknown,karnataka,20-07-2026,16-08-2026,1,monthly,premium,1,1,bank transfer,yes,3,1,19.4,51,2-3 times/week,3,2,iphone,website,yes
+lakshmi devi,male,70,unknown,gujarat,21-05-2026,27-08-2026,12,annual,pro,1,4,debit card,yes,2,0,93.9,32,weekly,2,1,android phone,friend,yes
+sanjay kumar,female,18,delhi,delhi,28-07-2026,31-08-2026,12,monthly,basic,437,368,upi,yes,2,1,22.8,32,daily,4,3,android phone,google,no
+suresh babu,male,41,delhi,delhi,17-04-2026,27-08-2026,4,monthly,basic,576,2200,upi,yes,7,1,40.3,12,weekly,4,4,iphone,social media,no
+varun malhotra,female,35,thiruvananthapuram,kerala,29-12-2025,06-08-2026,12,monthly,pro,581,17044,upi,yes,2,1,23.2,86.5,weekly,4,4,android phone,website,no
+swathi reddy,female,55,trivandrum,kerala,28-02-2023,23-08-2026,42,annual,premium,900,37,credit card,yes,7,1,21.7,68,daily,5,5,android phone,social media,no
+swathi reddy,male,32,bengaluru,karnataka,24-03-2025,27-08-2026,17,monthly,premium,821,12,bank transfer,yes,2,1,21.2,54,rarely,4,4,android phone,website,no
+kiran das,female,42,delhi,dl,02-09-2021,29-08-2026,60,monthly,basic,399,22,bank transfer,yes,0,1,21.9,43,daily,3,2,mobile,friend,no
+nikhil joshi,female,28,unknown,andhra pradesh,28-06-2025,29-08-2026,14,annual,basic,659,7,credit card,yes,3,3,21.7,47,daily,3,3,android phone,social media,no
+meera nair,female,36,vadodara,gujarat,31-10-2025,27-08-2026,12,monthly,basic,450,4,credit card,yes,3,1,9.9,30.2,weekly,5,5,iphone,friend,yes
+kavya rao,female,21,unknown,kerala,13-07-2026,01-09-2026,1,two-year,basic,837,749,bank transfer,yes,3,2,33.7,28,rarely,3,3,android phone,friend,no
+suresh babu,female,28,unknown,tamil nadu,14-12-2022,23-08-2026,46,annual,basic,731,31,upi,no,7,1,16,72,daily,3,3,mobile,friend,yes
+harsha vardhan,male,56,guntur,andhra pradesh,27-07-2026,27-08-2026,1,monthly,basic,594,600,bank transfer,no,0,1,14.9,63,monthly,5,4,android phone,website,no
+rahul sharma,male,47,amd,gujarat,21-07-2026,23-08-2026,12,monthly,basic,850,700,debit card,no,1,1,73.3,48,weekly,4,4,android phone,social media,no
+ananya rao,female,33,kozhikode,kerala,19-08-2025,27-07-2026,12,monthly,premium,1,17700,debit card,yes,1,2,12.7,21,daily,1,1,iphone,friend,no
+sneha patel,male,35,delhi,delhi,21-01-2025,27-08-2026,19,annual,basic,435,8,credit card,yes,1,3,19.6,33.1,weekly,3,3,android phone,social media,yes
+amit shah,female,41,hubli,karnataka,09-02-2022,27-08-2026,55,monthly,pro,2,95,upi,no,2,1,21.7,42,daily,4,4,iphone,friend,no
+harsha vardhan,male,26,delhi,delhi,27-08-2025,29-08-2026,12,monthly,basic,855,8,credit card,yes,3,0,32.8,72,rarely,4,5,android phone,social media,yes
+priya reddy,male,19,delhi,dl,24-01-2025,29-08-2026,19,two-year,basic,687,11,upi,yes,2,2,45.3,72,weekly,3,3,iphone,advertisement,no
+vikram singh,female,35,delhi,dl,26-07-2025,09-01-2026,13,monthly,basic,517,353.5,credit card,yes,2,2,77.8,30,weekly,1,1,android phone,social media,yes
+aditya rao,male,35,nagpur,maharashtra,22-06-2024,27-08-2026,26,monthly,basic,461,10,bank transfer,yes,5,2,63.8,24,rarely,3,4,android phone,website,no
+ananya rao,male,26,thiruvananthapuram,kerala,19-06-2026,24-08-2026,12,annual,premium,803,1700,credit card,yes,4,1,8.8,61.5,monthly,3,4,android phone,social media,no
+lakshmi devi,female,45,unknown,unknown,08-02-2026,27-08-2026,6,monthly,basic,700,3906,debit card,yes,4,2,28.4,37.5,daily,3,4,android phone,website,no
+arjun kumar,male,38,trivandrum,kerala,13-03-2023,31-08-2026,42,annual,basic,581,353.5,credit card,no,0,0,10.4,18,rarely,4,4,laptop,google,no
+rahul sharma,female,39,rajkot,gujarat,19-07-2026,27-08-2026,1,two-year,pro,2,2500,bank transfer,yes,7,2,17.1,18,daily,5,5,mobile,advertisement,no
+pooja nair,male,23,pune,unknown,24-02-2026,27-08-2026,12,monthly,basic,731,3,upi,no,2,1,7.8,75.6,2-3 times/week,3,3,android phone,advertisement,no
+riya kapoor,male,64,delhi,delhi,10-05-2026,15-08-2026,3,monthly,premium,1,2900,credit card,yes,2,0,13.9,84,daily,3,3,iphone,google,no
+rahul sharma,female,37,nzb,telangana,30-07-2025,08-03-2026,13,monthly,basic,500,5,credit card,no,0,1,30.9,39,2-3 times/week,4,5,android phone,friend,no
+priya reddy,male,32,blr,karnataka,13-06-2026,13-08-2026,2,annual,premium,1,2,credit card,yes,6,1,22.3,6,monthly,3,4,mobile,advertisement,no
+kavya rao,male,19,salem,tamil nadu,31-07-2026,19-08-2026,1,monthly,premium,1,1,credit card,yes,5,2,21.7,65.6,daily,4,4,mobile,friend,yes
+suresh babu,female,23,kochi,kerala,09-08-2024,27-08-2026,25,monthly,basic,643,12,debit card,yes,3,1,46.5,48,daily,4,3,iphone,social media,no
+aditya rao,male,42,mumbai,maharashtra,29-07-2026,13-08-2026,1,monthly,premium,1,1309,debit card,yes,2,0,8,25.9,weekly,2,3,iphone,friend,no
+arjun kumar,female,47,mangaluru,karnataka,10-01-2026,29-08-2026,7,two-year,premium,872,4,bank transfer,yes,5,2,26,48,daily,3,3,mobile,friend,no
+rohit mehta,male,22,delhi,unknown,14-02-2024,26-07-2026,31,annual,premium,1493,49,upi,yes,3,2,23.2,15.6,weekly,5,5,iphone,website,no
+sanjay kumar,male,40,hyderabad,unknown,17-03-2026,27-08-2026,12,annual,premium,1100,5,bank transfer,yes,2,1,39.1,42,daily,4,5,android phone,google,no
+varun malhotra,male,35,vadodara,gujarat,13-07-2026,27-08-2026,1,annual,basic,465,407,bank transfer,yes,2,2,32.2,48,daily,4,3,android phone,friend,no
+rohit mehta,female,18,mangalore,karnataka,11-04-2024,29-08-2026,29,annual,pro,1,42700,credit card,no,4,0,22,28,monthly,3,4,iphone,advertisement,no
+suresh babu,male,39,kochi,kerala,03-01-2026,27-08-2026,8,monthly,basic,505,4092,credit card,yes,3,2,19.9,68.1,weekly,4,3,android phone,website,no
+aditya rao,male,40,delhi,delhi,25-04-2025,27-08-2026,12,monthly,basic,724,12,bank transfer,no,0,1,36.7,69,2-3 times/week,3,2,iphone,google,no
+nikhil joshi,female,35,madurai,tamil nadu,11-01-2026,27-08-2026,7,monthly,basic,837,5674,upi,yes,3,1,7.2,36,daily,4,3,android phone,friend,no
+nikhil joshi,female,31,madurai,tamil nadu,13-12-2022,27-08-2026,12,annual,pro,2,101,credit card,no,1,2,52.8,54,weekly,4,3,laptop,google,no
+vikram singh,female,41,salem,tamil nadu,29-03-2026,24-08-2026,12,monthly,basic,900,3900,debit card,yes,3,1,8.4,71.2,rarely,3,3,android phone,friend,no
+pooja nair,male,54,karimnagar,telangana,23-09-2024,24-08-2026,23,monthly,premium,1,21,debit card,yes,4,0,11.5,20,daily,4,5,android phone,friend,no
+manish gupta,female,49,unknown,unknown,11-04-2026,08-03-2026,4,monthly,basic,453,1,upi,yes,5,1,14.7,37,daily,4,4,mobile,website,no
+aditya rao,male,40,unknown,andhra pradesh,12-07-2026,30-08-2026,1,annual,basic,596,591,debit card,yes,3,0,33.8,38.7,weekly,3,3,mobile,friend,no
+pooja nair,male,37,nashik,maharashtra,16-05-2025,27-08-2026,15,monthly,pro,1,24800,credit card,yes,2,1,6,29,rarely,2,2,laptop,google,no
+aditya rao,male,33,baroda,gujarat,19-03-2026,27-08-2026,5,monthly,basic,471,1,debit card,yes,3,0,25.2,60,daily,3,2,android phone,social media,no
+nikhil joshi,male,26,mangaluru,unknown,25-07-2026,26-08-2026,1,annual,premium,1375,1,bank transfer,no,3,1,11,78.5,2-3 times/week,4,3,iphone,friend,no
+varun malhotra,female,23,delhi,delhi,18-04-2026,18-08-2026,12,monthly,pro,2,9,credit card,yes,2,1,25.2,34,weekly,2,3,laptop,social media,yes
+sanjay kumar,female,35,karimnagar,unknown,10-07-2024,26-08-2026,26,monthly,premium,1115,24665,bank transfer,yes,3,3,17.1,57,daily,3,2,mobile,social media,yes
+arjun kumar,female,46,thrissur,kerala,24-03-2026,27-08-2026,12,two-year,basic,866,4700,bank transfer,yes,5,1,20.6,67,monthly,3,3,mobile,google,no
+aditya rao,female,40,madurai,unknown,29-06-2026,25-08-2026,2,annual,basic,457,761,credit card,yes,4,1,21.4,16.4,daily,5,4,android phone,social media,no
+kiran das,male,51,delhi,unknown,17-01-2026,27-08-2026,7,annual,basic,625,4492,credit card,yes,1,4,39.2,53.6,2-3 times/week,1,2,mobile,google,no
+suresh babu,male,27,delhi,delhi,10-06-2026,27-08-2026,2,monthly,premium,1,2500,credit card,yes,0,2,19.1,30,rarely,3,3,iphone,friend,no
+riya kapoor,male,22,guntur,andhra pradesh,23-06-2026,28-08-2026,2,monthly,premium,949,1,credit card,yes,3,1,21.7,60,weekly,4,4,laptop,google,yes
+varun malhotra,male,47,salem,tamil nadu,21-04-2026,28-08-2026,4,monthly,basic,710,2636,credit card,yes,0,2,18.3,36,daily,3,2,android phone,google,no
+meera nair,female,33,blr,unknown,10-02-2026,10-08-2026,6,annual,premium,1,5,credit card,yes,2,2,8.4,31,daily,3,3,android phone,google,no
+pooja nair,female,35,pune,unknown,17-09-2024,25-08-2026,23,two-year,basic,603,14,debit card,yes,3,1,5.4,40,daily,4,4,android phone,friend,no
+meera nair,female,34,delhi,delhi,10-03-2025,27-08-2026,18,annual,basic,580,9,bank transfer,yes,1,1,9.8,42,monthly,3,3,android phone,social media,no
+kiran das,female,29,hubli,karnataka,03-04-2026,01-09-2026,5,annual,basic,556,2600,debit card,yes,3,1,40,56,weekly,4,4,iphone,google,no
+pooja nair,female,48,amd,gujarat,11-06-2026,07-08-2026,2,monthly,premium,822,1400,upi,yes,4,0,21.2,64,daily,4,4,laptop,google,no
+aditya rao,female,35,hyderabad,unknown,12-05-2026,31-08-2026,12,monthly,premium,1000,3,credit card,no,3,2,21.7,48,rarely,3,3,laptop,website,no
+rahul sharma,male,37,bengaluru,unknown,27-07-2026,31-07-2026,12,annual,basic,520,500,credit card,yes,2,1,46,36,daily,3,4,iphone,advertisement,no
+aditya rao,female,56,delhi,delhi,03-04-2022,31-08-2026,53,monthly,basic,756,35,credit card,no,7,1,20.9,75.5,monthly,4,3,iphone,google,no
+arjun kumar,male,39,unknown,maharashtra,15-06-2026,27-08-2026,2,two-year,basic,487,871,credit card,yes,4,1,17.7,66,daily,2,3,android phone,social media,yes
+amit shah,female,41,hubli,karnataka,09-02-2022,27-08-2026,55,monthly,pro,2,95,upi,no,2,1,21.7,42,daily,4,4,iphone,friend,no
+swathi reddy,female,34,cochin,unknown,09-05-2026,28-08-2026,3,monthly,basic,502,1,bank transfer,yes,3,1,2.3,33,monthly,3,3,iphone,google,no
+nikhil joshi,female,23,coimbatore,tamil nadu,13-11-2025,29-08-2026,9,monthly,pro,1,14,credit card,yes,3,0,11.6,48,rarely,2,1,iphone,website,no
+manish gupta,female,24,amd,gujarat,19-07-2026,30-08-2026,12,monthly,premium,1521,1200,bank transfer,yes,4,1,7.6,83,daily,4,4,mobile,social media,no
+ananya rao,female,23,surat,gujarat,25-07-2026,21-08-2026,12,monthly,basic,891,670,bank transfer,yes,1,0,15.8,32.2,daily,5,5,laptop,advertisement,no
+manish gupta,female,45,guntur,andhra pradesh,27-08-2026,27-08-2026,1,monthly,basic,464,473,credit card,yes,3,0,9.7,24,2-3 times/week,4,4,laptop,google,no
+harsha vardhan,female,52,hyderabad,telangana,29-07-2026,27-08-2026,12,monthly,premium,1400,1062,credit card,yes,4,1,18.3,53,weekly,2,1,iphone,social media,no
+lakshmi devi,male,32,salem,unknown,09-05-2026,27-08-2026,3,monthly,pro,1,4,upi,no,5,1,61.6,30,rarely,4,3,android phone,friend,no
+pooja nair,female,45,hubli,kar,26-07-2025,27-08-2026,13,monthly,pro,2345,353.5,debit card,yes,7,3,21.6,66,monthly,3,3,iphone,friend,no
+rahul sharma,female,18,kochi,kerala,16-05-2026,09-08-2026,3,monthly,basic,405,1,bank transfer,yes,1,1,24.8,63.4,2-3 times/week,3,3,mobile,friend,no
+kavya rao,female,34,unknown,kerala,02-03-2026,25-08-2026,6,two-year,basic,850,353.5,debit card,yes,1,2,24.4,33.3,weekly,3,4,android phone,friend,no
+meera nair,female,35,baroda,gujarat,25-07-2026,22-08-2026,12,monthly,basic,771,700,bank transfer,no,1,2,30.6,48,weekly,5,4,iphone,advertisement,no
+suresh babu,female,51,salem,tamil nadu,29-09-2024,27-08-2026,23,monthly,basic,557,10,credit card,yes,3,1,20.4,44,weekly,3,3,laptop,friend,no
+rahul sharma,male,19,coimbatore,tamil nadu,22-03-2024,29-08-2026,29,annual,premium,999,29,upi,yes,4,2,25.6,57,daily,1,2,iphone,friend,no
+suresh babu,male,40,rajkot,gujarat,26-06-2026,27-08-2026,2,two-year,pro,2,3,credit card,yes,4,1,52.1,56,daily,4,4,android phone,friend,no
+rahul sharma,female,47,nasik,maharashtra,25-07-2026,29-07-2026,1,monthly,basic,783,600,credit card,yes,4,1,15.6,54,rarely,3,3,android phone,google,no
+pooja nair,female,39,unknown,tamil nadu,29-01-2026,27-08-2026,7,monthly,basic,431,2,debit card,yes,3,2,78.1,30,weekly,5,4,mobile,advertisement,no
+ananya rao,female,22,unknown,kar,09-07-2026,30-08-2026,1,monthly,basic,700,353.5,bank transfer,yes,5,1,10.4,48,daily,4,5,laptop,social media,yes
+ananya rao,female,35,delhi,delhi,15-11-2022,27-08-2026,46,annual,pro,2,95300,credit card,no,3,1,28.2,42,rarely,2,3,android phone,google,no
+swathi reddy,male,40,unknown,tamil nadu,28-01-2024,24-07-2026,31,annual,basic,700,18,credit card,yes,2,1,58.6,58,daily,3,2,android phone,friend,no
+ananya rao,male,34,salem,tamil nadu,07-08-2026,27-08-2026,1,two-year,basic,581,747,credit card,no,2,2,20.4,43,daily,2,3,iphone,friend,yes
+rohit mehta,female,35,unknown,gujarat,17-06-2026,27-08-2026,12,monthly,basic,780,1,debit card,yes,4,1,24.9,55,weekly,3,4,mobile,friend,no
+harsha vardhan,female,36,unknown,andhra pradesh,06-12-2021,27-08-2026,57,two-year,basic,448,27,credit card,yes,1,1,8.5,41,daily,3,5,iphone,friend,no
+sanjay kumar,male,20,tirupati,andhra pradesh,17-05-2026,31-08-2026,3,two-year,basic,700,1,credit card,no,2,1,22.7,48,daily,4,5,laptop,google,no
+priya reddy,male,43,hyderabad,telangana,30-07-2026,27-08-2026,1,annual,premium,809,353.5,debit card,yes,2,1,60.1,54.3,weekly,3,2,mobile,social media,no
+pooja nair,female,50,delhi,delhi,21-05-2025,27-08-2026,15,monthly,premium,836,12,credit card,yes,1,0,79,50,daily,2,3,android phone,website,no
+harsha vardhan,male,26,nashik,maharashtra,25-04-2026,01-09-2026,4,annual,basic,581,2800,debit card,yes,4,1,7.9,18,daily,2,1,iphone,social media,no
+aditya rao,male,29,hyderabad,telangana,14-07-2022,27-08-2026,50,annual,basic,558,23664,credit card,yes,1,3,11.1,73,daily,4,4,iphone,friend,no
+sneha patel,male,42,chennai,tamil nadu,05-02-2025,29-07-2026,12,annual,basic,578,8,upi,yes,2,3,6,48,2-3 times/week,2,2,android phone,friend,no
+swathi reddy,female,35,unknown,maharashtra,17-04-2026,18-08-2026,4,monthly,pro,1,5,upi,yes,3,1,9.3,57,daily,4,4,iphone,social media,no
+amit shah,female,47,tirupati,unknown,25-12-2025,05-08-2026,12,annual,premium,1,8,bank transfer,no,1,1,38.9,54,daily,3,3,iphone,friend,no
+amit shah,male,39,kozhikode,kerala,28-07-2026,27-08-2026,1,two-year,basic,644,505,bank transfer,yes,6,0,7.8,63.3,weekly,3,4,android phone,google,yes
+rahul sharma,male,30,unknown,gujarat,19-07-2026,27-08-2026,12,monthly,premium,1,925,credit card,yes,4,2,16.6,60,daily,4,3,android phone,social media,yes
+amit shah,female,30,rajkot,gujarat,27-08-2026,27-08-2026,4,annual,basic,420,1,bank transfer,no,3,0,76.1,55,daily,3,3,iphone,friend,no
+manish gupta,female,32,nizamabad,telangana,31-07-2026,29-08-2026,1,two-year,premium,581,859,credit card,yes,4,2,6.5,59,monthly,5,5,android phone,website,no
+kiran das,male,39,mysuru,karnataka,02-08-2026,01-09-2026,1,monthly,premium,957,800,debit card,yes,5,2,25.2,48,daily,4,4,android phone,website,yes
+manish gupta,female,53,unknown,kar,22-05-2026,27-08-2026,3,monthly,premium,1,3,debit card,yes,3,1,21.7,64,daily,4,4,iphone,friend,no
+nikhil joshi,female,26,ahmedabad,gujarat,26-01-2025,03-08-2026,19,monthly,basic,581,14,credit card,yes,2,1,82.4,75,monthly,3,4,android phone,google,no
+neha verma,female,38,mysuru,karnataka,04-11-2026,29-08-2026,4,annual,pro,1,5,credit card,yes,0,1,18.2,55.1,2-3 times/week,5,4,laptop,friend,yes
+aditya rao,female,24,unknown,andhra pradesh,24-05-2026,28-07-2026,3,annual,basic,746,2300,debit card,yes,6,0,40.3,81,monthly,4,5,mobile,google,no
+meera nair,male,35,mysore,karnataka,22-12-2025,20-08-2026,12,monthly,basic,754,4,debit card,yes,9,1,20.7,48,rarely,3,2,android phone,google,no
+kavya rao,male,35,warangal,telangana,23-03-2025,29-08-2026,17,two-year,basic,600,10,debit card,yes,2,1,14,21,rarely,2,2,android phone,friend,yes
+pooja nair,male,39,thrissur,kerala,21-06-2026,09-08-2026,12,monthly,basic,768,1328,credit card,yes,3,0,43.2,37,weekly,4,4,iphone,google,no
+ananya rao,female,35,mangalore,unknown,03-03-2025,08-08-2026,18,monthly,pro,1933,36,debit card,yes,3,2,24.9,54,daily,2,3,iphone,friend,yes
+amit shah,female,33,karimnagar,telangana,16-05-2022,29-07-2026,52,two-year,premium,1,77,bank transfer,yes,1,1,23,59.2,weekly,3,4,android phone,friend,yes
+priya reddy,male,30,thiruvananthapuram,kerala,08-11-2024,23-08-2026,22,monthly,basic,800,15000,credit card,yes,1,0,12.3,61,daily,2,2,android phone,social media,no
+kavya rao,male,49,unknown,tamil nadu,22-07-2026,14-08-2026,1,monthly,premium,1,1,debit card,no,3,2,15.4,25.8,rarely,3,2,iphone,friend,no
+nikhil joshi,male,37,ahmedabad,gujarat,04-12-2024,13-08-2026,29,annual,premium,1,39,upi,no,2,0,16.9,58.8,weekly,3,2,android phone,friend,no
+rohit mehta,male,50,unknown,delhi,27-05-2026,27-08-2026,12,monthly,basic,730,2194,upi,yes,4,1,27.2,65.9,2-3 times/week,3,2,iphone,website,no
+pooja nair,male,31,rajkot,gujarat,15-10-2022,10-08-2026,47,monthly,premium,1,46,upi,no,1,1,6.5,50,2-3 times/week,4,3,iphone,friend,yes
+meera nair,male,55,unknown,andhra pradesh,06-05-2025,29-08-2026,16,monthly,basic,694,8,upi,yes,1,1,15.9,42.6,daily,4,4,android phone,advertisement,no
+lakshmi devi,female,37,ahmedabad,unknown,24-06-2026,01-09-2026,2,annual,basic,2,5,bank transfer,no,2,1,21.2,52,daily,3,2,android phone,friend,no
+sneha patel,female,48,visakhapatnam,andhra pradesh,03-10-2026,27-08-2026,5,monthly,premium,1100,5,debit card,yes,5,0,14.7,66,rarely,4,4,android phone,friend,yes
+ananya rao,male,49,delhi,delhi,29-04-2023,29-08-2026,40,monthly,pro,2,84,bank transfer,yes,4,2,10.1,61,2-3 times/week,2,2,android phone,google,no
+lakshmi devi,male,55,vijayawada,andhra pradesh,02-08-2026,27-08-2026,12,monthly,pro,2,2,upi,no,3,1,36.2,18,2-3 times/week,4,4,mobile,friend,no
+rohit mehta,male,41,salem,tamil nadu,22-08-2022,24-08-2026,49,two-year,premium,1,48295,debit card,yes,2,3,42.4,30,daily,4,3,laptop,friend,no
+aditya rao,female,47,bangalore,karnataka,28-06-2026,27-08-2026,2,monthly,basic,816,1,credit card,yes,1,3,5.9,54,daily,4,3,android phone,website,yes
+kiran das,female,32,nagpur,maharashtra,06-09-2026,30-08-2026,2,monthly,premium,1500,3,upi,yes,0,1,29.6,64,2-3 times/week,4,4,android phone,friend,yes
+nikhil joshi,male,38,mysuru,kar,22-05-2025,27-08-2026,15,two-year,basic,645,8700,credit card,yes,3,2,65.1,42,weekly,2,1,laptop,google,no
+riya kapoor,male,37,delhi,delhi,02-07-2026,27-08-2026,2,two-year,basic,500,946,bank transfer,yes,4,1,5.1,89.2,weekly,2,2,mobile,website,no
+neha verma,male,21,tirupati,unknown,27-08-2026,03-08-2026,1,annual,premium,986,773,debit card,yes,4,2,31.8,77.9,monthly,3,4,iphone,friend,no
+nikhil joshi,female,34,nizamabad,telangana,26-07-2026,01-09-2026,1,monthly,pro,1,1,debit card,yes,1,3,21.7,53,daily,4,4,android phone,google,no
+kiran das,female,52,unknown,unknown,26-03-2026,28-08-2026,5,annual,premium,581,6,bank transfer,yes,4,0,20,18,2-3 times/week,3,2,android phone,friend,no
+rohit mehta,male,32,rajkot,gujarat,28-06-2026,24-08-2026,12,monthly,premium,1,2,credit card,yes,3,3,35.9,85,rarely,3,4,android phone,advertisement,no
+amit shah,female,33,coimbatore,tamil nadu,06-04-2024,09-01-2026,29,monthly,premium,1,29047,debit card,yes,3,1,40.8,60.6,weekly,3,3,iphone,friend,no
+riya kapoor,female,23,nagpur,maharashtra,01-12-2023,30-08-2026,33,monthly,basic,700,20,bank transfer,no,4,1,25.4,72,2-3 times/week,4,4,android phone,friend,no
+aditya rao,male,35,mysuru,unknown,17-07-2026,08-11-2026,1,monthly,basic,804,841,bank transfer,yes,1,1,19.4,48,daily,3,3,iphone,social media,no
+divya iyer,male,51,mumbai,maharashtra,19-09-2025,27-08-2026,11,two-year,basic,581,3900,upi,no,3,0,70.1,56,daily,3,2,mobile,advertisement,no
+arjun kumar,male,33,tirupati,andhra pradesh,23-03-2026,25-08-2026,5,monthly,premium,1,7,upi,yes,1,3,41.1,44,daily,3,3,iphone,google,no
+rahul sharma,female,31,pune,maharashtra,27-01-2023,01-09-2026,43,monthly,premium,1,55300,bank transfer,no,7,1,15.5,48,weekly,3,3,laptop,google,no
+ananya rao,female,29,unknown,maharashtra,27-08-2026,24-08-2026,6,monthly,premium,942,5405,credit card,yes,5,3,19.2,70.7,weekly,4,4,mobile,social media,no
+sneha patel,female,51,mumbai,maharashtra,27-08-2026,27-08-2026,1,monthly,premium,1100,900,credit card,yes,4,2,25.7,32,weekly,2,2,iphone,social media,no
+harsha vardhan,male,39,rajkot,gujarat,13-09-2025,30-08-2026,11,annual,pro,1,14,bank transfer,no,0,0,35.6,12,daily,5,5,android phone,google,no
+lakshmi devi,male,35,unknown,kar,08-07-2026,29-08-2026,12,monthly,basic,653,596,credit card,yes,2,2,54.2,68,monthly,3,3,mobile,friend,no
+vikram singh,male,26,surat,gujarat,12-07-2026,27-08-2026,1,two-year,basic,422,322,bank transfer,yes,3,1,21.7,39.9,2-3 times/week,5,4,mobile,advertisement,no
+pooja nair,male,37,nagpur,maharashtra,15-10-2025,09-01-2026,10,two-year,pro,2,27,debit card,yes,3,4,73.3,37,rarely,5,5,android phone,google,no
+rahul sharma,male,43,unknown,andhra pradesh,04-04-2026,25-07-2026,12,two-year,premium,940,4,upi,yes,7,0,7,52,rarely,3,3,iphone,website,no
+aditya rao,male,61,delhi,delhi,01-02-2026,31-08-2026,7,two-year,basic,1,10,debit card,yes,2,1,28.2,86,daily,4,4,laptop,friend,no
+rahul sharma,male,40,hubli,karnataka,20-08-2025,09-01-2026,12,monthly,pro,2,18,credit card,yes,4,1,64.2,36,weekly,3,3,laptop,google,no
+divya iyer,female,39,kochi,kerala,14-08-2025,27-07-2026,12,annual,basic,773,8,credit card,no,3,1,18.3,21,weekly,3,3,android phone,google,no
+divya iyer,female,25,cbe,tamil nadu,05-11-2026,01-09-2026,3,monthly,pro,1,4,debit card,yes,4,1,44.2,72,monthly,2,2,android phone,friend,no
+riya kapoor,female,35,unknown,tamil nadu,13-07-2026,27-08-2026,1,monthly,pro,2,2,bank transfer,yes,2,2,26.2,39,daily,2,2,android phone,google,no
+sneha patel,female,18,warangal,telangana,21-11-2025,28-08-2026,9,two-year,premium,830,7484,credit card,yes,1,0,90.3,48,weekly,5,5,android phone,advertisement,no
+kiran das,male,52,guntur,andhra pradesh,28-01-2025,12-08-2026,19,monthly,basic,741,12,bank transfer,yes,3,1,6,9,2-3 times/week,5,5,android phone,social media,no
+varun malhotra,male,34,blr,karnataka,20-06-2025,24-08-2026,14,monthly,premium,1400,353.5,upi,yes,4,1,22.1,36,rarely,4,5,laptop,social media,no
+nikhil joshi,male,27,visakhapatnam,andhra pradesh,25-02-2026,27-08-2026,12,monthly,premium,1,5900,bank transfer,no,4,1,37.9,28,daily,3,3,laptop,google,no
+riya kapoor,male,41,trivandrum,kerala,28-04-2023,27-08-2026,40,annual,premium,1,353.5,bank transfer,yes,6,1,15,82.4,weekly,3,2,laptop,friend,no
+vikram singh,male,37,warangal,telangana,21-02-2025,24-08-2026,18,annual,premium,1,20,upi,yes,4,1,30.2,38,monthly,4,4,iphone,social media,no
+nikhil joshi,female,18,bangalore,karnataka,03-07-2025,27-08-2026,18,monthly,premium,1,353.5,upi,yes,3,1,35.2,55,monthly,3,3,android phone,google,yes
+neha verma,female,38,nasik,maharashtra,24-06-2026,27-08-2026,2,monthly,premium,1,353.5,upi,yes,3,1,54,10.2,daily,3,3,iphone,google,yes
+amit shah,male,51,hyderabad,telangana,19-12-2025,27-08-2026,8,monthly,basic,506,3232,bank transfer,yes,2,1,2.5,60,monthly,3,4,android phone,website,no
+kiran das,female,33,kozhikode,kerala,25-07-2026,09-01-2026,1,annual,premium,1,1,credit card,yes,4,1,21.7,32,daily,3,2,android phone,social media,no
+harsha vardhan,male,18,mangalore,karnataka,03-01-2026,27-08-2026,8,annual,premium,803,6200,credit card,yes,1,3,4.7,41.6,daily,3,3,android phone,friend,no
+arjun kumar,female,29,madurai,tamil nadu,17-07-2026,15-08-2026,1,monthly,pro,2,2081,bank transfer,yes,0,1,54.2,61,daily,2,2,iphone,social media,no
+suresh babu,female,30,mangalore,karnataka,13-02-2026,31-08-2026,12,monthly,premium,581,5,credit card,no,4,2,35.6,41,monthly,2,2,android phone,website,yes
+amit shah,female,35,ahmedabad,gujarat,27-08-2026,29-08-2026,23,monthly,premium,1,21527,bank transfer,yes,4,1,21.7,62,weekly,4,3,android phone,friend,no
+vikram singh,female,34,pune,maharashtra,31-07-2026,27-08-2026,1,two-year,premium,581,1059,bank transfer,no,3,1,29.9,84,weekly,3,4,iphone,advertisement,no
+sneha patel,male,63,mangalore,unknown,11-03-2026,27-08-2026,5,monthly,basic,507,2,credit card,yes,9,1,21.7,63.2,daily,5,4,mobile,google,no
+nikhil joshi,male,43,delhi,unknown,20-04-2026,28-08-2026,4,annual,basic,728,2800,credit card,yes,6,2,10.8,48,rarely,5,4,android phone,advertisement,no
+amit shah,female,23,unknown,tamil nadu,18-01-2025,15-08-2026,19,monthly,premium,1,25171,debit card,no,4,1,37.3,62,monthly,4,5,android phone,social media,no
+rohit mehta,female,35,nizamabad,telangana,27-08-2026,16-08-2026,4,monthly,premium,1,4,bank transfer,yes,2,1,30.6,49,daily,3,3,android phone,friend,no
+priya reddy,male,23,cochin,kerala,27-07-2026,29-08-2026,1,monthly,basic,565,519,credit card,yes,3,1,11.6,70.7,daily,3,3,android phone,google,no
+lakshmi devi,male,18,unknown,tamil nadu,05-06-2025,22-08-2026,15,annual,basic,1,19040,bank transfer,yes,1,1,86.2,18.5,daily,3,3,android phone,social media,no
+varun malhotra,female,31,vijayawada,andhra pradesh,13-05-2024,28-08-2026,28,monthly,basic,847,23314,bank transfer,yes,6,2,21.1,42.3,daily,3,3,iphone,friend,yes
+neha verma,female,33,unknown,gujarat,18-01-2026,29-08-2026,7,monthly,premium,1,7,credit card,yes,3,3,4.8,34.4,daily,4,3,iphone,google,no
+lakshmi devi,male,43,kozhikode,unknown,21-07-2026,18-07-2026,12,monthly,pro,581,1,credit card,yes,3,2,31.7,33.9,weekly,3,4,android phone,google,no
+varun malhotra,female,33,delhi,delhi,27-07-2026,16-08-2026,1,monthly,premium,1,989,upi,yes,1,4,16.9,51,monthly,4,4,mobile,friend,yes
+sneha patel,female,21,calicut,kerala,12-10-2022,01-09-2026,12,monthly,premium,1335,48,upi,yes,2,0,79.7,24,weekly,5,4,android phone,advertisement,no
+manish gupta,female,40,unknown,maharashtra,31-12-2024,24-08-2026,20,annual,basic,581,9600,credit card,yes,0,4,24.5,61.5,monthly,4,3,android phone,friend,no
+riya kapoor,male,28,unknown,kerala,09-07-2026,30-08-2026,12,monthly,basic,573,608,debit card,yes,2,4,24.8,64.3,2-3 times/week,3,3,laptop,friend,no
+harsha vardhan,male,35,kochi,unknown,04-04-2026,24-07-2026,5,annual,premium,1,4,upi,yes,4,2,18.6,51.8,daily,3,2,android phone,google,yes
+meera nair,female,34,kochi,unknown,30-07-2026,11-08-2026,12,annual,basic,619,500,credit card,yes,3,1,25.5,40.7,weekly,3,4,android phone,friend,no
+varun malhotra,male,32,unknown,tamil nadu,13-07-2026,29-08-2026,1,monthly,pro,2,2800,credit card,yes,1,3,40.1,48,weekly,4,5,iphone,google,yes
+nikhil joshi,male,30,pune,maharashtra,31-01-2026,27-08-2026,12,monthly,premium,965,6,credit card,yes,1,1,20.4,49,2-3 times/week,4,3,iphone,social media,no
+suresh babu,female,33,unknown,maharashtra,31-01-2026,01-09-2026,12,two-year,pro,1987,13,debit card,yes,1,2,19.1,39,monthly,3,3,mobile,website,no
+priya reddy,male,36,surat,unknown,24-01-2026,31-08-2026,7,monthly,premium,970,6,bank transfer,no,2,1,13.7,26,daily,4,3,iphone,friend,no
+kiran das,female,46,cbe,tamil nadu,29-09-2023,27-08-2026,35,monthly,premium,1,39388,bank transfer,yes,4,0,27.6,49,daily,4,3,android phone,friend,no
+kavya rao,female,41,delhi,unknown,27-02-2023,16-08-2026,42,monthly,basic,783,27800,credit card,yes,2,2,26.1,40,rarely,2,2,android phone,friend,no
+nikhil joshi,male,35,tirupati,andhra pradesh,19-06-2026,27-08-2026,12,monthly,premium,581,3,credit card,yes,2,1,42.2,73,monthly,3,3,android phone,friend,no
+manish gupta,female,31,rajkot,gujarat,13-07-2025,22-08-2026,13,two-year,pro,1,18300,credit card,yes,3,2,10.1,66,rarely,4,3,laptop,social media,no
+kiran das,female,27,unknown,tamil nadu,15-07-2026,20-08-2026,1,monthly,premium,819,700,debit card,no,2,0,32,83.4,weekly,3,3,android phone,social media,no
+priya reddy,male,49,hyderabad,telangana,10-04-2026,25-08-2026,4,monthly,basic,593,2,upi,yes,3,4,21.7,30,weekly,2,2,android phone,social media,no
+meera nair,female,40,vijayawada,unknown,26-06-2026,25-07-2026,12,annual,premium,844,1600,debit card,no,6,1,13,51,weekly,4,5,mobile,google,no
+riya kapoor,male,36,delhi,delhi,09-06-2026,26-08-2026,2,annual,pro,2160,3835,upi,yes,4,2,30.8,57,daily,3,3,iphone,friend,no
+swathi reddy,female,38,tirupati,andhra pradesh,20-06-2026,27-08-2026,12,two-year,pro,1800,3,credit card,yes,2,3,12.5,12,daily,3,3,mobile,social media,no
+suresh babu,female,50,unknown,unknown,19-03-2022,27-08-2026,54,annual,premium,1400,66000,credit card,yes,4,3,9.8,90,rarely,4,4,iphone,friend,no
+lakshmi devi,female,47,nizamabad,telangana,08-01-2026,15-08-2026,12,annual,basic,543,500,bank transfer,yes,0,0,25.4,65,monthly,3,4,android phone,friend,no
+pooja nair,male,35,trivandrum,kerala,20-06-2026,31-08-2026,2,monthly,basic,624,998,debit card,yes,5,1,6.4,18,monthly,3,5,android phone,social media,no
+kavya rao,female,28,thiruvananthapuram,kerala,11-02-2026,26-08-2026,6,monthly,premium,803,353.5,debit card,no,1,0,23.2,58,weekly,4,5,iphone,social media,no
+kiran das,female,39,nashik,maharashtra,22-05-2026,27-08-2026,3,annual,basic,524,1,bank transfer,yes,2,1,49.4,54,weekly,4,4,android phone,advertisement,no
+priya reddy,male,23,coimbatore,unknown,16-05-2026,25-08-2026,12,monthly,basic,500,1,upi,yes,5,1,27.3,18,weekly,4,4,mobile,advertisement,no
+amit shah,female,41,pune,maharashtra,06-11-2022,18-08-2026,46,monthly,premium,1000,39400,bank transfer,no,0,4,31.9,54,rarely,4,3,laptop,social media,no
+rohit mehta,male,48,thrissur,kerala,21-10-2022,12-07-2026,47,monthly,premium,815,41,upi,yes,3,1,42.2,44,rarely,3,3,iphone,friend,no
+varun malhotra,female,33,unknown,karnataka,03-02-2026,09-01-2026,7,annual,pro,1,11300,upi,yes,2,2,5,35,2-3 times/week,4,3,iphone,friend,no
+sneha patel,female,35,visakhapatnam,andhra pradesh,11-10-2025,27-08-2026,12,monthly,basic,812,6,debit card,yes,5,1,10.3,78,daily,3,3,android phone,google,yes
+ananya rao,male,31,warangal,telangana,30-06-2025,03-08-2026,14,two-year,basic,600,7900,bank transfer,yes,3,1,39.6,30.5,rarely,3,2,android phone,friend,no
+harsha vardhan,female,56,madurai,tamil nadu,27-07-2026,22-08-2026,1,monthly,basic,581,1,debit card,no,4,1,31.6,50,2-3 times/week,4,5,iphone,friend,no
+vikram singh,male,25,karimnagar,telangana,30-11-2024,20-08-2026,12,monthly,basic,578,13,credit card,no,1,0,54,60,2-3 times/week,2,2,android phone,google,no
+lakshmi devi,male,49,bom,maharashtra,22-09-2023,29-08-2026,35,monthly,basic,719,21599,credit card,yes,5,0,13,65.9,weekly,4,5,iphone,google,yes
+ananya rao,male,45,vadodara,gujarat,15-06-2023,30-08-2026,39,monthly,premium,1,52600,upi,yes,3,1,8.2,5,daily,3,3,laptop,friend,no
+kiran das,male,31,nzb,telangana,27-07-2026,27-08-2026,1,monthly,basic,803,667,bank transfer,no,5,1,46.3,54.6,daily,3,3,mobile,friend,no
+swathi reddy,female,41,vadodara,gujarat,02-04-2026,21-08-2026,5,monthly,premium,1,6622,bank transfer,yes,2,2,4.7,12,daily,4,3,android phone,friend,no
+varun malhotra,male,37,hubballi,unknown,19-06-2022,26-08-2026,51,annual,premium,1,73,debit card,no,2,1,11.7,42,daily,3,2,android phone,website,no
+harsha vardhan,male,51,cbe,tamil nadu,19-02-2026,29-08-2026,6,annual,basic,871,4,upi,yes,2,1,15.5,22.9,rarely,4,4,laptop,social media,no
+harsha vardhan,male,35,pune,maharashtra,23-02-2026,27-08-2026,6,monthly,basic,843,5,debit card,yes,1,1,16.3,78,2-3 times/week,3,4,iphone,social media,yes
+suresh babu,male,44,vadodara,gujarat,14-07-2026,27-08-2026,1,annual,basic,800,353.5,upi,yes,3,1,91.6,48,weekly,3,3,android phone,social media,no
+kavya rao,female,31,trivandrum,unknown,28-06-2026,29-08-2026,2,annual,basic,865,1,bank transfer,yes,3,3,5.7,29,daily,4,4,iphone,friend,no
+neha verma,female,33,vijayawada,andhra pradesh,24-04-2025,17-08-2026,16,annual,basic,890,11,upi,no,3,0,19.1,84,weekly,5,5,android phone,friend,yes
+divya iyer,female,42,salem,tamil nadu,26-04-2026,27-08-2026,12,monthly,premium,1300,4,bank transfer,no,6,2,17.4,46,2-3 times/week,3,3,android phone,friend,no
+amit shah,female,41,baroda,gujarat,28-02-2025,16-08-2026,18,monthly,basic,529,10,credit card,no,4,1,40.8,42.6,weekly,2,1,android phone,social media,no
+aditya rao,female,32,unknown,tamil nadu,09-07-2026,02-08-2026,1,monthly,pro,2393,2000,credit card,no,4,3,38.6,48,monthly,3,2,iphone,friend,yes
+rahul sharma,male,29,unknown,telangana,01-08-2026,10-07-2026,1,two-year,premium,1,1,debit card,no,2,1,41.2,54,daily,3,2,laptop,website,yes
+vikram singh,male,48,surat,gujarat,16-07-2026,20-08-2026,1,monthly,pro,2,1,bank transfer,yes,1,5,21.7,38,2-3 times/week,3,3,android phone,friend,yes
+harsha vardhan,male,58,thrissur,kerala,27-05-2024,26-08-2026,27,annual,basic,425,9,upi,yes,4,3,19.8,62,daily,2,1,iphone,google,yes
+pooja nair,female,20,warangal,telangana,26-11-2025,27-08-2026,12,monthly,basic,464,3,upi,yes,4,1,25.1,18,weekly,3,2,android phone,advertisement,no
+nikhil joshi,male,38,thrissur,unknown,26-03-2026,27-08-2026,5,monthly,premium,1,4,credit card,no,1,0,6.3,38,weekly,3,3,laptop,friend,no
+kiran das,male,28,nashik,maharashtra,09-06-2026,27-08-2026,2,monthly,pro,1,3231,upi,yes,4,1,5.4,54.2,2-3 times/week,3,4,android phone,advertisement,yes
+arjun kumar,female,30,visakhapatnam,andhra pradesh,25-04-2026,25-08-2026,4,monthly,premium,1197,4300,upi,yes,0,0,18.7,45,monthly,4,5,android phone,friend,no
+nikhil joshi,female,46,coimbatore,tamil nadu,30-05-2026,27-08-2026,12,monthly,basic,700,2300,upi,yes,1,1,13.6,38,rarely,5,4,android phone,google,no
+lakshmi devi,female,41,thrissur,unknown,15-03-2026,21-08-2026,12,monthly,premium,872,4246,debit card,no,6,2,14.9,86,weekly,4,3,iphone,social media,yes
+kiran das,female,32,tirupati,andhra pradesh,18-05-2025,23-08-2026,15,monthly,basic,627,9,upi,no,4,1,26.7,25.5,monthly,4,5,android phone,social media,no
+amit shah,female,61,vijayawada,andhra pradesh,28-07-2026,13-08-2026,1,annual,premium,1286,1,credit card,yes,1,1,24.6,106,daily,3,2,laptop,google,no
+vikram singh,male,32,unknown,gujarat,17-11-2022,26-08-2026,46,two-year,basic,607,22,upi,no,6,1,57.7,66,daily,2,3,mobile,friend,no
+amit shah,male,25,chennai,tamil nadu,20-11-2025,18-08-2026,12,monthly,basic,445,3100,debit card,yes,4,1,8.1,60,daily,3,4,iphone,website,no
+divya iyer,female,18,karimnagar,telangana,12-06-2026,08-08-2026,2,annual,premium,800,1,credit card,yes,3,0,47.1,59,daily,3,4,iphone,friend,yes
+amit shah,female,28,ahmedabad,gujarat,10-08-2023,27-08-2026,37,monthly,basic,800,353.5,upi,no,7,1,6.5,60,monthly,4,4,android phone,friend,no
+amit shah,male,41,thrissur,kerala,26-08-2024,20-08-2026,24,monthly,basic,500,9,credit card,yes,1,3,15.4,49.6,daily,5,5,iphone,advertisement,yes
+rahul sharma,female,19,coimbatore,tamil nadu,16-07-2026,28-08-2026,1,two-year,basic,896,800,upi,yes,3,1,83.7,52,daily,4,4,android phone,friend,no
+varun malhotra,male,28,thrissur,kerala,04-09-2021,09-01-2026,60,two-year,premium,852,43800,credit card,yes,2,1,11.7,24,rarely,2,1,iphone,friend,no
+riya kapoor,male,27,unknown,andhra pradesh,24-07-2026,22-08-2026,1,monthly,pro,2,3,upi,no,4,1,9.7,83.9,2-3 times/week,3,3,android phone,advertisement,no
+lakshmi devi,female,39,karimnagar,unknown,18-07-2026,27-08-2026,12,monthly,premium,1,1200,debit card,yes,2,1,22.5,18,weekly,3,3,iphone,friend,no
+sneha patel,male,26,trivandrum,kerala,09-07-2026,27-08-2026,12,annual,pro,2,2700,debit card,yes,2,1,21.7,52.2,daily,4,3,laptop,website,no
+kiran das,female,35,unknown,gujarat,29-06-2026,27-08-2026,2,monthly,premium,1000,1614,credit card,yes,4,1,25.5,54,weekly,4,3,iphone,friend,no
+manish gupta,male,34,delhi,delhi,27-04-2025,23-08-2026,16,monthly,basic,430,7000,credit card,yes,2,1,38.1,54,weekly,3,4,android phone,social media,no
+pooja nair,female,39,unknown,delhi,15-07-2026,26-08-2026,12,annual,basic,551,419,debit card,yes,3,1,19.3,67.7,weekly,4,3,android phone,social media,no
+kavya rao,male,41,unknown,karnataka,15-05-2026,30-08-2026,3,monthly,basic,800,2000,upi,yes,3,0,21.7,56,daily,5,4,iphone,advertisement,no
+sanjay kumar,male,35,baroda,gujarat,23-02-2026,31-08-2026,6,monthly,pro,2,18500,credit card,yes,1,0,8.7,57,daily,3,4,iphone,google,no
+manish gupta,female,57,hyderabad,unknown,23-02-2026,27-08-2026,12,annual,basic,777,4852,upi,yes,1,2,23.7,36,monthly,2,3,mobile,google,no
+lakshmi devi,female,28,karimnagar,telangana,10-12-2023,19-08-2026,33,annual,basic,838,29700,bank transfer,no,0,1,20.7,82,rarely,2,3,android phone,website,no
+neha verma,female,38,salem,tamil nadu,25-06-2026,28-07-2026,12,annual,basic,600,1228,credit card,yes,1,1,23.5,67,weekly,4,5,android phone,social media,no
+neha verma,male,39,mysuru,karnataka,24-02-2025,07-08-2026,18,annual,pro,2,42080,credit card,yes,6,1,19.5,48,rarely,5,5,mobile,website,no
+rohit mehta,female,40,unknown,unknown,31-03-2026,27-08-2026,5,annual,pro,1,9100,debit card,yes,2,2,11.2,81,rarely,4,3,android phone,social media,no
+pooja nair,female,58,mumbai,maharashtra,25-04-2022,27-08-2026,53,two-year,premium,1,353.5,bank transfer,yes,2,1,72.6,66,monthly,5,5,laptop,friend,no
+meera nair,female,59,salem,unknown,20-01-2026,01-09-2026,12,monthly,premium,1,6745,bank transfer,yes,2,2,12.5,36,rarely,3,5,android phone,friend,no
+aditya rao,male,25,tirupati,unknown,25-02-2026,28-08-2026,6,monthly,basic,752,4,upi,yes,3,1,14.1,54.4,weekly,3,3,android phone,friend,yes
+arjun kumar,male,37,hyderabad,telangana,26-12-2025,29-08-2026,12,annual,premium,1,9112,credit card,yes,5,1,32.5,44,daily,2,3,android phone,google,no
+rahul sharma,male,28,delhi,delhi,07-04-2022,09-08-2026,50,monthly,premium,1229,63644,debit card,yes,2,0,45.2,49.1,monthly,3,3,android phone,friend,no
+sanjay kumar,female,35,ahmedabad,gujarat,30-12-2025,23-08-2026,8,annual,basic,709,4,upi,yes,3,1,7.2,47,daily,3,3,mobile,friend,no
+rahul sharma,female,40,unknown,tamil nadu,29-08-2024,10-07-2026,24,annual,pro,2,63,bank transfer,no,4,1,21.7,54,daily,2,1,laptop,google,yes
+nikhil joshi,male,29,surat,gujarat,28-07-2026,29-08-2026,1,monthly,basic,509,395,credit card,yes,2,2,21.7,18,daily,3,3,android phone,friend,yes
+priya reddy,male,48,delhi,dl,20-04-2026,25-08-2026,12,annual,basic,581,2400,credit card,yes,3,1,21.7,55.7,monthly,3,4,mobile,friend,no
+amit shah,male,29,unknown,tamil nadu,31-07-2026,01-07-2026,1,monthly,basic,811,657,credit card,yes,1,0,20.5,38,daily,4,5,laptop,website,yes
+neha verma,female,35,unknown,karnataka,11-07-2024,27-08-2026,22,two-year,basic,581,13198,bank transfer,yes,3,0,24.6,41,monthly,3,2,android phone,website,no
+aditya rao,female,59,nashik,maharashtra,16-04-2026,26-08-2026,12,monthly,pro,2700,11,credit card,no,4,3,16.8,38.8,rarely,2,3,laptop,social media,yes
+swathi reddy,female,35,nashik,maharashtra,01-11-2025,23-08-2026,10,monthly,basic,896,353.5,upi,yes,1,1,28.9,69,2-3 times/week,5,3,laptop,advertisement,no
+riya kapoor,male,22,guntur,unknown,09-07-2026,29-08-2026,1,two-year,premium,1,973,upi,yes,3,3,16.4,53,monthly,3,2,android phone,friend,no
+priya reddy,male,36,mangaluru,unknown,22-12-2023,31-08-2026,32,monthly,premium,1,38,upi,yes,2,2,4.1,30,weekly,4,4,laptop,friend,no
+rohit mehta,male,44,mysuru,unknown,29-07-2026,27-08-2026,1,annual,premium,952,1000,bank transfer,yes,2,1,39.8,5,weekly,3,3,android phone,google,no
+sanjay kumar,male,18,hyd,telangana,19-07-2026,31-08-2026,1,monthly,basic,500,504,credit card,yes,4,1,17.7,35.4,weekly,4,4,android phone,google,no
+riya kapoor,female,28,guntur,andhra pradesh,11-12-2025,27-08-2026,8,two-year,basic,403,2,credit card,yes,1,1,13.3,47,daily,3,4,iphone,google,yes
+kavya rao,male,58,surat,gujarat,20-06-2026,25-08-2026,2,two-year,basic,621,980,bank transfer,yes,6,1,21.7,42,weekly,5,5,android phone,friend,no
+rahul sharma,female,47,unknown,gujarat,23-02-2026,27-08-2026,12,annual,premium,1,7,upi,no,3,1,45.1,54,rarely,4,5,iphone,advertisement,no
+nikhil joshi,female,34,madras,tamil nadu,13-07-2026,11-07-2026,12,monthly,basic,536,523,debit card,yes,2,2,89.7,48,daily,2,1,android phone,friend,no
+sanjay kumar,male,29,nashik,maharashtra,21-07-2026,28-08-2026,1,two-year,basic,751,708,credit card,yes,2,1,11.2,48,2-3 times/week,3,3,iphone,social media,no
+neha verma,female,63,bangalore,kar,23-11-2025,30-08-2026,9,monthly,basic,799,7,credit card,no,6,1,61.7,80.8,daily,5,5,mobile,website,yes
+kavya rao,female,37,rajkot,gujarat,09-06-2026,30-07-2026,2,annual,basic,898,1,credit card,yes,4,2,19.7,48,weekly,2,2,iphone,social media,no
+swathi reddy,male,42,hyderabad,telangana,31-07-2026,24-08-2026,1,annual,basic,450,358,debit card,no,3,3,16.5,84,2-3 times/week,3,3,android phone,friend,no
+kavya rao,female,50,delhi,delhi,27-08-2026,19-08-2026,15,annual,premium,959,13684,debit card,yes,3,1,59.3,75.9,rarely,2,1,mobile,friend,no
+suresh babu,male,49,mumbai,maharashtra,23-07-2026,17-08-2026,1,monthly,premium,1,1180,bank transfer,yes,2,1,26.4,60,rarely,5,5,android phone,friend,no
+riya kapoor,male,29,calicut,kerala,23-07-2026,27-08-2026,1,two-year,premium,1,1298,bank transfer,yes,1,1,25,48,daily,3,3,iphone,website,no
+swathi reddy,male,18,vizag,unknown,27-06-2026,27-08-2026,2,monthly,basic,553,1,credit card,yes,5,2,5.3,47.5,rarely,4,5,iphone,friend,no
+meera nair,female,38,vizag,andhra pradesh,03-11-2026,04-08-2026,12,monthly,basic,613,2500,debit card,no,4,1,44.1,28,weekly,3,4,iphone,friend,no
+manish gupta,female,30,nzb,unknown,18-07-2026,09-01-2026,12,two-year,premium,1,878,bank transfer,no,3,2,22.5,48,2-3 times/week,5,5,laptop,friend,no
+varun malhotra,female,28,unknown,telangana,31-05-2023,25-08-2026,39,annual,basic,815,353.5,credit card,yes,3,2,16.6,55,monthly,2,3,mobile,friend,yes
+arjun kumar,female,40,delhi,delhi,01-11-2026,27-08-2026,7,annual,basic,800,5234,credit card,yes,1,1,11.2,90,weekly,3,4,iphone,friend,no
+swathi reddy,female,36,vijayawada,andhra pradesh,14-07-2026,08-10-2026,1,annual,basic,415,399,bank transfer,yes,3,3,35.3,48,weekly,3,4,laptop,friend,no
+kavya rao,female,29,vijayawada,andhra pradesh,01-01-2026,27-08-2026,12,annual,premium,1,353.5,bank transfer,no,0,1,16.5,30,daily,4,3,laptop,google,no
+aditya rao,female,26,karimnagar,telangana,13-03-2023,27-08-2026,42,monthly,basic,483,16,credit card,yes,1,2,22.9,65,rarely,3,3,iphone,website,no
+riya kapoor,male,44,salem,tamil nadu,26-05-2025,21-08-2026,15,annual,basic,626,353.5,credit card,yes,4,1,18.9,53.5,daily,2,3,iphone,website,no
+priya reddy,female,23,unknown,andhra pradesh,20-11-2025,27-08-2026,9,monthly,pro,2,23294,debit card,yes,1,1,57.6,41,weekly,3,3,android phone,friend,no
+meera nair,female,38,salem,tamil nadu,23-12-2025,27-08-2026,12,monthly,pro,2,353.5,credit card,no,4,5,21.7,48,daily,4,4,laptop,social media,yes
+divya iyer,female,43,tirupati,andhra pradesh,30-10-2025,12-07-2026,12,annual,premium,1,8400,bank transfer,yes,6,1,7.7,22,rarely,4,3,iphone,website,no
+harsha vardhan,male,44,bangalore,karnataka,30-06-2026,27-08-2026,2,monthly,premium,1,2500,debit card,yes,4,1,14.3,54,rarely,5,5,android phone,advertisement,yes
+rahul sharma,male,20,tirupati,andhra pradesh,10-07-2026,22-08-2026,12,monthly,premium,1038,1110,debit card,yes,1,2,46.3,20.6,daily,5,5,iphone,website,no
+sanjay kumar,female,35,thrissur,kerala,16-06-2026,27-08-2026,2,annual,pro,2,5888,credit card,yes,0,1,30.6,87,weekly,3,3,laptop,friend,no
+swathi reddy,female,18,unknown,tamil nadu,09-06-2026,16-08-2026,2,monthly,premium,1,2202,credit card,no,6,0,21.7,35,rarely,4,4,android phone,google,no
+sanjay kumar,male,33,unknown,gujarat,11-07-2026,01-09-2026,1,annual,basic,700,700,debit card,yes,3,1,36.7,78.6,rarely,3,4,mobile,social media,no
+varun malhotra,male,35,unknown,telangana,11-07-2026,01-09-2026,1,annual,premium,1,1359,debit card,yes,2,2,21.7,62,rarely,5,5,android phone,advertisement,yes
+kiran das,male,43,pune,maharashtra,14-07-2025,29-08-2026,13,annual,pro,2,35,bank transfer,yes,4,3,14.9,48,rarely,4,3,android phone,website,no
+rohit mehta,male,21,ahmedabad,gujarat,01-07-2024,13-08-2026,26,two-year,basic,748,16,upi,yes,2,1,16,36.1,weekly,3,4,laptop,friend,no
+lakshmi devi,male,34,salem,tamil nadu,07-02-2022,26-08-2026,55,annual,pro,2,117,credit card,yes,6,3,12.5,47,rarely,3,3,android phone,friend,no
+neha verma,male,46,mangalore,karnataka,16-12-2022,27-08-2026,45,monthly,basic,470,20058,credit card,no,5,1,30.2,72,2-3 times/week,4,4,android phone,advertisement,no
+meera nair,male,18,kochi,kerala,24-07-2026,07-08-2026,1,annual,basic,455,400,debit card,yes,4,0,60.1,90,rarely,5,3,iphone,google,yes
+ananya rao,male,35,mangaluru,karnataka,29-06-2026,24-08-2026,2,monthly,basic,782,1200,debit card,yes,4,1,13.2,48,2-3 times/week,4,4,android phone,website,no
+pooja nair,female,42,unknown,maharashtra,10-06-2026,09-07-2026,2,two-year,basic,487,916,credit card,no,2,2,17.5,30,weekly,3,4,android phone,google,no
+arjun kumar,male,35,delhi,unknown,24-07-2026,23-08-2026,12,monthly,premium,1,1600,debit card,yes,1,3,35.9,42,daily,3,4,android phone,friend,no
+varun malhotra,female,38,nashik,unknown,26-07-2024,22-07-2026,25,monthly,basic,400,8529,debit card,no,2,2,83.7,73,weekly,3,3,android phone,social media,no
+aditya rao,male,40,guntur,andhra pradesh,25-07-2026,30-08-2026,1,monthly,premium,839,893,credit card,yes,2,2,21.7,61,weekly,3,3,android phone,friend,no
+meera nair,female,46,hyd,telangana,12-07-2026,01-09-2026,1,monthly,pro,581,353.5,credit card,yes,5,3,6.4,58,daily,4,4,android phone,friend,no
+vikram singh,male,32,mumbai,maharashtra,24-01-2022,15-08-2026,56,monthly,premium,1,79530,debit card,yes,5,2,8.3,54,2-3 times/week,4,3,mobile,social media,yes
+harsha vardhan,male,32,surat,gujarat,08-02-2026,28-08-2026,12,annual,premium,581,838,credit card,no,7,1,42.6,89,daily,3,3,android phone,friend,no
+sanjay kumar,male,42,madras,tamil nadu,03-07-2026,27-08-2026,2,monthly,basic,400,676,credit card,no,4,0,86.3,48,2-3 times/week,5,5,laptop,website,no
+varun malhotra,female,35,warangal,unknown,15-07-2026,01-09-2026,1,annual,premium,1,995,upi,yes,3,0,21.7,96,daily,2,2,laptop,friend,no
+vikram singh,male,44,guntur,andhra pradesh,13-07-2026,27-08-2026,1,monthly,basic,900,800,debit card,yes,1,2,16.1,37,rarely,2,3,android phone,google,no
+arjun kumar,male,18,delhi,dl,27-10-2025,31-08-2026,10,monthly,premium,1,12,debit card,yes,2,1,12.9,48,daily,5,5,mobile,advertisement,no
+meera nair,male,29,tirupati,andhra pradesh,10-07-2024,08-07-2026,26,annual,basic,563,15,credit card,yes,4,1,39.4,69,daily,3,3,mobile,advertisement,yes
+manish gupta,male,32,chennai,tamil nadu,31-03-2026,27-08-2026,5,two-year,premium,1,5800,credit card,yes,2,1,99.5,32,daily,5,5,iphone,friend,no
+pooja nair,male,31,hubli,kar,14-07-2026,27-08-2026,1,annual,premium,1,1232,bank transfer,yes,1,0,21.9,72,daily,2,2,laptop,friend,yes
+amit shah,male,33,hubballi,kar,10-06-2026,17-08-2026,2,monthly,basic,464,700,debit card,no,3,1,38.1,76,rarely,3,3,mobile,website,no
+ananya rao,female,35,hubballi,karnataka,16-07-2026,27-08-2026,1,annual,premium,1600,1,bank transfer,no,3,0,31.8,28,monthly,4,3,android phone,friend,no
+kavya rao,female,38,unknown,kar,26-08-2025,31-08-2026,12,monthly,premium,980,10320,debit card,yes,2,2,10.9,30,rarely,3,4,android phone,website,no
+vikram singh,female,34,nasik,maharashtra,08-12-2024,28-08-2026,21,two-year,premium,944,16300,bank transfer,no,3,1,39.7,48,2-3 times/week,2,3,mobile,friend,yes
+nikhil joshi,male,35,kozhikode,kerala,27-04-2026,27-08-2026,12,monthly,premium,1,3,credit card,yes,1,1,14.7,24,daily,2,2,iphone,friend,no
+meera nair,female,24,kozhikode,kerala,12-07-2026,27-08-2026,1,annual,premium,1,775,credit card,no,5,0,10.1,56.6,weekly,3,2,mobile,website,no
+sneha patel,male,44,madurai,tamil nadu,18-07-2026,27-08-2026,1,two-year,premium,1,948,bank transfer,no,1,1,13.8,36,daily,3,3,iphone,advertisement,no
+suresh babu,male,28,unknown,kerala,02-04-2025,28-08-2026,17,monthly,premium,1200,16,bank transfer,yes,4,1,39.9,46.7,weekly,3,3,iphone,social media,no
+amit shah,male,31,unknown,karnataka,05-07-2025,01-09-2026,14,monthly,basic,560,8300,credit card,yes,1,1,13.7,61,daily,4,4,android phone,friend,yes
+neha verma,male,28,hubli,karnataka,26-08-2025,01-09-2026,12,monthly,basic,900,8,debit card,no,4,4,18,30,weekly,5,5,iphone,google,no
+suresh babu,male,34,hubli,karnataka,09-12-2023,27-08-2026,36,annual,basic,602,19061,debit card,no,4,2,22,29,weekly,4,5,mobile,google,no
+aditya rao,male,39,thrissur,kerala,24-03-2026,29-08-2026,5,annual,pro,1,10,credit card,no,3,0,21.9,72,daily,1,2,android phone,friend,yes
+divya iyer,female,25,delhi,dl,23-09-2025,29-08-2026,12,monthly,premium,1,16900,credit card,yes,2,2,46.1,48,daily,4,5,laptop,social media,no
+riya kapoor,female,25,guntur,andhra pradesh,24-07-2025,17-08-2026,13,monthly,basic,884,11,upi,yes,3,1,11.9,63,weekly,3,4,android phone,friend,no
+aditya rao,male,43,tirupati,andhra pradesh,18-07-2026,27-08-2026,1,monthly,basic,475,458,bank transfer,no,4,1,68.8,37,2-3 times/week,5,5,mobile,social media,no
+lakshmi devi,male,43,bangalore,karnataka,29-07-2026,26-08-2026,1,monthly,premium,938,879,bank transfer,yes,2,1,37.4,26,monthly,5,4,laptop,website,yes
+neha verma,female,54,mangalore,karnataka,10-07-2026,22-08-2026,1,monthly,premium,1,1300,credit card,no,8,1,6.8,18.2,2-3 times/week,2,2,mobile,website,no
+lakshmi devi,female,29,hyderabad,telangana,20-07-2026,11-07-2026,1,annual,pro,1400,1500,upi,yes,5,1,78,29.1,daily,3,2,android phone,friend,no
+amit shah,female,30,unknown,maharashtra,10-06-2026,27-08-2026,12,annual,premium,1,2700,bank transfer,yes,1,1,8.6,55.6,daily,4,5,iphone,friend,no
+suresh babu,female,31,nashik,maharashtra,30-06-2025,28-08-2026,14,two-year,premium,581,15,debit card,yes,2,1,7.7,51.2,daily,3,3,laptop,website,no
+suresh babu,male,38,kochi,kerala,27-05-2025,30-08-2026,15,two-year,basic,611,7914,debit card,yes,5,1,12.4,43.5,monthly,2,3,laptop,google,no
+lakshmi devi,female,32,thiruvananthapuram,kerala,03-04-2022,01-09-2026,12,annual,basic,581,25,upi,yes,1,2,46.8,78,daily,3,3,android phone,friend,no
+kiran das,male,30,unknown,delhi,22-06-2026,17-08-2026,12,annual,basic,506,943,debit card,yes,3,0,21.7,71,weekly,4,3,mobile,social media,no
+sanjay kumar,male,32,unknown,gujarat,22-12-2025,15-08-2026,12,monthly,basic,896,7,bank transfer,yes,2,0,13.6,48,weekly,4,4,iphone,friend,yes
+priya reddy,male,31,cbe,tamil nadu,24-06-2026,12-08-2026,2,monthly,premium,581,2617,upi,yes,2,1,4.8,24,daily,3,3,mobile,friend,no
+sneha patel,female,22,vadodara,gujarat,20-10-2025,24-08-2026,10,annual,basic,700,6,debit card,yes,2,3,14.7,42,monthly,2,3,iphone,google,no
+nikhil joshi,female,30,mangaluru,karnataka,05-12-2025,21-08-2026,9,monthly,basic,642,5,bank transfer,no,3,0,15.2,54,daily,3,3,android phone,website,no
+swathi reddy,male,29,mysuru,karnataka,04-11-2025,22-08-2026,10,two-year,pro,2500,24,credit card,yes,4,1,21.7,60,weekly,3,3,android phone,friend,no
+manish gupta,female,36,vizag,unknown,06-01-2026,22-08-2026,3,monthly,basic,600,1,bank transfer,no,5,1,50.7,90,daily,4,4,android phone,website,no
+kiran das,male,18,delhi,unknown,31-05-2026,27-08-2026,12,monthly,premium,1,3,debit card,yes,4,1,91.5,44,weekly,4,5,android phone,google,no
+manish gupta,female,18,delhi,delhi,11-01-2026,31-08-2026,7,annual,premium,1500,9300,upi,yes,1,2,23.5,69,monthly,3,3,android phone,friend,no
+neha verma,female,46,unknown,andhra pradesh,08-03-2023,04-08-2026,37,annual,basic,702,23,bank transfer,yes,2,1,11.9,10,2-3 times/week,3,3,iphone,website,no
+amit shah,male,33,unknown,dl,25-09-2025,29-08-2026,12,monthly,basic,669,6,bank transfer,yes,6,2,15.4,19.7,monthly,4,5,iphone,google,no
+sneha patel,male,46,warangal,telangana,04-11-2025,27-08-2026,10,monthly,premium,1,13500,upi,no,3,0,14.3,48.8,weekly,3,3,android phone,website,yes
+divya iyer,male,35,bom,maharashtra,26-02-2025,27-08-2026,18,monthly,premium,1,20,credit card,yes,4,2,18.5,48,weekly,2,2,android phone,friend,no
+sanjay kumar,male,33,chennai,tamil nadu,14-06-2026,20-08-2026,2,monthly,premium,1,353.5,bank transfer,no,3,2,21.7,48,2-3 times/week,3,2,iphone,social media,yes
+sneha patel,male,41,mysuru,karnataka,21-11-2025,16-08-2026,9,monthly,basic,586,4944,debit card,yes,3,1,42.6,8.9,daily,2,2,android phone,website,no
+meera nair,male,26,pune,maharashtra,27-08-2026,27-08-2026,12,annual,basic,604,1,bank transfer,yes,2,0,26.3,48,daily,3,4,laptop,social media,no
+lakshmi devi,female,35,unknown,andhra pradesh,17-07-2026,16-08-2026,1,annual,basic,885,781,debit card,no,6,1,18.4,21.3,daily,5,4,iphone,social media,no
+aditya rao,female,43,surat,gujarat,08-01-2025,31-08-2026,20,monthly,basic,696,11,bank transfer,no,2,3,13.4,54,daily,4,4,android phone,social media,no
+amit shah,female,29,delhi,delhi,16-07-2026,26-07-2026,1,monthly,basic,633,551,credit card,yes,4,0,21.7,58,rarely,3,3,iphone,website,no
+ananya rao,female,27,calicut,kerala,06-06-2024,11-08-2026,27,monthly,pro,2735,78018,debit card,no,1,2,23.4,94,rarely,3,4,android phone,advertisement,no
+rahul sharma,male,26,salem,tamil nadu,23-07-2026,27-08-2026,1,two-year,basic,493,400,credit card,yes,4,0,14.9,71,rarely,3,3,android phone,friend,no
+kavya rao,female,32,cochin,kerala,05-07-2024,31-08-2026,26,monthly,basic,600,12500,upi,yes,2,3,29.7,24,2-3 times/week,1,2,mobile,advertisement,yes
+lakshmi devi,female,20,nashik,maharashtra,15-03-2023,15-08-2026,42,two-year,basic,764,26007,credit card,yes,2,3,7.7,12,daily,4,5,iphone,friend,no
+kiran das,male,37,unknown,tamil nadu,06-06-2024,28-08-2026,26,monthly,pro,1,40,debit card,yes,3,1,23.3,29.4,weekly,5,5,android phone,social media,no
+sneha patel,male,18,bom,maharashtra,14-11-2025,27-08-2026,9,annual,pro,2000,18121,debit card,yes,7,1,32.4,65,2-3 times/week,2,3,iphone,friend,no
+sneha patel,male,35,rajkot,gujarat,10-07-2026,27-08-2026,1,annual,premium,1096,1,bank transfer,yes,3,0,14.5,25.6,daily,4,4,mobile,friend,no
+amit shah,female,35,unknown,unknown,27-06-2026,01-09-2026,2,monthly,premium,581,1,upi,no,2,1,11.8,73,daily,4,5,android phone,google,no
+kavya rao,female,18,delhi,dl,20-06-2026,25-08-2026,2,monthly,pro,2,6,bank transfer,yes,3,1,50.9,56,weekly,3,3,iphone,advertisement,yes
+neha verma,male,29,unknown,delhi,28-04-2026,19-08-2026,4,annual,basic,415,1,credit card,yes,6,3,26.3,48,monthly,4,3,android phone,friend,yes
+arjun kumar,male,37,pune,maharashtra,03-04-2026,29-08-2026,5,two-year,premium,1,4266,credit card,yes,1,2,24.4,60,monthly,3,2,iphone,google,no
+arjun kumar,male,35,warangal,telangana,02-11-2024,22-08-2026,22,monthly,premium,1,20,upi,no,1,1,21.7,74,daily,3,3,android phone,friend,yes
+kavya rao,female,38,calicut,kerala,24-06-2026,24-08-2026,2,monthly,premium,900,1700,upi,yes,2,0,24.3,30,weekly,5,5,android phone,friend,no
+ananya rao,male,25,cochin,kerala,05-02-2022,27-08-2026,55,monthly,premium,1,56,credit card,no,0,1,21.7,78,daily,1,2,mobile,advertisement,yes
+lakshmi devi,male,43,amd,gujarat,01-09-2024,18-08-2026,24,monthly,basic,503,353.5,credit card,yes,2,0,21,60,weekly,3,2,laptop,friend,no
+nikhil joshi,male,34,bengaluru,karnataka,15-01-2026,05-08-2026,7,annual,basic,796,4,credit card,yes,3,6,37.6,50,daily,2,3,iphone,website,no
+rahul sharma,male,42,pune,unknown,15-07-2026,30-08-2026,1,annual,basic,582,441,credit card,yes,4,1,42,28,daily,4,4,laptop,social media,no
+lakshmi devi,female,40,cbe,tamil nadu,18-10-2025,27-08-2026,10,annual,pro,581,21540,bank transfer,yes,3,0,31.8,36,daily,3,5,android phone,friend,no
+kiran das,male,35,vadodara,gujarat,28-10-2024,01-09-2026,22,two-year,basic,581,10200,credit card,yes,1,1,3.4,48,daily,3,3,iphone,google,no
+aditya rao,male,18,madurai,tamil nadu,23-09-2021,24-08-2026,60,annual,basic,739,353.5,credit card,yes,5,0,17.5,42,2-3 times/week,4,3,mobile,friend,no
+varun malhotra,female,41,hubli,kar,15-09-2023,14-08-2026,36,two-year,basic,800,23,debit card,yes,3,1,27.7,33,daily,4,4,android phone,website,no
+meera nair,female,45,kochi,kerala,24-07-2026,28-08-2026,1,monthly,basic,800,700,bank transfer,yes,2,3,44.5,48,weekly,2,2,iphone,friend,no
+rahul sharma,male,18,unknown,maharashtra,27-08-2026,30-08-2026,1,two-year,basic,500,353.5,credit card,no,3,0,21.7,34,monthly,4,4,laptop,google,no
+priya reddy,male,48,delhi,dl,08-05-2024,01-09-2026,28,monthly,premium,1,31066,upi,yes,1,1,7.5,61,2-3 times/week,2,3,mobile,google,no
+rohit mehta,male,32,delhi,delhi,01-08-2026,01-09-2026,1,monthly,basic,516,454,debit card,yes,3,1,101.3,48,weekly,4,4,android phone,friend,yes
+sneha patel,male,47,unknown,delhi,31-03-2026,27-08-2026,12,monthly,premium,931,3,upi,no,0,2,9.3,17.3,weekly,5,5,android phone,friend,no
+amit shah,male,35,tirupati,andhra pradesh,25-03-2026,01-08-2026,5,monthly,premium,581,5100,credit card,no,6,1,20.4,46,daily,3,4,mobile,friend,no
+neha verma,female,43,thrissur,kerala,20-07-2026,16-08-2026,1,two-year,premium,1,900,bank transfer,no,7,1,64.7,48,monthly,2,3,mobile,social media,no
+swathi reddy,female,54,salem,unknown,13-03-2026,27-08-2026,5,annual,basic,468,1847,credit card,no,2,3,13,35,rarely,3,3,android phone,advertisement,no
+ananya rao,female,46,nizamabad,telangana,12-04-2026,03-08-2026,4,annual,pro,1,5,credit card,no,2,1,19.3,91,rarely,3,3,android phone,advertisement,no
+swathi reddy,female,23,chennai,tamil nadu,26-03-2026,27-08-2026,12,annual,pro,1,6431,credit card,no,4,1,46.2,46,weekly,4,4,android phone,website,no
+vikram singh,male,39,madurai,tamil nadu,13-06-2026,27-08-2026,12,annual,basic,896,1700,credit card,yes,3,1,25.2,40,daily,3,4,iphone,friend,no
+neha verma,male,35,coimbatore,tamil nadu,17-03-2025,31-08-2026,17,monthly,premium,1,21736,upi,no,2,2,21.8,71,2-3 times/week,5,5,android phone,social media,no
+harsha vardhan,female,55,salem,tamil nadu,31-08-2025,27-08-2026,12,monthly,pro,2,25600,upi,yes,2,1,21.7,42,rarely,2,3,mobile,google,no
+meera nair,female,27,cochin,kerala,05-01-2026,21-08-2026,12,monthly,basic,400,1396,bank transfer,yes,5,1,39.3,13,weekly,4,4,iphone,google,no
+rohit mehta,male,18,hyderabad,telangana,03-11-2022,27-08-2026,46,annual,basic,465,17,credit card,yes,3,3,25.9,40.4,daily,3,2,android phone,social media,no
+sanjay kumar,male,35,hubballi,karnataka,24-12-2025,08-08-2026,8,annual,basic,780,5,credit card,yes,3,2,21.7,42,2-3 times/week,4,5,android phone,friend,no
+arjun kumar,male,36,nagpur,unknown,03-12-2025,27-08-2026,9,annual,basic,445,3,bank transfer,yes,3,1,28.7,28,weekly,2,2,iphone,friend,no
+arjun kumar,female,35,amd,gujarat,13-07-2026,29-08-2026,1,monthly,pro,1,1,credit card,no,4,1,31.9,47,rarely,2,2,android phone,website,yes
+meera nair,female,38,karimnagar,unknown,06-03-2022,27-08-2026,51,annual,basic,900,35,credit card,no,2,2,49.7,27.5,weekly,3,5,android phone,friend,no
+sneha patel,female,23,unknown,kerala,23-11-2025,27-08-2026,9,annual,premium,1,10200,credit card,no,5,3,34,34,daily,4,3,android phone,social media,no
+swathi reddy,male,35,pune,unknown,15-07-2026,27-08-2026,1,monthly,basic,400,400,debit card,no,5,2,30.5,50.7,2-3 times/week,3,3,iphone,friend,no
+ananya rao,female,29,salem,tamil nadu,27-07-2026,27-08-2026,1,monthly,pro,2500,2509,debit card,yes,3,0,29.7,46.3,daily,3,3,iphone,friend,no
+lakshmi devi,female,37,vizag,andhra pradesh,22-11-2025,27-08-2026,9,monthly,basic,500,4400,upi,no,0,1,12.1,45,2-3 times/week,4,3,android phone,friend,no
+neha verma,male,35,pune,maharashtra,22-05-2026,18-08-2026,3,monthly,basic,645,2000,debit card,yes,6,1,50,80.1,daily,3,4,android phone,google,no
+meera nair,male,47,nagpur,maharashtra,27-12-2025,16-08-2026,8,monthly,basic,852,7102,credit card,no,4,1,16.6,10,daily,4,3,android phone,friend,no
+priya reddy,female,37,trivandrum,kerala,17-03-2026,31-08-2026,12,monthly,pro,1712,7,debit card,no,1,1,30.5,90,daily,2,2,android phone,advertisement,no
+priya reddy,female,31,thrissur,kerala,17-06-2026,28-08-2026,2,monthly,basic,776,1,bank transfer,yes,2,3,34.7,48,2-3 times/week,3,3,android phone,friend,no
+rahul sharma,female,53,ahmedabad,gujarat,29-06-2026,09-01-2026,12,monthly,basic,406,870,credit card,yes,8,2,11.3,66,daily,3,3,android phone,friend,no
+lakshmi devi,female,41,surat,gujarat,23-02-2025,17-06-2026,18,monthly,pro,2,42000,credit card,no,3,2,16.8,69.8,daily,2,1,laptop,google,yes
+kiran das,female,35,visakhapatnam,unknown,31-07-2025,22-08-2026,13,monthly,pro,1,353.5,credit card,yes,3,1,18.2,54,monthly,3,3,mobile,social media,no
+ananya rao,male,58,thrissur,kerala,27-08-2026,31-08-2026,38,annual,premium,927,27,bank transfer,yes,4,0,7.2,41.1,weekly,4,4,laptop,social media,no
+kiran das,male,25,bom,maharashtra,27-08-2026,27-08-2026,43,two-year,basic,700,29,debit card,no,4,2,77.3,36,weekly,1,2,iphone,social media,no
+rahul sharma,male,24,surat,unknown,21-05-2026,26-08-2026,3,monthly,basic,453,1100,bank transfer,yes,3,1,37.3,39,daily,3,3,android phone,google,yes
+swathi reddy,female,30,karimnagar,telangana,20-06-2026,26-08-2026,2,monthly,basic,485,829,debit card,no,6,1,32.8,41,rarely,2,3,iphone,google,yes
+swathi reddy,female,33,kochi,kerala,20-04-2026,17-08-2026,4,annual,premium,1,4809,debit card,yes,3,2,21.7,56,monthly,3,4,iphone,social media,no
+harsha vardhan,male,44,trivandrum,kerala,13-05-2026,27-08-2026,3,monthly,basic,798,353.5,upi,yes,3,1,34.3,65.8,daily,3,3,iphone,google,no
+kiran das,male,40,delhi,unknown,25-07-2026,27-08-2026,1,monthly,basic,675,681,credit card,no,1,2,12.5,48,weekly,2,2,iphone,friend,yes
+ananya rao,female,43,nzb,telangana,20-04-2026,28-08-2026,4,two-year,pro,581,5,debit card,no,3,1,14.2,78,2-3 times/week,3,3,android phone,advertisement,no
+riya kapoor,female,34,madurai,tamil nadu,12-07-2026,25-08-2026,1,monthly,premium,1,977,credit card,yes,4,1,13.6,48,2-3 times/week,2,1,android phone,google,no
+swathi reddy,female,36,vijayawada,andhra pradesh,14-07-2026,08-10-2026,1,annual,basic,415,399,bank transfer,yes,3,3,35.3,48,weekly,3,4,laptop,friend,no
+sanjay kumar,male,29,blr,karnataka,24-05-2026,26-08-2026,12,annual,basic,837,2041,credit card,yes,2,1,8.5,47,monthly,5,5,iphone,friend,no
+kavya rao,female,41,nashik,maharashtra,10-07-2026,01-09-2026,12,two-year,basic,732,616,credit card,yes,1,1,25.7,22.2,daily,2,2,iphone,website,no
+rahul sharma,female,32,hubli,karnataka,15-01-2026,27-08-2026,12,annual,basic,450,2,debit card,yes,3,1,30,74.4,daily,4,4,android phone,google,no
+amit shah,female,33,delhi,delhi,30-10-2023,27-08-2026,34,monthly,basic,680,24,credit card,yes,3,1,8.6,61,monthly,3,2,iphone,friend,no
+nikhil joshi,female,42,amd,unknown,28-06-2026,31-08-2026,12,monthly,basic,686,1,upi,yes,7,1,18.4,80.1,2-3 times/week,4,3,android phone,friend,no
+amit shah,female,31,vijayawada,andhra pradesh,25-08-2025,27-08-2026,12,two-year,pro,1,16,credit card,yes,3,1,57.7,64,2-3 times/week,3,4,iphone,friend,no
+sanjay kumar,female,32,guntur,andhra pradesh,12-05-2024,27-08-2026,12,two-year,premium,842,25,upi,yes,5,2,21.7,48,2-3 times/week,3,3,android phone,friend,no
+rahul sharma,female,37,thrissur,kerala,16-10-2025,29-08-2026,12,monthly,premium,1,14,credit card,yes,2,0,24.2,56.9,weekly,3,3,android phone,friend,no
+harsha vardhan,female,35,cochin,kerala,06-07-2025,27-08-2026,14,monthly,basic,623,6572,credit card,yes,1,2,45.8,75,daily,4,5,iphone,google,no
+divya iyer,female,47,karimnagar,telangana,27-07-2024,01-09-2026,25,monthly,basic,600,11,bank transfer,yes,1,0,10.4,48,daily,5,5,android phone,friend,yes
+nikhil joshi,male,18,trivandrum,kerala,10-07-2026,21-08-2026,1,monthly,pro,2,2,credit card,no,2,1,13.6,48,weekly,3,4,android phone,google,yes
+harsha vardhan,female,38,vijayawada,andhra pradesh,17-07-2026,17-07-2026,1,monthly,basic,822,716,bank transfer,yes,3,1,17.3,59.3,daily,5,5,android phone,friend,yes
+sanjay kumar,male,21,bangalore,karnataka,10-02-2024,29-08-2026,31,monthly,basic,400,13559,upi,yes,3,0,33.1,31.9,weekly,3,4,iphone,friend,no
+priya reddy,female,34,mangaluru,kar,05-11-2026,24-08-2026,3,monthly,premium,1,2500,credit card,yes,3,1,14.5,39,2-3 times/week,5,5,android phone,google,no
+lakshmi devi,female,33,thrissur,kerala,07-05-2025,27-08-2026,16,monthly,basic,799,9,credit card,yes,2,1,15.6,68.5,2-3 times/week,4,5,iphone,advertisement,yes
+sanjay kumar,female,35,vijayawada,andhra pradesh,02-02-2026,27-08-2026,7,monthly,basic,591,4,bank transfer,yes,1,5,54.2,71.4,monthly,3,3,android phone,social media,no
+divya iyer,male,18,madras,tamil nadu,15-01-2022,27-08-2026,56,annual,premium,837,44346,credit card,yes,2,0,6.7,9,daily,3,3,android phone,google,no
+neha verma,female,51,unknown,tamil nadu,05-04-2023,27-08-2026,41,monthly,premium,1365,45531,credit card,yes,3,1,8.9,62,weekly,3,4,android phone,google,no
+priya reddy,male,43,hyderabad,telangana,01-06-2026,27-08-2026,3,annual,basic,649,1768,upi,no,3,2,22.8,72,weekly,3,3,mobile,advertisement,no
+kavya rao,female,29,rajkot,gujarat,15-04-2026,08-06-2026,4,monthly,basic,554,1822,credit card,yes,4,0,21.7,54,monthly,4,4,android phone,social media,yes
+riya kapoor,female,42,nagpur,maharashtra,11-07-2026,10-08-2026,12,annual,basic,448,400,credit card,yes,2,3,15.9,16,daily,4,3,mobile,friend,no
+kiran das,female,38,unknown,unknown,23-04-2026,01-09-2026,4,monthly,basic,613,2,credit card,yes,2,2,46.3,61,rarely,4,4,iphone,friend,no
+varun malhotra,female,24,rajkot,gujarat,16-11-2025,31-08-2026,9,two-year,basic,694,353.5,bank transfer,yes,4,0,42.1,24,weekly,5,5,android phone,google,no
+harsha vardhan,female,24,unknown,tamil nadu,18-07-2026,25-08-2026,1,monthly,basic,1,966,credit card,yes,4,0,9.8,48,daily,2,3,android phone,friend,yes
+lakshmi devi,female,36,bom,maharashtra,25-08-2025,19-08-2026,12,annual,premium,1,12,bank transfer,yes,3,0,31.1,10,daily,3,3,android phone,website,no
+rohit mehta,male,26,unknown,maharashtra,27-01-2025,27-08-2026,19,monthly,premium,581,19,bank transfer,yes,7,1,22.4,48,weekly,3,3,mobile,friend,yes
+nikhil joshi,female,27,surat,gujarat,27-08-2026,09-08-2026,7,monthly,basic,800,4,credit card,yes,7,1,50.6,60,daily,3,3,android phone,friend,no
+ananya rao,male,47,unknown,maharashtra,30-08-2023,27-08-2026,36,monthly,premium,1600,46,bank transfer,no,4,1,17.2,58,weekly,4,3,android phone,google,no
+rohit mehta,male,32,nasik,maharashtra,22-06-2026,23-08-2026,12,annual,basic,692,1,upi,yes,5,2,57.4,33.8,daily,3,4,android phone,friend,no
+manish gupta,female,45,unknown,dl,19-04-2022,29-08-2026,53,monthly,premium,1,60,bank transfer,no,1,0,21.6,43,daily,4,4,iphone,friend,no
+kiran das,male,26,madras,unknown,13-06-2023,27-08-2026,39,monthly,premium,1,353.5,upi,no,3,1,15,47,monthly,3,3,android phone,social media,yes
+arjun kumar,male,36,calicut,kerala,18-05-2026,30-08-2026,12,monthly,premium,1157,3,credit card,no,3,2,33.1,5,weekly,4,5,iphone,advertisement,no
+manish gupta,female,20,delhi,delhi,14-06-2026,27-08-2026,2,two-year,basic,561,1039,credit card,yes,3,1,21.7,47.6,daily,4,5,android phone,google,no
+neha verma,male,37,thiruvananthapuram,kerala,26-12-2023,25-08-2026,32,annual,basic,631,16,credit card,yes,2,0,23.5,71,monthly,3,3,iphone,social media,no
+sneha patel,male,22,unknown,unknown,05-09-2023,15-08-2026,36,monthly,premium,1414,53,upi,yes,2,3,35.9,40,weekly,5,4,android phone,friend,no
+rahul sharma,female,35,mumbai,maharashtra,02-05-2026,01-09-2026,12,monthly,premium,801,2,credit card,no,3,1,11.1,16,rarely,1,2,iphone,advertisement,no
+swathi reddy,female,44,karimnagar,telangana,26-07-2026,15-08-2026,1,monthly,premium,856,800,credit card,no,0,0,13.2,48,weekly,4,5,laptop,social media,yes
+aditya rao,female,20,mumbai,maharashtra,27-01-2026,27-08-2026,7,annual,premium,1534,9,bank transfer,yes,5,1,11.7,48,daily,2,2,android phone,social media,no
+pooja nair,male,60,vijayawada,andhra pradesh,05-10-2021,26-08-2026,12,monthly,basic,892,47500,debit card,yes,5,1,22.4,18,daily,3,2,mobile,advertisement,no
+rahul sharma,female,51,thiruvananthapuram,kerala,10-11-2024,27-08-2026,22,monthly,premium,915,16,debit card,no,2,3,11.6,36,daily,3,2,android phone,friend,yes
+pooja nair,male,45,hubballi,karnataka,03-04-2022,27-08-2026,54,annual,basic,600,28,upi,no,2,1,47.3,37,daily,3,3,iphone,social media,no
+lakshmi devi,female,49,unknown,gujarat,25-02-2025,09-01-2026,18,two-year,basic,508,9,debit card,yes,2,0,15.1,48,2-3 times/week,3,4,laptop,social media,no
+suresh babu,female,22,warangal,telangana,04-08-2025,16-08-2026,13,monthly,pro,2,353.5,upi,no,3,1,7.1,60.6,monthly,4,5,iphone,google,no
+arjun kumar,male,29,unknown,karnataka,16-04-2022,28-08-2026,53,annual,premium,1,71,bank transfer,yes,5,4,16.5,54,daily,4,4,mobile,website,no
+rahul sharma,male,34,unknown,kar,13-04-2026,01-09-2026,12,annual,premium,1,5,bank transfer,no,7,1,5.7,53,daily,3,3,android phone,social media,no
+rohit mehta,female,35,unknown,tamil nadu,27-08-2026,27-08-2026,4,monthly,pro,1,6,credit card,yes,3,1,15.7,54,rarely,4,4,iphone,advertisement,no
+swathi reddy,female,34,amd,gujarat,23-07-2026,26-08-2026,1,monthly,basic,811,691,credit card,no,3,1,41.4,42,weekly,4,4,laptop,advertisement,no
+vikram singh,female,35,warangal,telangana,17-04-2026,27-08-2026,4,annual,basic,411,353.5,credit card,no,3,3,21.7,33,monthly,4,4,android phone,website,no
+harsha vardhan,female,27,trivandrum,kerala,09-04-2026,23-08-2026,4,monthly,basic,460,1800,upi,no,3,1,14.3,24,rarely,4,3,mobile,friend,no
+divya iyer,female,34,cochin,kerala,16-06-2026,20-08-2026,2,monthly,pro,581,4500,debit card,yes,3,1,13.1,48,weekly,4,3,mobile,friend,yes
+varun malhotra,male,58,nagpur,maharashtra,17-07-2026,23-08-2026,1,two-year,basic,581,595,credit card,yes,3,0,11.4,35,2-3 times/week,4,3,laptop,friend,no
+divya iyer,female,30,visakhapatnam,andhra pradesh,31-07-2026,01-09-2026,12,monthly,premium,1180,1,credit card,no,0,2,21.7,53,daily,3,4,android phone,google,yes
+pooja nair,female,18,delhi,dl,26-10-2023,27-08-2026,34,monthly,basic,524,16200,debit card,no,5,2,17.8,48,daily,5,4,iphone,advertisement,no
+nikhil joshi,male,51,thiruvananthapuram,kerala,19-07-2026,27-08-2026,1,annual,basic,855,753,bank transfer,no,4,2,21.7,52.5,rarely,2,2,iphone,friend,yes
+ananya rao,male,39,kochi,kerala,27-04-2026,31-08-2026,4,monthly,basic,581,1,credit card,no,3,1,178.3,71,daily,3,4,android phone,google,no
+vikram singh,male,44,unknown,delhi,17-03-2026,19-08-2026,5,monthly,premium,900,353.5,bank transfer,yes,1,0,14.9,48,daily,3,3,iphone,social media,no
+pooja nair,female,35,salem,tamil nadu,08-07-2026,27-08-2026,1,annual,basic,560,562,bank transfer,yes,6,1,12.1,84,2-3 times/week,2,1,laptop,friend,no
+priya reddy,male,38,cbe,tamil nadu,22-07-2024,26-08-2026,25,annual,basic,581,12800,debit card,no,2,3,32.8,11,weekly,4,4,iphone,friend,no
+pooja nair,female,36,kochi,kerala,11-06-2026,01-09-2026,2,monthly,premium,1,2,upi,yes,2,0,24,59,daily,3,3,laptop,friend,yes
+kavya rao,male,35,madurai,unknown,18-03-2026,27-08-2026,5,annual,premium,1099,4,credit card,yes,1,3,17.4,50,daily,3,3,android phone,social media,no
+divya iyer,male,33,cochin,kerala,21-03-2024,26-08-2026,29,annual,premium,982,30,credit card,yes,1,1,8.7,55,2-3 times/week,3,4,iphone,social media,no
+lakshmi devi,female,44,surat,unknown,20-09-2025,27-08-2026,12,annual,basic,688,6,credit card,yes,4,1,28.7,86.3,daily,5,5,mobile,friend,no
+neha verma,female,35,visakhapatnam,andhra pradesh,19-05-2026,27-08-2026,3,monthly,basic,894,353.5,credit card,yes,2,3,8.9,25,2-3 times/week,1,2,iphone,google,yes
+amit shah,female,21,unknown,karnataka,18-05-2023,30-08-2026,40,monthly,premium,1,54,debit card,no,2,1,21.7,54,monthly,3,4,iphone,friend,no
+harsha vardhan,male,62,unknown,andhra pradesh,15-06-2022,22-08-2026,51,monthly,basic,600,29,credit card,yes,4,1,79,48,2-3 times/week,4,4,laptop,friend,yes
+ananya rao,male,36,mysore,karnataka,13-07-2026,27-08-2026,1,annual,premium,1600,1,debit card,no,1,3,19.1,54,daily,2,3,android phone,advertisement,no
+suresh babu,male,53,mysore,karnataka,24-09-2025,08-09-2026,11,monthly,premium,1000,11,upi,yes,4,1,42.4,54.2,monthly,4,4,iphone,friend,no
+kiran das,male,29,nashik,unknown,10-04-2022,17-08-2026,53,monthly,basic,800,37400,credit card,yes,2,1,28.6,42,daily,3,4,iphone,friend,no
+meera nair,male,36,madurai,tamil nadu,22-11-2025,27-08-2026,12,monthly,basic,732,6644,bank transfer,yes,2,1,21.7,37,daily,4,4,iphone,friend,no
+sanjay kumar,female,42,hyderabad,unknown,15-04-2026,27-08-2026,4,monthly,basic,586,2384,upi,no,3,1,36.2,25,weekly,3,4,iphone,friend,no
+arjun kumar,female,48,trivandrum,kerala,10-07-2026,27-08-2026,1,annual,basic,581,628,credit card,yes,1,1,71.4,13,daily,3,4,iphone,website,no
+meera nair,female,19,unknown,kar,26-06-2026,24-08-2026,12,monthly,pro,2,4,debit card,yes,1,1,21.7,54,daily,4,5,iphone,friend,yes
+priya reddy,female,70,guntur,andhra pradesh,13-11-2023,25-08-2026,34,monthly,basic,403,14,bank transfer,yes,2,1,8.4,41,rarely,5,5,android phone,google,no
+sneha patel,female,18,unknown,gujarat,03-07-2026,25-08-2026,12,annual,premium,581,1,credit card,no,4,0,18.6,48,2-3 times/week,2,1,android phone,friend,no
+vikram singh,male,44,surat,gujarat,25-08-2023,27-08-2026,12,monthly,pro,2700,90,upi,yes,3,0,23.7,42,monthly,5,3,android phone,social media,no
+kavya rao,male,51,thrissur,kerala,08-01-2026,30-08-2026,1,annual,basic,463,441,credit card,yes,2,1,21.7,30,monthly,2,2,android phone,google,yes
+swathi reddy,male,35,pune,unknown,15-07-2026,27-08-2026,1,monthly,basic,400,400,debit card,no,5,2,30.5,50.7,2-3 times/week,3,3,iphone,friend,no
+varun malhotra,male,33,chennai,tamil nadu,24-07-2024,25-08-2026,25,monthly,basic,400,8660,credit card,yes,0,1,19.1,24,daily,3,3,iphone,friend,no
+riya kapoor,female,36,unknown,kerala,27-05-2026,27-08-2026,3,monthly,premium,1300,3,bank transfer,yes,5,1,27.6,48,daily,4,3,iphone,social media,no
+nikhil joshi,female,46,unknown,kerala,27-10-2024,31-08-2026,22,monthly,premium,1,30,debit card,yes,1,1,68.9,56,weekly,3,4,android phone,friend,no
+kavya rao,female,35,warangal,telangana,12-01-2022,29-08-2026,56,annual,premium,1500,86,credit card,yes,5,0,32.2,69,daily,3,3,iphone,google,no
+sanjay kumar,male,39,cochin,unknown,13-05-2026,07-08-2026,3,annual,pro,2,353.5,bank transfer,no,3,2,6.8,48,daily,5,3,android phone,social media,no
+arjun kumar,female,55,rajkot,gujarat,11-04-2026,31-08-2026,12,annual,premium,1,3862,upi,yes,3,2,72.7,41,monthly,3,4,mobile,social media,no
+manish gupta,female,34,surat,gujarat,31-05-2026,24-08-2026,3,annual,basic,600,1389,credit card,yes,2,1,7.6,60,weekly,4,3,laptop,google,no
+divya iyer,male,19,mangalore,kar,27-12-2023,19-08-2026,32,monthly,premium,853,24708,upi,no,2,1,22.1,51,2-3 times/week,3,4,android phone,social media,yes
+swathi reddy,male,35,mumbai,maharashtra,25-11-2024,27-08-2026,21,monthly,basic,581,7,debit card,yes,6,1,8.7,25,weekly,4,4,android phone,friend,no
+sanjay kumar,female,21,delhi,delhi,29-07-2026,21-07-2026,12,monthly,basic,700,600,debit card,yes,4,2,24,48,monthly,3,3,android phone,google,no
+kavya rao,male,22,guntur,unknown,16-05-2026,09-08-2026,12,annual,pro,1874,5522,debit card,yes,1,0,22.4,62,daily,4,4,mobile,website,yes
+riya kapoor,female,46,nizamabad,telangana,24-02-2026,27-08-2026,12,monthly,premium,1,7800,credit card,yes,4,1,25.3,54,monthly,3,4,android phone,advertisement,no
+rahul sharma,female,35,delhi,dl,16-04-2025,31-08-2026,16,monthly,premium,990,15069,debit card,no,2,1,12.3,34,daily,4,4,iphone,social media,yes
+priya reddy,female,18,unknown,karnataka,10-03-2026,09-08-2026,5,two-year,pro,581,353.5,credit card,yes,3,1,9,43,weekly,5,5,iphone,friend,no
+sanjay kumar,male,45,unknown,gujarat,10-03-2025,27-08-2026,11,monthly,premium,1,16,bank transfer,no,3,1,22.9,45.3,weekly,3,4,iphone,friend,no
+riya kapoor,male,40,unknown,unknown,25-06-2026,27-08-2026,2,monthly,premium,1300,2385,debit card,no,2,4,16.2,16.8,daily,4,5,android phone,google,no
+neha verma,male,35,mysuru,karnataka,15-02-2026,29-08-2026,6,annual,basic,862,353.5,bank transfer,yes,5,2,10.9,82.9,2-3 times/week,4,3,android phone,advertisement,no
+divya iyer,male,40,salem,tamil nadu,24-07-2026,24-08-2026,1,two-year,premium,1,1228,upi,yes,3,1,45.6,12,weekly,3,2,mobile,social media,no
+rohit mehta,male,26,karimnagar,telangana,24-11-2025,15-08-2026,9,two-year,basic,603,4,bank transfer,no,8,1,10.7,30.1,2-3 times/week,3,3,android phone,google,yes
+sanjay kumar,female,24,mangalore,unknown,06-06-2025,18-08-2026,15,annual,basic,894,353.5,debit card,no,2,1,24.3,42,weekly,4,4,iphone,friend,no
+arjun kumar,female,18,chennai,tamil nadu,14-07-2026,27-08-2026,1,two-year,premium,924,900,upi,yes,1,2,28.1,84,daily,4,4,android phone,advertisement,no
+suresh babu,male,37,ahmedabad,gujarat,17-06-2026,27-08-2026,12,annual,premium,1,2800,bank transfer,yes,7,2,12.8,84,2-3 times/week,4,5,android phone,website,yes
+kavya rao,female,57,hyderabad,telangana,22-05-2026,28-08-2026,12,two-year,basic,600,1,credit card,yes,3,1,21.7,65,daily,2,2,iphone,friend,no
+kiran das,male,38,unknown,gujarat,14-06-2026,26-08-2026,2,annual,pro,2,4,upi,yes,2,2,10.1,26,daily,2,3,iphone,social media,no
+harsha vardhan,male,45,warangal,unknown,18-04-2022,20-08-2026,53,two-year,basic,540,28,bank transfer,no,3,1,43.2,16,weekly,4,4,android phone,friend,no
+kiran das,female,20,mysuru,karnataka,16-02-2026,08-08-2026,12,monthly,basic,858,5,upi,no,3,2,5.7,27.9,daily,3,2,android phone,friend,yes
+priya reddy,male,31,chennai,unknown,18-07-2026,15-08-2026,1,two-year,basic,577,476,bank transfer,yes,0,1,21.2,36,rarely,3,3,android phone,website,no
+manish gupta,female,34,hyderabad,telangana,17-08-2025,31-08-2026,12,annual,basic,2,26300,credit card,yes,8,0,33.2,23,weekly,4,4,iphone,friend,yes
+manish gupta,male,35,madurai,tamil nadu,17-12-2024,27-08-2026,20,monthly,premium,581,18088,bank transfer,yes,0,1,19.5,78,daily,3,2,android phone,advertisement,yes
+kavya rao,male,41,blr,karnataka,17-03-2025,22-08-2026,17,monthly,basic,776,14,bank transfer,yes,1,0,27.4,68,weekly,3,3,android phone,friend,no
+harsha vardhan,male,56,guntur,andhra pradesh,27-07-2026,27-08-2026,1,monthly,basic,594,600,bank transfer,no,0,1,14.9,63,monthly,5,4,android phone,website,no
+swathi reddy,female,33,nagpur,maharashtra,26-03-2026,27-08-2026,5,monthly,basic,503,2567,debit card,yes,2,0,18.8,36,weekly,3,3,iphone,friend,no
+pooja nair,female,39,tirupati,unknown,29-07-2026,17-08-2026,1,monthly,pro,2,2200,credit card,yes,4,0,8.4,18.8,daily,4,3,mobile,social media,no
+aditya rao,male,32,kozhikode,kerala,15-11-2021,27-08-2026,58,monthly,premium,1,51,upi,no,3,1,51.6,61,daily,4,5,android phone,google,yes
+neha verma,male,18,thrissur,kerala,25-09-2024,24-08-2026,23,monthly,premium,1,21300,bank transfer,yes,3,1,4.4,47.4,daily,2,3,laptop,google,no
+meera nair,female,40,trivandrum,kerala,12-05-2023,27-08-2026,40,annual,premium,1,42900,upi,yes,2,1,31.8,42.4,daily,2,2,iphone,friend,yes
+varun malhotra,male,21,nagpur,maharashtra,26-03-2026,11-08-2026,5,monthly,basic,800,4,debit card,no,5,2,19,48,weekly,3,3,mobile,google,yes
+pooja nair,female,24,delhi,delhi,28-03-2025,01-09-2026,17,monthly,premium,1,353.5,credit card,yes,5,1,37.9,48,daily,5,5,android phone,google,no
+sanjay kumar,female,35,karimnagar,unknown,24-10-2025,30-08-2026,12,monthly,premium,1117,9400,bank transfer,no,4,1,15.1,36,monthly,4,4,android phone,friend,no
+sneha patel,male,37,mangalore,karnataka,17-07-2025,27-08-2026,13,annual,premium,811,10,debit card,yes,5,1,21.7,48,daily,3,5,mobile,website,no
+riya kapoor,female,44,thrissur,kerala,25-01-2026,09-08-2026,7,monthly,premium,1,7,bank transfer,yes,3,0,16.2,73.4,weekly,5,4,iphone,friend,yes
+meera nair,female,43,unknown,gujarat,27-08-2026,27-08-2026,12,annual,premium,1487,353.5,debit card,no,3,0,9.5,65,daily,4,5,android phone,friend,no
+harsha vardhan,male,43,hubli,karnataka,14-05-2026,26-08-2026,12,monthly,premium,1200,2,bank transfer,yes,3,2,18.3,46,rarely,3,3,android phone,social media,no
+kavya rao,male,40,ahmedabad,gujarat,28-03-2025,31-08-2026,17,annual,basic,400,6,credit card,yes,1,0,17.5,56,weekly,5,5,android phone,social media,no
+rahul sharma,female,51,unknown,karnataka,02-12-2024,02-08-2026,22,monthly,basic,513,11,bank transfer,yes,2,1,44.6,52.5,monthly,3,3,android phone,google,no
+lakshmi devi,male,42,karimnagar,telangana,22-01-2025,27-08-2026,19,annual,premium,1,24401,upi,no,3,2,58.7,59,monthly,4,4,iphone,website,no
+sneha patel,male,26,bangalore,karnataka,05-07-2025,30-08-2026,14,monthly,pro,1,25036,upi,yes,2,2,21.7,25,monthly,3,4,android phone,social media,no
+vikram singh,male,38,madurai,tamil nadu,19-04-2025,29-08-2026,16,monthly,premium,1300,17,credit card,yes,2,1,21.7,48,weekly,4,5,mobile,google,no
+ananya rao,female,23,unknown,unknown,22-07-2026,27-08-2026,1,two-year,basic,418,363,bank transfer,yes,2,1,23.4,69,2-3 times/week,3,3,iphone,google,yes
+harsha vardhan,male,56,delhi,delhi,17-02-2026,27-08-2026,6,two-year,premium,864,4,upi,yes,3,0,8.4,48,weekly,5,5,android phone,friend,no
+riya kapoor,female,41,nizamabad,unknown,09-07-2026,09-01-2026,1,monthly,premium,1,1,upi,yes,4,2,42.4,48,2-3 times/week,2,2,laptop,friend,no
+swathi reddy,male,42,unknown,gujarat,26-05-2026,16-08-2026,3,monthly,basic,497,353.5,bank transfer,yes,3,3,11.7,39,monthly,1,2,iphone,advertisement,yes
+divya iyer,female,34,unknown,maharashtra,02-07-2025,28-08-2026,19,annual,pro,1,26023,debit card,yes,3,1,41.2,48,daily,3,3,android phone,social media,no
+neha verma,female,25,delhi,dl,18-01-2026,31-08-2026,7,annual,basic,650,353.5,upi,no,4,2,23.4,48,rarely,4,4,mobile,social media,no
+varun malhotra,female,42,mysore,unknown,16-11-2023,26-08-2026,34,monthly,basic,592,21631,credit card,yes,2,0,9.8,36,daily,4,4,iphone,friend,no
+swathi reddy,male,37,cbe,tamil nadu,31-07-2026,09-01-2026,1,monthly,basic,674,558,credit card,no,4,1,21.7,63,rarely,5,5,iphone,social media,no
+vikram singh,male,35,vizag,andhra pradesh,01-08-2026,09-08-2026,1,annual,premium,1,1,credit card,yes,6,0,10.5,30,daily,3,4,mobile,google,no
+pooja nair,female,22,surat,gujarat,09-05-2026,22-08-2026,12,monthly,basic,610,1,debit card,yes,4,1,46,48,weekly,3,4,iphone,advertisement,no
+pooja nair,female,44,hubli,karnataka,16-11-2025,27-08-2026,9,monthly,premium,1,8,credit card,yes,5,1,21.7,72,weekly,3,4,laptop,friend,no
+arjun kumar,male,37,hubli,unknown,28-06-2026,01-09-2026,2,monthly,premium,930,353.5,bank transfer,yes,1,0,20.8,80,rarely,2,3,iphone,social media,no
+kavya rao,male,35,bangalore,kar,30-07-2026,25-08-2026,1,monthly,basic,664,519,debit card,yes,4,1,45.3,48,daily,4,4,iphone,friend,no
+ananya rao,male,53,rajkot,gujarat,03-04-2026,27-08-2026,5,annual,pro,2770,11,credit card,yes,2,1,38,114,daily,2,2,mobile,google,no
+lakshmi devi,male,28,unknown,gujarat,19-05-2023,06-08-2026,12,monthly,premium,942,40,credit card,yes,6,2,11.2,48,rarely,4,4,android phone,friend,yes
+lakshmi devi,male,35,kozhikode,kerala,24-06-2026,01-09-2026,2,monthly,premium,1,3000,credit card,yes,3,2,13,84,daily,3,3,iphone,google,no
+kiran das,male,36,unknown,unknown,30-07-2026,01-09-2026,1,annual,premium,1500,1,debit card,yes,2,1,11.8,42,weekly,3,3,iphone,friend,no
+riya kapoor,male,31,vijayawada,andhra pradesh,19-05-2026,29-07-2026,3,monthly,premium,1,4000,bank transfer,yes,3,2,10.8,28,weekly,3,3,laptop,website,no
+nikhil joshi,male,52,unknown,gujarat,17-04-2026,26-08-2026,4,monthly,basic,793,3,credit card,yes,5,1,20.2,43,daily,2,2,android phone,google,no
+rahul sharma,female,49,calicut,kerala,21-09-2025,28-08-2026,12,monthly,premium,1,9752,bank transfer,no,0,3,11,77,daily,2,2,android phone,social media,yes
+priya reddy,male,43,delhi,delhi,01-08-2026,27-08-2026,1,monthly,premium,900,711,bank transfer,yes,4,0,31.3,90,daily,3,2,iphone,advertisement,no
+riya kapoor,female,27,hyderabad,telangana,26-04-2025,01-09-2026,16,monthly,premium,894,11,upi,yes,4,1,145.3,39,rarely,5,4,iphone,advertisement,no
+varun malhotra,male,42,coimbatore,tamil nadu,12-10-2025,20-08-2026,10,monthly,premium,1,10,debit card,yes,4,1,15.1,30,weekly,4,5,android phone,social media,no
+sanjay kumar,female,33,tirupati,andhra pradesh,27-07-2026,27-08-2026,1,monthly,basic,696,353.5,credit card,yes,5,2,9.3,42,weekly,4,3,android phone,google,yes
+suresh babu,female,19,unknown,gujarat,11-05-2026,31-08-2026,3,monthly,premium,1054,2,credit card,no,5,0,54.2,31.6,rarely,3,4,android phone,social media,no
+arjun kumar,male,31,delhi,delhi,23-10-2024,30-08-2026,22,annual,pro,1,37,credit card,yes,3,0,21.7,48,monthly,3,4,android phone,advertisement,no
+nikhil joshi,female,38,visakhapatnam,andhra pradesh,19-08-2024,25-08-2026,24,monthly,pro,1,31,credit card,yes,4,1,33.1,48,daily,4,3,iphone,social media,no
+lakshmi devi,female,32,visakhapatnam,unknown,30-06-2024,12-08-2026,26,monthly,premium,1200,30,debit card,yes,3,1,21.7,63,daily,4,3,android phone,google,no
+aditya rao,female,50,nagpur,maharashtra,04-07-2024,03-08-2026,26,monthly,pro,1,47,bank transfer,yes,2,0,56.2,42,monthly,3,3,android phone,friend,no
+nikhil joshi,female,51,kozhikode,kerala,14-06-2026,19-08-2026,2,monthly,basic,506,873,upi,yes,1,2,10.3,52,weekly,4,4,android phone,friend,no
+divya iyer,female,18,nagpur,maharashtra,31-05-2026,19-08-2026,3,monthly,basic,700,1,credit card,yes,1,3,4.6,83,daily,3,3,mobile,friend,no
+kiran das,male,36,vizag,andhra pradesh,27-01-2026,22-07-2026,7,annual,basic,702,5100,credit card,no,6,1,7.8,82,daily,3,2,android phone,google,no
+meera nair,female,25,salem,unknown,17-01-2022,27-08-2026,56,monthly,premium,1,59,upi,no,5,0,49.6,36.3,rarely,3,3,android phone,friend,no
+swathi reddy,female,28,delhi,dl,20-10-2024,30-08-2026,22,monthly,premium,1,22,credit card,yes,2,0,7.5,48,monthly,3,3,mobile,friend,no
+riya kapoor,female,39,nashik,maharashtra,22-07-2026,27-07-2026,1,monthly,premium,1,1,bank transfer,yes,3,2,11.6,49,daily,3,3,android phone,friend,no
+arjun kumar,female,34,karimnagar,unknown,10-01-2023,27-08-2026,44,two-year,pro,1,72,upi,yes,3,1,24.6,57,weekly,2,3,mobile,google,no
+rohit mehta,female,19,baroda,gujarat,28-07-2026,27-08-2026,1,monthly,basic,587,599,bank transfer,yes,2,2,37.1,48,weekly,4,4,iphone,social media,no
+arjun kumar,male,18,calicut,kerala,31-05-2026,20-08-2026,3,monthly,basic,779,1,upi,yes,2,3,96,61,daily,4,4,mobile,friend,no
+priya reddy,male,18,karimnagar,unknown,05-04-2024,30-08-2026,29,monthly,premium,1,39,credit card,no,2,2,22.5,20.6,daily,2,3,android phone,google,no
+ananya rao,male,36,delhi,unknown,08-06-2024,19-08-2026,27,annual,basic,1,40,debit card,yes,3,2,38.4,60,2-3 times/week,2,2,iphone,friend,no
+priya reddy,female,31,delhi,dl,25-03-2026,27-08-2026,5,annual,premium,1,5,bank transfer,no,2,2,4.8,23.2,monthly,3,3,mobile,friend,no
+kavya rao,female,35,nizamabad,telangana,27-03-2025,27-08-2026,17,monthly,basic,876,15,upi,yes,5,1,21.7,49.4,daily,3,2,iphone,friend,no
+swathi reddy,female,33,unknown,unknown,18-08-2024,23-08-2026,24,monthly,premium,1017,25,credit card,yes,2,1,37.3,40,weekly,4,5,laptop,social media,no
+swathi reddy,male,51,mumbai,maharashtra,11-03-2026,27-08-2026,5,monthly,premium,1,4600,debit card,yes,6,1,24.4,24,2-3 times/week,3,3,android phone,social media,no
+riya kapoor,male,36,cbe,tamil nadu,17-07-2026,27-08-2026,1,monthly,basic,581,913,upi,yes,3,0,11.7,42,weekly,3,3,mobile,friend,no
+neha verma,female,37,unknown,gujarat,18-06-2023,29-08-2026,39,monthly,basic,600,19,upi,no,1,2,32.3,71,2-3 times/week,1,2,android phone,google,no
+vikram singh,male,36,delhi,dl,11-06-2026,09-08-2026,12,monthly,basic,778,1,bank transfer,yes,3,0,6.6,34,weekly,3,4,iphone,advertisement,no
+riya kapoor,female,18,hyd,telangana,24-03-2025,27-08-2026,17,monthly,premium,1,19,bank transfer,yes,3,0,20.6,43,2-3 times/week,3,3,android phone,friend,no
+rohit mehta,male,38,surat,gujarat,02-04-2024,27-08-2026,29,monthly,basic,624,16,upi,yes,1,1,20.1,66,daily,3,5,android phone,friend,no
+amit shah,female,40,baroda,gujarat,25-02-2026,29-08-2026,6,monthly,premium,1,8,upi,no,1,3,21.7,58,daily,4,5,android phone,social media,no
+harsha vardhan,female,18,nagpur,maharashtra,06-12-2026,28-08-2026,2,annual,premium,1,2,bank transfer,yes,4,4,21.7,66.9,daily,2,2,mobile,social media,yes
+arjun kumar,male,42,salem,tamil nadu,17-06-2025,12-07-2026,14,monthly,pro,2,353.5,credit card,yes,1,1,21.7,48,daily,3,3,laptop,website,no
+pooja nair,female,32,guntur,unknown,27-06-2026,27-08-2026,2,monthly,premium,1,2700,bank transfer,yes,4,3,25.1,77,monthly,1,1,iphone,advertisement,no
+priya reddy,male,25,chennai,tamil nadu,25-08-2025,08-08-2026,12,annual,premium,1,10817,bank transfer,yes,1,2,14.1,42,daily,3,3,iphone,google,no
+rohit mehta,male,34,hyderabad,telangana,05-11-2025,19-08-2026,10,monthly,premium,1,12500,debit card,yes,4,1,46.7,68,monthly,4,4,android phone,friend,no
+neha verma,male,20,unknown,telangana,23-06-2026,30-08-2026,2,monthly,basic,466,716,debit card,yes,3,1,11.4,49.1,weekly,3,3,android phone,friend,no
+vikram singh,male,32,delhi,dl,30-12-2025,09-01-2026,8,annual,premium,1475,12464,upi,yes,7,1,13.1,48,daily,4,3,mobile,friend,no
+ananya rao,female,71,madurai,tamil nadu,23-07-2024,17-08-2026,25,monthly,premium,1404,35,upi,yes,4,1,37.1,5,monthly,4,3,iphone,website,yes
+riya kapoor,male,45,visakhapatnam,andhra pradesh,21-07-2026,27-08-2026,1,annual,pro,2,353.5,upi,no,6,2,37.4,65,monthly,3,3,android phone,friend,no
+sneha patel,male,38,nashik,maharashtra,01-04-2023,01-09-2026,41,monthly,premium,1,36,bank transfer,yes,8,1,7.7,58,weekly,2,1,laptop,friend,no
+neha verma,male,40,hubli,karnataka,21-03-2026,31-08-2026,12,monthly,premium,1597,7,credit card,no,2,1,70.6,72,daily,4,3,android phone,google,no
+amit shah,male,32,mysore,karnataka,17-03-2025,20-08-2026,17,annual,premium,827,13,credit card,yes,3,3,31.5,58.1,rarely,4,3,android phone,advertisement,no
+vikram singh,male,37,karimnagar,telangana,28-12-2023,27-08-2026,32,annual,premium,900,26,credit card,yes,3,3,21.7,40.6,weekly,3,4,iphone,social media,no
+riya kapoor,male,50,guntur,andhra pradesh,21-12-2022,24-08-2026,45,two-year,basic,581,15,upi,yes,6,2,20.6,6,daily,3,3,mobile,social media,no
+arjun kumar,male,41,delhi,delhi,29-09-2022,31-08-2026,47,two-year,premium,1,57,upi,no,2,0,36.6,17,rarely,3,3,iphone,friend,no
+ananya rao,female,41,hyderabad,telangana,12-04-2025,27-08-2026,9,monthly,premium,1,11,upi,yes,4,1,36,24,2-3 times/week,3,4,mobile,website,no
+ananya rao,male,44,surat,gujarat,09-04-2026,05-08-2026,12,monthly,pro,2,11,credit card,yes,3,2,49.6,18,daily,4,3,iphone,friend,no
+rohit mehta,male,35,delhi,delhi,20-05-2025,30-08-2026,14,monthly,basic,479,6,debit card,no,4,1,41.3,51.2,daily,3,2,iphone,friend,yes
+arjun kumar,male,32,unknown,kerala,01-06-2024,27-08-2026,32,two-year,pro,2,52,debit card,yes,2,1,6,48,weekly,3,3,laptop,friend,no
+priya reddy,male,34,unknown,maharashtra,27-06-2026,29-08-2026,2,annual,basic,399,750,debit card,no,2,1,21.7,64.9,rarely,2,2,laptop,advertisement,yes
+suresh babu,female,35,surat,gujarat,03-03-2022,28-08-2026,54,monthly,premium,581,67400,upi,yes,3,1,37,66,weekly,2,1,android phone,friend,no
+sneha patel,male,53,unknown,dl,26-05-2025,01-09-2026,15,monthly,premium,993,12,bank transfer,yes,7,1,35.2,72,daily,2,2,android phone,friend,no
+riya kapoor,male,22,guntur,unknown,09-07-2026,29-08-2026,1,two-year,premium,1,973,upi,yes,3,3,16.4,53,monthly,3,2,android phone,friend,no
+priya reddy,female,48,ahmedabad,gujarat,20-07-2026,27-08-2026,1,annual,basic,741,353.5,credit card,yes,0,1,42.7,67,rarely,5,5,mobile,advertisement,no
+suresh babu,female,42,nizamabad,telangana,16-07-2026,27-08-2026,1,annual,basic,774,700,upi,yes,6,1,33,7,rarely,3,3,laptop,advertisement,no
+vikram singh,female,30,kozhikode,kerala,27-08-2026,19-08-2026,1,monthly,basic,1800,1800,upi,no,0,2,12.3,52.5,daily,3,3,android phone,friend,yes
+arjun kumar,female,44,nagpur,unknown,31-10-2023,27-08-2026,34,two-year,basic,442,16200,upi,yes,3,2,54.7,48,rarely,2,3,iphone,advertisement,no
+priya reddy,male,61,karimnagar,telangana,01-09-2025,27-08-2026,12,monthly,pro,2,34,bank transfer,yes,1,1,46.4,50,weekly,3,4,android phone,website,no
+kiran das,male,41,madurai,tamil nadu,02-12-2024,20-08-2026,21,annual,basic,800,16,bank transfer,yes,3,0,21.7,48,monthly,4,5,iphone,google,no
+lakshmi devi,male,25,karimnagar,telangana,18-04-2026,27-08-2026,12,monthly,pro,2300,8,credit card,yes,1,2,26.6,48,daily,1,1,android phone,google,no
+nikhil joshi,male,21,delhi,delhi,23-08-2025,27-08-2026,12,annual,pro,2,34,debit card,yes,1,3,26.8,5,daily,3,3,iphone,advertisement,no
+riya kapoor,male,48,mumbai,maharashtra,15-06-2026,27-08-2026,2,annual,pro,2000,4000,debit card,yes,4,0,9,60,daily,3,2,android phone,social media,yes
+harsha vardhan,male,42,coimbatore,tamil nadu,29-09-2025,27-08-2026,11,annual,premium,1,8,upi,yes,4,0,10.7,20,weekly,1,2,android phone,social media,yes
+lakshmi devi,female,30,unknown,unknown,11-03-2026,26-08-2026,12,annual,premium,1,5800,bank transfer,yes,3,0,10.8,43.9,weekly,4,3,android phone,social media,no
+rohit mehta,female,21,pune,maharashtra,30-05-2026,29-08-2026,3,monthly,basic,553,1,bank transfer,yes,3,1,164.1,49,2-3 times/week,5,5,mobile,friend,yes
+kiran das,male,33,kochi,kerala,22-04-2026,27-08-2026,4,monthly,basic,581,1579,debit card,yes,3,2,54.8,35,weekly,5,5,mobile,website,no
+arjun kumar,male,32,thrissur,kerala,20-05-2026,27-08-2026,3,annual,pro,1,6,upi,no,4,1,10.7,49.6,rarely,3,4,android phone,friend,no
+suresh babu,male,51,unknown,tamil nadu,16-05-2026,18-07-2026,3,two-year,premium,1,3,credit card,no,5,1,21.7,56,weekly,4,3,android phone,google,no
+varun malhotra,female,32,bengaluru,karnataka,02-08-2025,30-08-2026,13,monthly,basic,733,7316,upi,no,1,0,6.3,83.3,daily,5,5,mobile,friend,no
+kavya rao,female,48,mangalore,unknown,25-05-2025,14-08-2026,15,monthly,basic,600,8600,bank transfer,yes,1,1,11.8,48,2-3 times/week,3,3,android phone,website,yes
+kiran das,female,49,thrissur,kerala,19-07-2026,21-08-2026,1,monthly,basic,581,351,upi,yes,4,1,47,72,daily,4,5,mobile,website,yes
+kavya rao,male,49,bengaluru,karnataka,22-12-2021,27-08-2026,57,monthly,basic,581,23523,credit card,yes,3,1,41.8,63,monthly,4,3,android phone,social media,no
+ananya rao,female,36,tirupati,andhra pradesh,08-01-2026,14-08-2026,1,annual,premium,800,822,debit card,yes,3,1,10.3,66,2-3 times/week,3,4,android phone,google,yes
+sneha patel,male,39,unknown,kerala,20-10-2022,21-08-2026,47,monthly,basic,500,18,credit card,yes,0,2,19.5,45,daily,3,4,android phone,website,no
+neha verma,male,45,delhi,delhi,24-07-2026,27-08-2026,1,two-year,premium,1,1231,credit card,yes,5,2,22.9,12,daily,3,2,android phone,google,yes
+kiran das,female,35,guntur,andhra pradesh,30-06-2026,24-08-2026,12,annual,premium,1,2961,credit card,no,5,1,9.2,93,daily,3,3,mobile,friend,no
+swathi reddy,male,42,visakhapatnam,andhra pradesh,13-03-2024,27-08-2026,30,annual,basic,894,353.5,credit card,no,5,0,22.6,49,weekly,3,3,iphone,website,no
+sneha patel,female,33,delhi,delhi,26-11-2025,24-08-2026,12,annual,basic,536,4179,upi,yes,2,1,16,69,weekly,3,3,iphone,friend,no
+sanjay kumar,male,39,delhi,delhi,25-11-2025,30-08-2026,9,monthly,premium,1400,11365,debit card,yes,3,1,48.7,78,rarely,2,2,iphone,google,no
+aditya rao,female,34,unknown,tamil nadu,02-08-2026,27-08-2026,1,monthly,basic,829,700,credit card,yes,4,1,56.9,72,2-3 times/week,2,3,iphone,friend,yes
+arjun kumar,female,19,unknown,delhi,12-10-2025,29-08-2026,10,annual,premium,1300,13870,debit card,yes,4,1,14.3,66,daily,3,2,android phone,advertisement,no
+amit shah,male,34,nasik,maharashtra,19-05-2026,27-08-2026,12,monthly,premium,1,3300,debit card,yes,2,4,41.3,42.9,daily,4,4,laptop,friend,no
+sneha patel,male,30,cbe,tamil nadu,14-08-2023,27-08-2026,37,monthly,premium,1,45,debit card,yes,2,0,93.2,69,rarely,4,5,mobile,google,no
+divya iyer,male,56,cochin,kerala,11-07-2026,27-08-2026,12,monthly,premium,1054,1100,credit card,yes,1,0,38.2,50,monthly,3,4,iphone,social media,no
+riya kapoor,female,37,hyderabad,telangana,06-02-2026,20-08-2026,12,monthly,basic,600,1,bank transfer,yes,5,1,27.4,35.5,weekly,4,3,iphone,social media,yes
+kavya rao,male,33,rajkot,gujarat,30-04-2026,10-08-2026,12,annual,basic,437,1,upi,yes,4,1,16.8,62,weekly,3,3,android phone,social media,no
+kiran das,female,18,unknown,gujarat,01-04-2026,18-08-2026,5,monthly,premium,979,4,debit card,yes,5,1,17.2,35,daily,4,3,laptop,friend,no
+meera nair,female,48,hyderabad,telangana,04-04-2024,28-08-2026,29,two-year,premium,1,37,credit card,yes,2,3,39,36,2-3 times/week,4,4,android phone,advertisement,no
+riya kapoor,male,18,blr,kar,18-08-2024,27-08-2026,12,monthly,premium,1,30,bank transfer,no,4,3,50.8,84,monthly,4,4,laptop,website,yes
+meera nair,male,34,trivandrum,kerala,19-02-2026,05-08-2026,6,monthly,premium,1,5,upi,yes,2,1,21.7,63,2-3 times/week,4,5,mobile,friend,yes
+swathi reddy,female,18,salem,tamil nadu,22-06-2026,20-08-2026,2,monthly,pro,2,4,debit card,no,6,2,21.7,60,rarely,3,4,iphone,advertisement,no
+suresh babu,female,42,vijayawada,andhra pradesh,01-01-2024,28-08-2026,32,monthly,premium,800,23,upi,yes,4,0,10.7,48.5,2-3 times/week,3,2,iphone,friend,no
+varun malhotra,male,42,coimbatore,tamil nadu,12-10-2025,20-08-2026,10,monthly,premium,1,10,debit card,yes,4,1,15.1,30,weekly,4,5,android phone,social media,no
+pooja nair,female,38,unknown,karnataka,08-06-2026,30-08-2026,2,monthly,premium,997,2,credit card,yes,4,1,21.7,18,daily,3,3,iphone,social media,no
+varun malhotra,male,42,delhi,delhi,30-07-2026,27-08-2026,12,two-year,basic,500,353.5,credit card,no,6,1,32.7,48,monthly,5,5,android phone,website,no
+manish gupta,male,53,mangalore,kar,13-07-2026,22-08-2026,1,monthly,basic,710,599,credit card,yes,0,1,53.7,43.7,daily,4,3,android phone,google,no
+aditya rao,male,43,vijayawada,andhra pradesh,08-06-2025,25-08-2026,13,monthly,pro,2,24,debit card,yes,3,2,19.5,48,weekly,3,3,iphone,social media,yes
+neha verma,male,25,surat,unknown,02-11-2024,27-08-2026,22,annual,premium,1,33,debit card,yes,3,2,15.1,70.8,monthly,4,3,android phone,social media,no
+amit shah,male,29,rajkot,gujarat,30-09-2025,18-08-2026,11,two-year,pro,2,24439,credit card,yes,3,1,21.7,47.1,daily,5,5,iphone,advertisement,no
+varun malhotra,female,38,ahmedabad,gujarat,20-09-2024,27-08-2026,23,two-year,premium,819,14128,debit card,no,5,1,14.2,73.5,daily,5,5,laptop,social media,no
+vikram singh,female,57,madurai,unknown,03-04-2026,15-08-2026,6,annual,pro,1,9,bank transfer,yes,6,1,7.5,47.8,daily,2,2,android phone,google,no
+kavya rao,female,18,surat,gujarat,17-02-2025,30-08-2026,18,monthly,basic,900,16,debit card,yes,2,1,60.8,73,rarely,4,4,android phone,advertisement,yes
+manish gupta,male,47,unknown,maharashtra,24-02-2026,27-08-2026,6,two-year,premium,1,6,upi,no,3,5,10.2,62.9,rarely,1,2,mobile,social media,no
+neha verma,female,38,nasik,maharashtra,24-06-2026,27-08-2026,2,monthly,premium,1,353.5,upi,yes,3,1,54,10.2,daily,3,3,iphone,google,yes
+nikhil joshi,female,34,delhi,delhi,19-12-2022,27-08-2026,45,monthly,basic,850,34,bank transfer,yes,3,1,30.8,54,weekly,3,3,laptop,friend,no
+ananya rao,male,47,unknown,maharashtra,30-08-2023,27-08-2026,36,monthly,premium,1600,46,bank transfer,no,4,1,17.2,58,weekly,4,3,android phone,google,no
+varun malhotra,female,34,unknown,maharashtra,30-06-2026,19-08-2026,12,monthly,premium,581,2,debit card,yes,1,1,12.5,49,daily,3,3,iphone,google,no
+ananya rao,female,37,nagpur,unknown,09-05-2026,21-08-2026,3,monthly,basic,487,353.5,credit card,yes,6,0,71.8,46.7,rarely,3,4,android phone,advertisement,yes
+amit shah,male,31,warangal,telangana,11-09-2025,23-08-2026,11,annual,basic,756,6920,bank transfer,yes,5,1,42.8,41.8,weekly,2,2,android phone,advertisement,no
+harsha vardhan,female,42,nasik,maharashtra,27-12-2025,27-08-2026,12,monthly,premium,1,353.5,debit card,yes,1,1,39.4,68,daily,2,2,android phone,google,no
+harsha vardhan,female,38,mumbai,maharashtra,10-01-2026,15-08-2026,7,monthly,basic,872,353.5,upi,yes,2,2,8.6,48,daily,2,3,android phone,social media,no
+sanjay kumar,female,41,thrissur,kerala,08-02-2026,21-08-2026,6,monthly,pro,2,14200,debit card,yes,2,2,20.4,67,rarely,3,2,iphone,social media,yes
+riya kapoor,female,19,delhi,unknown,26-07-2026,14-08-2026,1,annual,basic,511,353.5,credit card,yes,5,2,21.8,33,weekly,3,3,android phone,advertisement,yes
+kavya rao,male,49,karimnagar,telangana,15-04-2025,06-08-2026,16,monthly,basic,758,10,bank transfer,yes,5,0,17.7,8.9,daily,5,5,iphone,website,yes
+arjun kumar,male,25,mangalore,kar,08-12-2023,08-01-2026,37,two-year,basic,400,14,bank transfer,yes,5,2,17,48,daily,4,3,mobile,friend,no
+nikhil joshi,male,42,delhi,dl,14-05-2026,27-08-2026,3,two-year,basic,697,2000,bank transfer,no,2,0,18.3,80,daily,4,5,laptop,friend,no
+swathi reddy,female,42,hubli,kar,31-05-2026,27-08-2026,3,annual,premium,1,4,credit card,yes,3,4,14.7,60,rarely,2,2,iphone,friend,no
+neha verma,female,25,coimbatore,tamil nadu,04-03-2026,31-08-2026,6,monthly,premium,887,5,bank transfer,no,3,1,18.9,76,daily,3,4,mobile,friend,no
+nikhil joshi,male,52,unknown,delhi,04-05-2026,25-08-2026,4,monthly,premium,581,3932,bank transfer,yes,1,2,9.7,82,2-3 times/week,3,3,android phone,website,no
+lakshmi devi,female,35,bom,maharashtra,29-10-2024,29-07-2026,22,two-year,basic,876,16600,credit card,no,3,1,19.3,73.5,daily,4,4,mobile,friend,no
+amit shah,male,28,kozhikode,kerala,09-11-2023,29-07-2026,34,monthly,premium,1,353.5,credit card,yes,5,0,11.3,48,daily,4,3,android phone,website,yes
+aditya rao,male,45,nasik,unknown,30-07-2026,16-08-2026,1,monthly,basic,743,600,upi,yes,3,1,9.1,53,weekly,4,4,iphone,social media,no
+rahul sharma,female,23,visakhapatnam,andhra pradesh,31-07-2026,22-08-2026,1,annual,premium,1,1000,debit card,no,2,2,15.9,42,weekly,4,5,laptop,advertisement,no
+vikram singh,female,35,delhi,delhi,20-08-2024,22-08-2026,24,monthly,premium,1,27,debit card,yes,2,1,11.4,53,daily,3,2,iphone,friend,no
+harsha vardhan,male,20,vijayawada,andhra pradesh,14-01-2026,15-08-2026,7,annual,basic,562,3,credit card,yes,2,2,18.7,44,daily,3,3,android phone,friend,yes
+nikhil joshi,female,27,vijayawada,andhra pradesh,17-07-2026,24-08-2026,1,monthly,premium,1070,907,upi,yes,3,1,61.4,45.1,rarely,3,2,android phone,friend,no
+arjun kumar,male,41,thrissur,kerala,21-05-2026,28-08-2026,3,annual,basic,593,1,credit card,yes,1,1,23.4,67,weekly,3,4,android phone,website,no
+arjun kumar,male,29,mumbai,maharashtra,02-07-2026,23-06-2026,12,monthly,premium,1100,1,credit card,yes,3,1,26.7,36,monthly,5,5,android phone,friend,no
+pooja nair,female,35,kozhikode,kerala,31-07-2023,29-08-2026,37,two-year,basic,581,12872,credit card,yes,3,3,14.7,34,daily,5,5,android phone,friend,no
+rohit mehta,male,56,thiruvananthapuram,kerala,18-03-2025,29-06-2026,12,monthly,premium,1,23,debit card,no,3,0,146,47,2-3 times/week,3,2,android phone,website,no
+meera nair,female,42,warangal,unknown,30-07-2026,24-08-2026,1,annual,basic,1000,764,bank transfer,yes,3,0,7.4,40,daily,3,4,iphone,friend,yes
+arjun kumar,female,24,unknown,tamil nadu,08-01-2024,01-09-2026,32,monthly,premium,876,25500,credit card,yes,3,1,43.4,32,daily,3,3,iphone,advertisement,no
+swathi reddy,male,44,unknown,delhi,17-07-2026,23-08-2026,1,monthly,premium,934,929,credit card,yes,5,1,19.9,12,rarely,3,2,laptop,friend,no
+kiran das,female,33,tirupati,unknown,27-08-2026,13-08-2026,12,annual,basic,848,3,debit card,yes,2,2,9.8,46,weekly,2,2,mobile,social media,no
+harsha vardhan,female,56,madurai,tamil nadu,27-07-2026,22-08-2026,1,monthly,basic,581,1,debit card,no,4,1,31.6,50,2-3 times/week,4,5,iphone,friend,no
+kavya rao,male,54,unknown,kerala,28-04-2026,27-08-2026,4,annual,basic,736,2420,bank transfer,no,4,1,10.5,30,daily,4,4,mobile,google,yes
+rahul sharma,female,47,kochi,kerala,21-06-2026,01-09-2026,2,annual,premium,1,3100,credit card,yes,3,2,28.5,21,weekly,4,5,android phone,google,no
+arjun kumar,male,25,hyderabad,telangana,17-03-2026,29-08-2026,12,monthly,premium,1,5,debit card,yes,8,1,21.1,48,daily,3,3,iphone,friend,no
+swathi reddy,male,35,pune,maharashtra,12-06-2026,26-08-2026,2,monthly,premium,1,2,credit card,yes,4,0,21.7,12,2-3 times/week,4,3,iphone,website,yes
+pooja nair,female,33,madras,unknown,19-04-2026,27-08-2026,4,monthly,basic,888,3,bank transfer,no,2,0,19.5,81.2,daily,5,5,iphone,google,yes
+pooja nair,male,54,karimnagar,telangana,23-09-2024,24-08-2026,23,monthly,premium,1,21,debit card,yes,4,0,11.5,20,daily,4,5,android phone,friend,no
+vikram singh,male,58,bengaluru,karnataka,07-11-2023,16-08-2026,34,monthly,pro,2000,55,bank transfer,yes,0,1,8.6,66,daily,3,2,mobile,social media,no
+kavya rao,female,18,unknown,karnataka,23-07-2026,27-08-2026,12,monthly,premium,1000,900,credit card,yes,1,2,5.3,76.9,2-3 times/week,3,4,iphone,friend,no
+neha verma,male,29,delhi,dl,17-06-2026,14-08-2026,2,annual,basic,748,1337,credit card,yes,4,0,61.4,83,daily,4,5,android phone,social media,no
+sneha patel,female,36,unknown,tamil nadu,15-06-2026,20-08-2026,2,two-year,basic,600,1164,bank transfer,yes,3,0,21.7,41,weekly,3,3,android phone,friend,no
+swathi reddy,male,35,thrissur,kerala,15-03-2025,01-09-2026,17,annual,basic,538,9,upi,yes,5,1,21.7,48,daily,4,3,android phone,friend,no
+nikhil joshi,male,42,baroda,gujarat,13-04-2026,13-08-2026,4,monthly,pro,2,11,credit card,yes,0,1,10.9,48,rarely,3,3,iphone,google,no
+swathi reddy,male,23,delhi,delhi,23-07-2026,20-08-2026,12,annual,premium,1,1549,credit card,yes,7,0,15.7,48,weekly,5,5,iphone,social media,no
+varun malhotra,male,62,kochi,kerala,29-01-2026,16-08-2026,7,monthly,premium,1,8556,upi,no,5,2,41.4,66,2-3 times/week,3,2,android phone,friend,yes
+rohit mehta,male,37,delhi,delhi,13-01-2026,27-08-2026,7,monthly,basic,408,3,debit card,no,5,1,37.7,48.2,daily,2,2,android phone,google,no
+varun malhotra,male,26,ahmedabad,gujarat,27-04-2026,31-08-2026,12,two-year,premium,1,6,credit card,yes,4,0,21.5,48,daily,4,3,iphone,friend,no
+lakshmi devi,male,20,kochi,kerala,17-07-2026,25-08-2026,12,monthly,basic,400,400,debit card,yes,3,0,15.8,19.8,weekly,5,4,laptop,google,yes
+rahul sharma,female,32,trivandrum,kerala,19-06-2024,27-08-2026,26,monthly,premium,980,23,credit card,no,2,1,39.2,29.6,daily,4,5,iphone,social media,yes
+kavya rao,male,43,unknown,andhra pradesh,09-07-2026,26-08-2026,12,monthly,premium,1,1150,upi,no,3,1,17,56,rarely,3,3,android phone,friend,no
+rahul sharma,female,36,hyd,telangana,31-12-2025,20-08-2026,12,two-year,premium,1,13331,credit card,no,3,1,14.6,38,daily,4,5,mobile,friend,no
+nikhil joshi,male,31,vijayawada,andhra pradesh,19-07-2026,31-08-2026,1,monthly,basic,730,600,bank transfer,yes,3,1,16.4,48,daily,2,3,android phone,advertisement,no
+neha verma,female,26,rajkot,gujarat,15-07-2026,30-07-2026,1,annual,premium,1564,1221,upi,yes,3,1,21.7,48,weekly,3,5,android phone,social media,yes
+varun malhotra,male,36,nagpur,maharashtra,15-10-2023,20-08-2026,35,monthly,basic,668,19700,debit card,no,1,1,14.5,48,daily,3,3,iphone,google,no
+kiran das,female,35,warangal,telangana,20-06-2026,27-08-2026,2,monthly,basic,637,1100,debit card,no,2,3,29.4,66,rarely,3,4,android phone,social media,no
+ananya rao,male,35,vizag,andhra pradesh,11-04-2024,25-08-2026,29,monthly,basic,408,10,bank transfer,yes,2,2,33.4,6,2-3 times/week,4,5,mobile,friend,no
+priya reddy,male,40,karimnagar,telangana,17-04-2025,31-08-2026,16,monthly,basic,500,7528,upi,yes,1,1,50.5,5,rarely,3,4,iphone,friend,yes
+meera nair,female,36,delhi,delhi,07-06-2025,01-09-2026,14,monthly,premium,894,12,upi,no,2,0,21.7,74,weekly,5,5,iphone,friend,no
+nikhil joshi,male,44,hubli,unknown,26-09-2021,21-08-2026,60,monthly,basic,412,21,debit card,no,3,2,11.3,39,daily,3,4,mobile,google,no
+manish gupta,female,28,delhi,dl,28-02-2026,27-08-2026,6,monthly,basic,629,3,upi,yes,5,2,8.1,44,daily,3,3,android phone,friend,yes
+vikram singh,female,39,rajkot,unknown,30-07-2026,08-08-2026,1,monthly,basic,600,600,credit card,yes,1,0,22.7,48,rarely,3,3,iphone,social media,yes
+harsha vardhan,female,35,unknown,karnataka,14-07-2026,25-08-2026,1,monthly,basic,883,786,bank transfer,no,0,1,25.8,46,daily,3,4,mobile,friend,no
+amit shah,male,36,unknown,karnataka,28-03-2026,29-07-2026,5,two-year,premium,1,6,credit card,no,3,1,5.6,68.9,weekly,4,4,android phone,friend,no
+vikram singh,male,44,nasik,unknown,05-03-2022,19-07-2026,54,monthly,premium,973,45,debit card,yes,3,1,21.7,64.9,rarely,4,3,mobile,friend,yes
+divya iyer,male,30,bengaluru,karnataka,27-08-2026,27-08-2026,1,monthly,premium,958,736,bank transfer,yes,1,2,12.4,42,weekly,2,2,iphone,friend,yes
+sneha patel,male,34,vijayawada,andhra pradesh,17-02-2026,24-08-2026,6,monthly,basic,681,3700,bank transfer,yes,0,1,51,27,rarely,4,3,mobile,social media,no
+manish gupta,male,18,hyderabad,telangana,27-01-2023,27-08-2026,43,annual,basic,581,35,upi,no,4,2,27.7,34,daily,2,2,android phone,google,yes
+ananya rao,male,28,tirupati,andhra pradesh,06-02-2025,27-08-2026,19,annual,pro,581,37,bank transfer,yes,4,1,9.2,71.8,monthly,3,1,iphone,google,no
+vikram singh,female,19,tirupati,andhra pradesh,21-10-2025,08-06-2026,10,monthly,premium,857,8,credit card,yes,1,2,20,37,daily,2,2,android phone,friend,yes
+riya kapoor,female,18,unknown,kerala,21-04-2026,29-08-2026,4,annual,premium,1,4000,credit card,no,3,0,13,51,2-3 times/week,3,2,laptop,advertisement,no
+meera nair,female,22,unknown,kerala,19-11-2025,25-08-2026,9,monthly,premium,951,8,bank transfer,yes,5,1,17.9,38,rarely,3,2,laptop,google,no
+vikram singh,female,29,delhi,delhi,27-08-2026,27-08-2026,12,two-year,basic,433,1,upi,yes,2,2,34.5,56,rarely,2,2,android phone,friend,yes
+vikram singh,female,36,mangalore,unknown,12-06-2026,30-08-2026,2,annual,premium,915,1800,credit card,yes,0,1,21,84,weekly,2,2,android phone,advertisement,no
+meera nair,female,24,calicut,kerala,07-12-2026,01-09-2026,1,monthly,premium,1,1,debit card,yes,3,2,46.4,48,2-3 times/week,2,2,android phone,website,no
+priya reddy,male,24,unknown,karnataka,07-07-2022,30-08-2026,50,annual,premium,969,42340,upi,yes,5,1,48.5,42,daily,2,2,android phone,social media,no
+varun malhotra,male,31,salem,unknown,20-07-2026,27-08-2026,1,two-year,pro,2,1,debit card,yes,4,1,78.2,48,rarely,3,2,iphone,advertisement,no
+riya kapoor,male,58,mumbai,maharashtra,23-06-2026,29-08-2026,2,monthly,basic,571,1,debit card,no,0,1,21.7,95,weekly,3,2,android phone,social media,no
+swathi reddy,female,22,madras,unknown,21-07-2025,21-07-2026,13,monthly,basic,639,8200,debit card,yes,3,0,21.2,74,daily,3,2,android phone,website,no
+suresh babu,male,35,coimbatore,unknown,18-07-2025,31-08-2026,13,annual,pro,2,29,bank transfer,yes,4,1,55.6,80,daily,5,5,iphone,website,no
+lakshmi devi,female,32,cbe,tamil nadu,24-07-2026,27-08-2026,1,monthly,premium,1,1,debit card,yes,0,0,23,44.1,daily,5,3,mobile,google,no
+rahul sharma,male,42,visakhapatnam,andhra pradesh,13-06-2025,08-08-2026,14,annual,premium,1,13,credit card,yes,1,1,19.9,60,2-3 times/week,3,3,android phone,friend,no
+rahul sharma,male,37,mangalore,karnataka,26-06-2026,15-08-2026,2,annual,basic,651,1,debit card,yes,3,2,22.4,59,daily,5,5,android phone,friend,no
+rohit mehta,male,26,karimnagar,telangana,24-11-2025,15-08-2026,9,two-year,basic,603,4,bank transfer,no,8,1,10.7,30.1,2-3 times/week,3,3,android phone,google,yes
+riya kapoor,male,52,thrissur,kerala,08-06-2026,01-09-2026,2,monthly,premium,1104,353.5,bank transfer,yes,4,3,28.5,42,2-3 times/week,4,4,mobile,social media,yes
+sanjay kumar,male,32,delhi,delhi,23-03-2026,13-07-2026,12,monthly,premium,1,353.5,credit card,yes,1,1,23.6,65,rarely,4,4,android phone,social media,no
+ananya rao,female,44,ahmedabad,gujarat,19-07-2026,28-08-2026,1,monthly,basic,508,510,bank transfer,yes,3,0,8.3,16,daily,5,5,laptop,google,yes
+riya kapoor,male,44,salem,tamil nadu,26-05-2025,21-08-2026,15,annual,basic,626,353.5,credit card,yes,4,1,18.9,53.5,daily,2,3,iphone,website,no
+varun malhotra,male,36,trivandrum,kerala,26-05-2026,08-08-2026,3,monthly,premium,1,4,credit card,yes,2,1,21.7,67.9,daily,4,3,android phone,google,no
+pooja nair,male,35,bangalore,karnataka,07-08-2026,19-08-2026,12,two-year,basic,729,749,debit card,no,1,1,6.7,59,daily,3,3,iphone,friend,no
+rahul sharma,male,18,unknown,tamil nadu,07-03-2022,19-08-2026,54,annual,premium,581,38,credit card,no,2,1,5.6,54,monthly,3,4,android phone,friend,no
+sneha patel,male,25,mysore,karnataka,25-07-2026,26-08-2026,1,annual,premium,1108,1,credit card,yes,3,0,10,32.2,weekly,5,4,android phone,google,no
+swathi reddy,female,33,mangalore,karnataka,08-07-2026,23-08-2026,1,monthly,premium,1,353.5,credit card,yes,1,1,12.1,60,weekly,3,3,laptop,social media,yes
+kavya rao,male,49,kochi,kerala,01-08-2026,27-08-2026,12,annual,basic,407,400,credit card,yes,5,0,19.4,17,2-3 times/week,3,3,iphone,website,no
+swathi reddy,male,18,warangal,telangana,27-08-2026,21-08-2026,12,annual,premium,1,6,debit card,yes,3,1,29.1,38,daily,5,5,iphone,google,no
+amit shah,male,34,unknown,kerala,12-07-2026,18-08-2026,1,monthly,basic,759,675,upi,yes,0,1,15.4,57,daily,3,4,android phone,advertisement,no
+varun malhotra,female,18,mysore,karnataka,26-07-2026,24-08-2026,1,monthly,premium,1100,900,bank transfer,yes,3,0,35.9,50,weekly,4,5,mobile,social media,no
+manish gupta,female,26,guntur,andhra pradesh,15-12-2024,08-07-2026,20,annual,premium,1,21400,debit card,yes,2,1,112.6,69,daily,3,4,iphone,google,no
+priya reddy,female,36,salem,tamil nadu,08-07-2026,23-08-2026,1,annual,basic,601,600,upi,yes,5,2,20.4,48,daily,3,3,mobile,friend,no
+pooja nair,male,33,trivandrum,kerala,16-01-2026,25-08-2026,7,monthly,basic,1,12800,bank transfer,yes,2,2,21.7,48,daily,4,5,android phone,friend,no
+priya reddy,female,47,thrissur,kerala,31-07-2026,10-08-2026,1,monthly,basic,804,640,credit card,no,3,3,12.4,92.2,weekly,2,2,mobile,friend,no
+kiran das,male,39,unknown,kerala,10-12-2025,23-08-2026,10,annual,basic,420,4400,upi,yes,5,0,13.6,41,2-3 times/week,4,4,iphone,advertisement,no
+rahul sharma,female,31,karimnagar,telangana,14-04-2022,27-08-2026,53,monthly,premium,899,39,debit card,yes,3,1,40.1,60,weekly,4,4,iphone,google,no
+neha verma,male,42,warangal,telangana,09-05-2024,31-08-2026,24,monthly,basic,813,16,debit card,yes,2,1,11.8,47,weekly,2,2,android phone,google,yes
+sanjay kumar,female,56,delhi,dl,31-08-2025,29-08-2026,12,two-year,pro,1,14367,credit card,yes,6,1,7.9,30,daily,4,3,android phone,friend,no
+vikram singh,male,28,guntur,andhra pradesh,08-07-2026,01-09-2026,1,monthly,pro,2,353.5,debit card,yes,2,2,64.8,18,monthly,4,4,iphone,social media,no
+kiran das,male,47,nasik,maharashtra,24-04-2026,27-08-2026,12,two-year,premium,1,6,credit card,yes,3,0,22.9,48,weekly,2,3,android phone,google,no
+harsha vardhan,female,22,pune,maharashtra,03-06-2026,16-08-2026,12,annual,premium,839,2,credit card,yes,6,1,14.1,84,weekly,3,3,android phone,google,no
+ananya rao,male,33,salem,tamil nadu,31-05-2026,24-08-2026,3,monthly,basic,893,2200,debit card,yes,3,1,12.5,24,2-3 times/week,2,3,android phone,google,yes
+meera nair,female,22,trivandrum,kerala,25-11-2025,22-08-2026,9,monthly,premium,1287,11,upi,yes,4,2,10.7,54,2-3 times/week,4,4,iphone,friend,no
+vikram singh,female,51,unknown,delhi,03-04-2026,27-08-2026,6,annual,premium,870,4300,credit card,no,2,2,14.5,64.3,daily,2,3,android phone,friend,no
+swathi reddy,male,48,unknown,gujarat,27-08-2026,22-08-2026,50,monthly,basic,611,23100,debit card,yes,3,1,21.7,43.8,daily,3,3,android phone,website,yes
+vikram singh,male,18,thiruvananthapuram,kerala,20-12-2022,27-08-2026,45,two-year,basic,900,37,debit card,yes,3,1,24.5,42,weekly,4,4,android phone,friend,no
+rohit mehta,male,22,nashik,maharashtra,14-08-2025,30-08-2026,12,monthly,basic,523,6000,credit card,yes,2,2,8,62,rarely,3,4,iphone,google,no
+divya iyer,male,44,tirupati,andhra pradesh,10-06-2024,27-08-2026,23,monthly,premium,1,22,upi,yes,1,1,19.6,48,daily,4,3,mobile,website,no
+arjun kumar,female,35,mumbai,maharashtra,18-03-2025,14-08-2026,17,two-year,premium,900,11,upi,yes,0,0,11.2,75.1,daily,3,4,iphone,friend,no
+sanjay kumar,male,31,karimnagar,telangana,05-01-2024,31-08-2026,32,annual,premium,807,26400,upi,yes,1,1,25.9,45,weekly,5,5,iphone,advertisement,no
+lakshmi devi,male,31,delhi,delhi,06-05-2022,25-07-2026,52,monthly,pro,2224,100600,debit card,yes,4,1,95.9,48,monthly,4,4,mobile,social media,no
+swathi reddy,female,42,delhi,delhi,23-12-2025,24-08-2026,8,annual,basic,849,7,upi,yes,2,1,29.5,84,rarely,3,4,iphone,social media,no
+kavya rao,male,34,mysuru,karnataka,10-07-2026,27-08-2026,12,monthly,basic,717,353.5,bank transfer,yes,1,1,25.1,48,rarely,4,5,android phone,website,no
+rahul sharma,female,25,hyderabad,unknown,31-07-2026,25-08-2026,12,annual,pro,2952,353.5,credit card,no,4,2,23.5,62,daily,2,2,android phone,website,no
+lakshmi devi,female,21,unknown,unknown,14-11-2022,16-08-2026,46,monthly,premium,1294,56922,upi,no,5,0,8.5,37,weekly,3,2,mobile,friend,yes
+suresh babu,male,27,mangaluru,karnataka,01-04-2025,27-08-2026,17,monthly,premium,1,19,bank transfer,yes,7,0,50.5,31,monthly,4,5,iphone,social media,no
+nikhil joshi,male,25,rajkot,gujarat,11-06-2023,01-09-2026,34,annual,basic,853,23200,upi,yes,3,1,22.2,71,daily,5,5,iphone,friend,no
+divya iyer,female,46,warangal,telangana,19-05-2026,28-08-2026,3,monthly,basic,1,3,bank transfer,yes,3,3,57,36,weekly,3,4,iphone,google,no
+arjun kumar,male,28,hubballi,karnataka,19-04-2025,31-08-2026,16,monthly,basic,822,353.5,credit card,yes,3,0,21.7,50,rarely,5,5,mobile,website,no
+amit shah,female,33,nizamabad,telangana,20-05-2026,22-08-2026,3,annual,basic,573,1800,debit card,yes,3,3,33.7,36,monthly,3,2,mobile,advertisement,no
+meera nair,female,41,unknown,gujarat,30-06-2026,17-08-2026,2,annual,pro,2,4,bank transfer,yes,1,3,66.9,48,daily,2,3,android phone,website,no
+kavya rao,male,38,guntur,andhra pradesh,29-05-2026,31-08-2026,3,monthly,basic,630,1,debit card,yes,3,1,12.2,37,daily,1,1,android phone,friend,yes
+priya reddy,female,21,delhi,delhi,16-09-2022,27-08-2026,48,annual,premium,813,30300,upi,yes,3,2,18.5,55,weekly,4,5,laptop,friend,no
+vikram singh,female,18,rajkot,gujarat,05-04-2023,27-08-2026,41,annual,basic,706,30300,debit card,yes,3,2,12.2,44,2-3 times/week,3,3,mobile,social media,no
+arjun kumar,male,27,trivandrum,kerala,17-06-2026,24-08-2026,2,monthly,pro,1,2,bank transfer,no,3,1,57.7,32,weekly,2,2,android phone,google,no
+ananya rao,male,41,vadodara,gujarat,15-12-2025,28-08-2026,8,monthly,premium,861,6096,debit card,yes,2,1,18.8,14,2-3 times/week,4,4,android phone,google,no
+ananya rao,male,50,kochi,kerala,05-04-2025,30-08-2026,17,monthly,pro,581,38,upi,yes,3,1,9.5,37,2-3 times/week,3,4,android phone,social media,no
+rahul sharma,female,58,delhi,delhi,28-05-2026,17-08-2026,3,monthly,premium,1000,2,upi,yes,1,1,19.8,32,daily,4,4,android phone,website,no
+meera nair,male,35,delhi,delhi,22-07-2026,30-08-2026,12,monthly,basic,847,705,upi,yes,2,3,23.8,27.3,2-3 times/week,2,2,android phone,friend,no
+pooja nair,male,36,delhi,delhi,22-05-2026,19-08-2026,3,monthly,premium,942,2773,debit card,yes,2,2,26.5,59,daily,2,2,iphone,website,no
+neha verma,male,27,unknown,unknown,03-01-2026,26-08-2026,8,annual,premium,1,10400,credit card,yes,2,1,21.7,42,daily,2,2,iphone,google,no
+lakshmi devi,female,36,warangal,telangana,27-12-2023,29-08-2026,32,monthly,premium,581,27,credit card,yes,7,0,10.1,42,rarely,2,2,laptop,friend,yes
+suresh babu,male,36,madurai,unknown,10-02-2021,09-08-2026,59,monthly,basic,610,27,credit card,yes,3,1,27.1,60,2-3 times/week,3,2,android phone,friend,no
+rahul sharma,male,18,unknown,kerala,30-06-2022,27-08-2026,50,monthly,premium,1,68,debit card,yes,4,2,18.3,65,weekly,4,4,android phone,friend,no
+meera nair,female,26,thrissur,kerala,31-03-2026,22-08-2026,5,monthly,basic,716,353.5,bank transfer,yes,3,0,12.5,55,monthly,5,5,android phone,google,no
+rohit mehta,male,52,mumbai,maharashtra,14-07-2026,24-08-2026,1,monthly,basic,874,915,credit card,no,2,1,14.2,66,weekly,3,3,android phone,friend,yes
+lakshmi devi,female,23,delhi,dl,15-12-2024,28-08-2026,20,two-year,premium,1,25,upi,no,2,1,27.8,48,weekly,1,1,android phone,social media,no
+riya kapoor,male,35,madurai,tamil nadu,27-08-2025,26-08-2026,12,two-year,basic,735,7584,credit card,yes,3,0,36.4,69,daily,3,4,android phone,friend,no
+ananya rao,male,35,vijayawada,andhra pradesh,23-12-2024,11-08-2026,20,monthly,premium,1,32,bank transfer,no,2,1,16.4,64.4,daily,5,4,laptop,social media,no
+varun malhotra,male,49,visakhapatnam,andhra pradesh,30-07-2026,27-08-2026,1,two-year,basic,600,639,debit card,yes,4,4,21,68,weekly,2,1,android phone,advertisement,no
+meera nair,male,40,surat,gujarat,26-06-2026,21-08-2026,12,annual,basic,736,1,bank transfer,no,3,1,9.2,12,2-3 times/week,3,5,android phone,social media,yes
+rohit mehta,female,40,rajkot,gujarat,30-04-2023,29-07-2026,40,two-year,basic,800,23830,credit card,no,2,2,8.9,48,daily,3,4,android phone,social media,yes
+swathi reddy,female,20,unknown,kerala,11-07-2022,25-08-2026,50,monthly,basic,842,32,debit card,yes,4,2,31,51.6,daily,2,1,iphone,social media,no
+harsha vardhan,male,35,delhi,delhi,27-08-2025,24-08-2026,12,monthly,pro,1761,22,credit card,no,5,2,50.3,48,daily,3,4,android phone,social media,no
+priya reddy,male,45,nizamabad,telangana,16-04-2026,01-09-2026,12,annual,premium,1,4,debit card,yes,1,2,39.9,66.5,daily,2,3,android phone,friend,no
+varun malhotra,female,46,tirupati,andhra pradesh,22-06-2026,27-08-2026,2,monthly,basic,709,1,bank transfer,no,1,2,20.5,54,daily,5,5,laptop,friend,no
+aditya rao,female,35,surat,gujarat,26-05-2026,27-08-2026,12,annual,basic,642,1800,bank transfer,yes,7,1,13.4,48,daily,4,4,mobile,friend,yes
+lakshmi devi,female,26,ahmedabad,gujarat,12-05-2023,12-08-2026,40,monthly,premium,1,46301,credit card,yes,2,3,21,42,monthly,4,4,android phone,friend,no
+arjun kumar,female,35,nasik,maharashtra,30-04-2026,27-08-2026,12,annual,basic,895,3,credit card,yes,2,1,21.7,72,daily,3,4,mobile,social media,yes
+kiran das,male,44,pune,maharashtra,29-06-2024,23-08-2026,26,monthly,premium,800,22,credit card,no,3,1,8.8,24,2-3 times/week,2,2,laptop,social media,no
+vikram singh,male,44,hubli,karnataka,18-05-2026,27-08-2026,3,monthly,premium,1,3,debit card,yes,3,2,21.7,65,2-3 times/week,2,2,android phone,advertisement,no
+priya reddy,male,19,blr,kar,16-04-2025,22-08-2026,16,annual,basic,730,12493,bank transfer,no,4,1,8.8,48,2-3 times/week,4,3,iphone,google,no
+kiran das,male,36,coimbatore,tamil nadu,10-06-2026,31-08-2026,2,monthly,premium,1018,2,debit card,no,7,1,16.4,60,rarely,5,4,android phone,website,no
+meera nair,male,43,salem,tamil nadu,22-05-2026,20-07-2026,3,annual,premium,1,3286,upi,no,0,1,16.1,84,monthly,3,4,android phone,social media,no
+vikram singh,female,43,madurai,tamil nadu,30-06-2024,01-09-2026,26,annual,premium,1,29,bank transfer,yes,6,2,15,91,daily,2,2,iphone,google,no
+amit shah,female,44,madurai,tamil nadu,05-09-2026,27-08-2026,3,monthly,premium,1,2,bank transfer,no,1,0,23.5,42.5,rarely,3,3,iphone,social media,no
+divya iyer,male,54,delhi,delhi,03-09-2024,16-08-2026,24,annual,basic,838,16,debit card,yes,3,2,14.2,48,monthly,3,3,android phone,friend,no
+pooja nair,male,35,nagpur,maharashtra,08-01-2026,25-08-2026,1,monthly,premium,1,1,debit card,yes,1,1,73.3,36,daily,2,3,iphone,social media,no
+rohit mehta,female,27,pune,maharashtra,12-05-2026,16-07-2026,12,monthly,basic,404,1000,credit card,yes,3,1,26,28,rarely,3,2,mobile,friend,yes
+kiran das,male,55,cbe,unknown,25-11-2023,27-08-2026,33,monthly,basic,832,29270,bank transfer,yes,3,1,19.1,74,weekly,4,5,android phone,friend,no
+arjun kumar,male,43,vadodara,gujarat,31-07-2026,18-08-2026,1,two-year,basic,1,1,credit card,yes,1,1,5.4,42,weekly,3,2,android phone,friend,no
+sanjay kumar,male,32,delhi,dl,24-07-2026,31-08-2026,12,annual,basic,641,609,debit card,yes,2,2,33.8,65,weekly,4,5,iphone,website,no
+arjun kumar,male,39,unknown,maharashtra,15-06-2026,27-08-2026,2,two-year,basic,487,871,credit card,yes,4,1,17.7,66,daily,2,3,android phone,social media,yes
+aditya rao,male,48,nashik,maharashtra,25-08-2024,09-08-2026,24,monthly,pro,2,55,credit card,yes,0,1,10.4,43,weekly,3,3,laptop,social media,no
+varun malhotra,female,42,bom,maharashtra,02-10-2025,27-08-2026,11,two-year,basic,482,5193,credit card,yes,2,1,1.8,36,daily,3,3,laptop,google,no
+amit shah,male,47,nizamabad,telangana,06-12-2026,28-08-2026,2,annual,basic,600,1000,upi,no,2,1,16.4,60,monthly,5,4,android phone,friend,no
+aditya rao,male,40,unknown,andhra pradesh,12-07-2026,30-08-2026,1,annual,basic,596,591,debit card,yes,3,0,33.8,38.7,weekly,3,3,mobile,friend,no
+sneha patel,female,35,delhi,unknown,20-10-2025,28-08-2026,10,monthly,basic,777,7,credit card,yes,2,1,86.5,36,rarely,2,2,laptop,google,yes
+sneha patel,male,45,rajkot,gujarat,07-07-2025,27-08-2026,14,annual,basic,600,6102,debit card,yes,3,1,11.4,5,weekly,5,4,android phone,friend,no
+pooja nair,male,18,delhi,delhi,20-06-2024,01-09-2026,26,monthly,basic,679,15,debit card,yes,6,1,18,64,weekly,3,2,iphone,friend,no
+kiran das,female,35,kozhikode,kerala,13-02-2026,23-08-2026,6,annual,basic,630,3,credit card,no,2,0,21.7,10,weekly,3,4,iphone,friend,no
+aditya rao,female,30,unknown,unknown,12-07-2026,08-09-2026,1,annual,basic,847,838,bank transfer,no,5,1,48,24,weekly,4,3,iphone,advertisement,yes
+lakshmi devi,female,25,unknown,unknown,26-07-2026,30-08-2026,1,monthly,basic,565,583,credit card,yes,5,1,58.1,105,weekly,3,2,android phone,social media,no
+varun malhotra,male,30,unknown,maharashtra,12-07-2023,16-08-2026,33,monthly,basic,887,29500,credit card,yes,5,1,13.9,13,weekly,3,2,iphone,advertisement,no
+rohit mehta,female,35,mumbai,maharashtra,09-06-2026,27-08-2026,12,monthly,premium,1,2879,upi,yes,3,0,25.4,21,daily,3,3,iphone,google,no
+neha verma,female,41,mangalore,karnataka,27-08-2026,25-08-2026,1,monthly,premium,802,708,debit card,yes,3,3,18.9,28,daily,2,1,mobile,friend,yes
+rahul sharma,male,28,guntur,andhra pradesh,29-07-2026,26-08-2026,1,monthly,premium,581,1,debit card,yes,1,2,36.2,15,daily,4,3,iphone,advertisement,no
+sanjay kumar,male,39,delhi,delhi,17-11-2021,27-08-2026,58,monthly,premium,1,77108,credit card,yes,4,1,25.7,49,daily,4,4,iphone,friend,no
+riya kapoor,male,22,unknown,kerala,26-06-2026,25-08-2026,2,monthly,premium,1200,2300,debit card,no,3,1,40.9,29,weekly,4,4,android phone,social media,no
+varun malhotra,male,52,unknown,kerala,27-12-2025,01-09-2026,12,two-year,premium,1158,9800,bank transfer,yes,2,0,74,6,daily,4,4,iphone,social media,no
+rohit mehta,male,56,thiruvananthapuram,kerala,18-03-2025,29-06-2026,12,monthly,premium,1,23,debit card,no,3,0,146,47,2-3 times/week,3,2,android phone,website,no
+divya iyer,female,35,madurai,tamil nadu,24-07-2026,21-08-2026,1,annual,premium,581,926,upi,yes,3,3,12.2,6,weekly,3,3,iphone,social media,no
+neha verma,male,26,pune,maharashtra,18-12-2024,16-08-2026,20,monthly,basic,752,15265,bank transfer,yes,3,1,36.5,50,weekly,3,3,android phone,friend,no
+neha verma,male,49,kochi,kerala,20-04-2024,28-08-2026,28,annual,basic,480,12,upi,yes,4,3,28.8,38.3,daily,3,3,iphone,advertisement,no
+neha verma,male,38,unknown,delhi,13-07-2026,27-08-2026,12,monthly,pro,1,1,debit card,no,1,3,57.7,42,daily,3,3,iphone,social media,no
+meera nair,male,28,vijayawada,unknown,12-07-2026,27-07-2026,12,annual,premium,1,1291,credit card,yes,3,1,8.4,66,monthly,4,4,laptop,friend,no
+aditya rao,male,35,baroda,gujarat,26-09-2025,27-08-2026,11,monthly,premium,1,13,upi,yes,6,0,12.3,60,daily,2,3,laptop,friend,no
+meera nair,male,58,mumbai,maharashtra,09-06-2024,27-08-2026,27,monthly,premium,1,41433,upi,yes,4,0,10.5,60,weekly,4,4,iphone,social media,no
+manish gupta,male,36,hyderabad,telangana,01-07-2026,27-08-2026,2,annual,basic,803,1634,upi,yes,1,2,23.1,78,weekly,4,3,mobile,social media,no
+divya iyer,male,30,mysuru,karnataka,21-12-2023,17-08-2026,32,monthly,pro,2,59100,upi,yes,2,1,21.7,66,daily,2,2,iphone,social media,no
+suresh babu,female,40,pune,maharashtra,08-07-2025,16-08-2026,14,monthly,premium,900,11413,credit card,yes,3,4,13.5,48,monthly,2,2,android phone,google,yes
+kavya rao,male,41,delhi,delhi,18-06-2026,30-07-2026,2,two-year,pro,1,2882,credit card,yes,4,0,30.8,5,daily,4,4,android phone,friend,no
+sanjay kumar,female,34,mumbai,maharashtra,03-06-2024,18-08-2026,27,two-year,premium,1,25,bank transfer,yes,4,1,12.7,48,monthly,3,3,mobile,advertisement,no
+kiran das,female,33,unknown,kerala,10-05-2026,28-08-2026,12,annual,premium,1,3226,debit card,yes,3,4,11.9,62.3,daily,3,3,laptop,google,no
+kavya rao,male,49,thiruvananthapuram,kerala,27-08-2026,31-08-2026,1,annual,basic,500,400,upi,yes,5,2,26.9,30.1,daily,3,3,iphone,website,no
+kiran das,female,35,pune,maharashtra,29-05-2024,27-08-2026,27,two-year,premium,1,31509,credit card,yes,4,2,10.6,62,2-3 times/week,3,3,iphone,social media,no
+ananya rao,male,33,kochi,kerala,31-01-2023,17-08-2026,43,monthly,basic,624,25100,credit card,yes,2,1,9.9,24.5,2-3 times/week,4,5,iphone,google,no
+manish gupta,male,32,hubli,kar,18-10-2024,27-08-2026,22,monthly,basic,583,10,credit card,yes,4,2,110.7,36,monthly,5,5,laptop,website,yes
+swathi reddy,male,39,rajkot,gujarat,27-08-2026,24-08-2026,1,monthly,basic,600,662,credit card,yes,2,0,43.3,68,monthly,3,3,iphone,google,yes
+lakshmi devi,male,35,delhi,delhi,27-12-2024,31-08-2026,20,monthly,premium,1178,353.5,bank transfer,yes,7,1,36.6,56.4,daily,3,3,iphone,friend,yes
+kiran das,male,18,bengaluru,karnataka,05-03-2026,29-07-2026,6,two-year,pro,2,11400,credit card,yes,7,2,18.1,70,2-3 times/week,2,2,android phone,google,no
+sneha patel,female,36,bengaluru,karnataka,12-02-2024,27-08-2026,21,monthly,basic,880,16400,upi,yes,1,1,21.7,60,daily,2,2,android phone,google,no
+suresh babu,male,35,visakhapatnam,andhra pradesh,13-12-2025,27-07-2026,8,two-year,basic,1,8361,upi,yes,0,2,38.2,48,2-3 times/week,3,3,laptop,google,yes
+sanjay kumar,male,18,delhi,delhi,04-05-2026,29-08-2026,12,monthly,premium,1,3360,upi,yes,2,0,25.9,48,weekly,3,4,iphone,social media,no
+meera nair,female,28,unknown,tamil nadu,19-11-2024,25-08-2026,22,monthly,basic,399,6800,bank transfer,no,2,1,27.6,42,daily,3,2,laptop,friend,no
+rahul sharma,female,42,surat,gujarat,04-05-2022,27-08-2026,53,annual,basic,838,353.5,debit card,no,6,1,45.7,48,rarely,2,2,android phone,friend,yes
+riya kapoor,male,33,unknown,gujarat,02-07-2026,25-08-2026,2,annual,pro,1900,3748,debit card,yes,4,1,24.6,87,monthly,4,5,android phone,google,no
+rohit mehta,male,55,mangalore,kar,23-10-2025,20-08-2026,10,annual,premium,581,16,credit card,yes,2,1,23.7,27.8,daily,3,4,android phone,friend,no
+vikram singh,male,56,bangalore,unknown,27-08-2026,27-08-2026,12,annual,premium,1,4900,credit card,yes,0,1,48.7,31.2,rarely,3,3,laptop,advertisement,no
+riya kapoor,male,34,delhi,delhi,25-07-2026,21-08-2026,12,two-year,basic,870,700,bank transfer,no,3,1,26.4,48,weekly,2,2,laptop,friend,no
+swathi reddy,male,28,mumbai,maharashtra,22-07-2025,27-08-2026,13,monthly,pro,1976,20400,bank transfer,yes,1,1,16.8,47,2-3 times/week,4,4,iphone,friend,no
+lakshmi devi,male,23,hubli,karnataka,16-07-2025,27-08-2026,13,monthly,basic,581,8700,credit card,yes,0,0,19.3,33,weekly,3,3,iphone,google,no
+aditya rao,male,34,madras,tamil nadu,17-04-2026,18-08-2026,4,monthly,premium,1,3,upi,no,2,1,21.8,42,2-3 times/week,4,3,android phone,google,no
+priya reddy,male,34,tirupati,andhra pradesh,14-05-2022,27-08-2026,52,monthly,basic,688,30,credit card,yes,3,1,37.8,49,monthly,4,5,iphone,friend,yes
+meera nair,female,27,karimnagar,telangana,15-07-2026,13-07-2026,12,monthly,premium,1,1,upi,yes,5,1,17.7,68.2,daily,4,4,mobile,friend,no
+pooja nair,female,31,delhi,unknown,30-12-2022,18-08-2026,44,monthly,premium,964,36539,debit card,yes,3,1,47.2,42,weekly,3,2,android phone,friend,no
+sanjay kumar,female,32,hyderabad,telangana,27-07-2026,14-08-2026,1,annual,pro,1700,1,bank transfer,no,3,1,34.2,45.4,weekly,4,3,iphone,social media,no
+neha verma,male,31,guntur,andhra pradesh,02-04-2025,21-08-2026,17,monthly,premium,581,17,debit card,yes,6,0,12.1,60,daily,2,1,laptop,social media,no
+aditya rao,male,19,pune,unknown,09-05-2026,27-08-2026,3,monthly,basic,754,2,credit card,yes,6,2,27.9,37.3,weekly,3,3,iphone,friend,no
+neha verma,female,34,nagpur,maharashtra,09-08-2022,24-08-2026,49,annual,basic,599,27,credit card,yes,2,1,56.1,41.6,2-3 times/week,3,4,android phone,social media,no
+manish gupta,male,26,tirupati,andhra pradesh,23-06-2025,27-08-2026,14,annual,basic,627,353.5,bank transfer,yes,4,0,23.1,38,weekly,5,5,android phone,social media,no
+sneha patel,female,38,unknown,kerala,22-07-2025,28-08-2026,13,annual,premium,1,13400,upi,no,4,0,16.9,7.9,daily,4,3,laptop,google,no
+priya reddy,male,37,mysuru,karnataka,24-10-2023,27-08-2026,34,monthly,basic,719,25500,bank transfer,no,2,2,41.4,42,daily,1,1,mobile,friend,yes
+arjun kumar,female,28,chennai,tamil nadu,07-11-2026,28-08-2026,12,monthly,pro,2,2,credit card,yes,1,1,12,48,rarely,4,5,iphone,website,no
+amit shah,female,54,nashik,maharashtra,25-04-2026,15-08-2026,12,monthly,premium,815,2,bank transfer,yes,0,1,53.7,84,daily,2,3,iphone,social media,yes
+nikhil joshi,male,38,thrissur,unknown,26-03-2026,27-08-2026,5,monthly,premium,1,4,credit card,no,1,0,6.3,38,weekly,3,3,laptop,friend,no
+suresh babu,female,44,mumbai,maharashtra,29-11-2025,23-08-2026,9,two-year,basic,762,5,bank transfer,yes,2,1,12.2,24,monthly,5,5,android phone,friend,no
+sneha patel,male,51,coimbatore,tamil nadu,18-12-2021,27-08-2026,57,monthly,basic,581,27900,debit card,no,7,1,14.3,54,monthly,5,5,android phone,friend,no
+sneha patel,male,35,unknown,telangana,03-07-2026,27-08-2026,2,monthly,basic,581,1021,credit card,no,2,2,9.7,48,rarely,4,4,iphone,friend,no
+rahul sharma,male,53,salem,tamil nadu,30-12-2025,27-08-2026,8,two-year,basic,560,3995,bank transfer,yes,5,1,46.6,56,weekly,5,5,android phone,advertisement,no
+manish gupta,male,44,bom,maharashtra,19-07-2026,11-08-2026,12,monthly,basic,581,643,credit card,no,4,2,21.7,48,daily,4,3,laptop,website,no
+neha verma,male,24,nizamabad,telangana,03-07-2025,26-08-2026,14,annual,premium,1,18,upi,yes,4,2,6.2,46.3,rarely,4,3,android phone,friend,no
+rohit mehta,male,32,coimbatore,tamil nadu,09-04-2025,17-08-2026,12,annual,basic,1,14,bank transfer,yes,2,0,13,42,rarely,2,3,android phone,social media,no
+divya iyer,male,40,bom,unknown,03-10-2024,27-08-2026,23,monthly,basic,429,8,debit card,yes,2,1,34.6,48,daily,3,4,laptop,friend,no
+divya iyer,male,35,unknown,andhra pradesh,19-03-2026,30-08-2026,5,two-year,premium,1,7,credit card,yes,3,3,63.3,48,weekly,3,2,android phone,friend,yes
+arjun kumar,male,31,madras,tamil nadu,30-11-2023,27-08-2026,33,monthly,basic,800,25,credit card,no,0,1,5.3,74.4,2-3 times/week,3,3,laptop,advertisement,yes
+kiran das,female,66,tirupati,andhra pradesh,09-04-2023,13-08-2026,41,two-year,basic,696,26300,upi,yes,2,2,27.4,48,rarely,3,2,android phone,friend,no
+vikram singh,male,35,amd,gujarat,24-07-2026,28-08-2026,1,two-year,pro,2348,1,bank transfer,yes,5,1,7.8,51,2-3 times/week,3,3,iphone,google,no
+rahul sharma,female,35,madurai,unknown,02-01-2026,27-08-2026,8,monthly,premium,1584,353.5,bank transfer,yes,4,1,21.7,36,daily,3,3,android phone,website,no
+riya kapoor,male,34,visakhapatnam,andhra pradesh,16-05-2026,31-08-2026,3,annual,premium,1,4,credit card,yes,6,1,78.3,33,daily,4,5,android phone,friend,yes
+ananya rao,female,22,hyderabad,telangana,18-04-2026,27-08-2026,4,annual,basic,415,1,upi,yes,6,1,16.9,53.6,rarely,4,5,android phone,friend,no
+kiran das,female,32,guntur,andhra pradesh,01-08-2025,01-09-2026,20,annual,premium,800,15209,debit card,yes,3,1,35.2,55,daily,3,3,android phone,website,no
+sneha patel,male,21,madurai,tamil nadu,15-03-2026,28-08-2026,5,monthly,premium,920,3700,upi,yes,1,1,35.1,47.2,weekly,2,3,mobile,friend,no
+varun malhotra,male,47,tirupati,andhra pradesh,29-04-2026,25-08-2026,12,monthly,pro,2480,10352,upi,yes,3,0,99,38.9,daily,4,4,iphone,google,no
+amit shah,male,45,rajkot,gujarat,20-03-2023,27-08-2026,42,annual,basic,451,353.5,upi,yes,2,1,18.5,42.5,daily,1,2,mobile,website,no
+sneha patel,male,35,chennai,tamil nadu,08-07-2026,18-07-2026,1,monthly,basic,600,560,credit card,yes,1,1,40.7,36,daily,3,3,laptop,friend,no
+vikram singh,male,37,madurai,tamil nadu,27-08-2026,26-08-2026,1,monthly,premium,1,1124,credit card,yes,2,1,13.9,50,daily,4,4,android phone,google,no
+kavya rao,female,31,mysuru,karnataka,09-06-2026,24-08-2026,2,monthly,premium,900,1800,debit card,yes,2,0,15.3,76,daily,3,3,laptop,google,no
+arjun kumar,male,30,delhi,delhi,12-05-2026,27-08-2026,12,annual,premium,1,3217,upi,yes,3,0,33.2,50,daily,3,4,android phone,google,no
+rahul sharma,male,25,guntur,andhra pradesh,28-06-2026,27-08-2026,12,annual,premium,900,1,upi,no,4,1,21.7,7,daily,3,4,android phone,social media,no
+pooja nair,male,30,trivandrum,kerala,02-05-2026,31-08-2026,4,two-year,basic,600,2300,credit card,no,3,1,21.7,72,daily,5,5,iphone,friend,no
+harsha vardhan,male,42,unknown,delhi,18-07-2026,27-08-2026,1,monthly,premium,1,1000,upi,yes,2,1,14.1,37,weekly,3,3,android phone,advertisement,no
+nikhil joshi,male,40,nasik,maharashtra,13-07-2025,08-07-2026,13,monthly,basic,871,10,bank transfer,no,4,1,21.7,23,2-3 times/week,5,5,mobile,google,no
+neha verma,female,33,bangalore,karnataka,28-06-2026,28-08-2026,2,two-year,basic,600,1,debit card,yes,1,0,11.1,37,rarely,3,3,laptop,friend,no
+sneha patel,male,49,thrissur,kerala,16-07-2023,21-08-2026,38,monthly,premium,1,44,bank transfer,yes,1,0,22.6,5,weekly,4,3,iphone,friend,no
+sanjay kumar,male,54,hyd,unknown,13-06-2025,27-08-2026,12,monthly,premium,1,20,credit card,yes,4,0,16.6,56.4,weekly,4,3,android phone,google,no
+manish gupta,male,36,madurai,unknown,07-11-2026,29-08-2026,12,two-year,basic,435,400,bank transfer,yes,3,1,52.3,63,weekly,5,4,android phone,friend,no
+nikhil joshi,female,57,delhi,delhi,10-06-2026,26-08-2026,2,two-year,basic,550,862,credit card,yes,3,1,65.1,48,weekly,3,4,iphone,social media,yes
+riya kapoor,male,40,karimnagar,telangana,21-12-2025,21-08-2026,8,monthly,premium,880,5900,upi,yes,5,2,37.6,54,2-3 times/week,4,4,android phone,website,no
+neha verma,male,35,kochi,kerala,01-05-2024,15-08-2026,28,monthly,pro,2,353.5,upi,yes,1,1,11.6,48,daily,2,2,iphone,website,yes
+harsha vardhan,male,35,kozhikode,kerala,23-12-2024,13-07-2026,20,monthly,basic,512,8,bank transfer,yes,6,1,168.6,43,weekly,4,4,iphone,advertisement,yes
+vikram singh,female,29,madurai,tamil nadu,25-05-2026,24-08-2026,12,annual,basic,858,2,upi,yes,4,1,5.8,20,2-3 times/week,3,3,android phone,friend,no
+ananya rao,male,49,pune,unknown,03-07-2026,27-08-2026,12,monthly,premium,1,3,credit card,yes,1,0,19.7,52,weekly,5,4,android phone,advertisement,yes
+rahul sharma,male,35,unknown,maharashtra,28-07-2026,09-01-2026,1,monthly,basic,416,424,debit card,yes,2,1,20.9,38,rarely,4,3,laptop,social media,no
+kiran das,male,18,vijayawada,andhra pradesh,18-04-2026,23-08-2026,12,annual,basic,499,2,credit card,yes,5,2,11.1,53.1,monthly,5,5,android phone,friend,no
+meera nair,female,34,delhi,delhi,10-03-2025,27-08-2026,18,annual,basic,580,9,bank transfer,yes,1,1,9.8,42,monthly,3,3,android phone,social media,no
+priya reddy,male,35,mysuru,karnataka,24-06-2026,24-08-2026,2,monthly,basic,581,1,debit card,yes,2,1,59.5,29,daily,4,3,mobile,friend,no
+manish gupta,male,45,nizamabad,telangana,28-01-2024,01-09-2026,31,monthly,basic,576,353.5,credit card,yes,4,1,56.9,71,weekly,3,4,laptop,google,no
+aditya rao,female,27,pune,maharashtra,16-12-2024,22-08-2026,20,two-year,pro,2,42251,debit card,yes,3,3,15.9,38,daily,3,3,android phone,friend,yes
+rahul sharma,male,47,surat,gujarat,21-07-2026,31-08-2026,1,annual,basic,569,505,credit card,yes,3,1,53.8,93,daily,4,5,laptop,friend,no
+sneha patel,female,36,rajkot,unknown,19-05-2026,30-08-2026,12,two-year,pro,2,8790,debit card,yes,7,1,30.6,65.3,weekly,4,4,android phone,social media,no
+manish gupta,female,33,surat,gujarat,07-06-2025,27-08-2026,14,two-year,basic,705,9,credit card,yes,3,0,4.7,48,daily,5,5,android phone,friend,no
+kiran das,female,43,unknown,unknown,26-06-2026,01-09-2026,2,annual,basic,500,795,upi,yes,0,1,12.5,32,daily,3,3,mobile,friend,no
+rohit mehta,female,35,surat,gujarat,26-10-2021,27-08-2026,59,monthly,basic,418,25,bank transfer,no,4,1,55.7,42,daily,5,4,android phone,google,yes
+rahul sharma,female,26,hubli,karnataka,17-07-2026,27-08-2026,1,monthly,premium,845,878,debit card,yes,4,1,5.9,27,2-3 times/week,3,2,mobile,friend,no
+nikhil joshi,female,39,ahmedabad,gujarat,15-07-2026,27-08-2026,12,monthly,basic,698,555,upi,yes,4,2,34.8,66,monthly,3,3,android phone,friend,yes
+riya kapoor,female,42,unknown,tamil nadu,21-08-2025,09-01-2026,12,annual,basic,597,5,upi,yes,5,1,21.7,32.3,weekly,4,3,iphone,friend,no
+nikhil joshi,female,47,guntur,andhra pradesh,23-07-2026,01-09-2026,1,annual,pro,581,1,credit card,yes,2,1,83.5,24,daily,1,1,mobile,website,no
+varun malhotra,female,47,cochin,kerala,05-02-2025,30-08-2026,19,annual,pro,2600,37947,bank transfer,yes,2,2,13.2,60,rarely,5,4,android phone,google,no
+harsha vardhan,female,18,warangal,telangana,23-04-2026,27-08-2026,12,monthly,basic,537,1,upi,yes,3,2,22.5,32,daily,4,3,android phone,social media,no
+manish gupta,male,35,unknown,unknown,18-07-2026,28-08-2026,1,monthly,premium,933,900,credit card,yes,3,1,34.1,30,daily,3,2,laptop,google,yes
+meera nair,male,51,madurai,tamil nadu,04-09-2024,27-08-2026,24,annual,pro,2,72308,credit card,no,4,1,21.7,57,daily,4,4,mobile,friend,no
+varun malhotra,male,24,cbe,tamil nadu,02-07-2026,29-08-2026,12,two-year,basic,487,821,upi,no,3,1,8.6,23,weekly,4,4,mobile,social media,no
+aditya rao,male,41,unknown,gujarat,23-04-2026,17-08-2026,4,monthly,premium,1,4,upi,yes,3,2,36.4,48,weekly,3,3,iphone,google,no
+varun malhotra,female,51,bangalore,kar,08-07-2026,25-08-2026,1,monthly,basic,697,724,bank transfer,no,2,2,37.4,60,daily,3,3,android phone,social media,no
+rahul sharma,male,37,tirupati,andhra pradesh,13-07-2026,28-08-2026,1,annual,premium,916,787,upi,yes,1,1,29.4,42,weekly,5,3,laptop,website,no
+kiran das,male,36,unknown,tamil nadu,27-08-2026,01-09-2026,44,monthly,premium,1,59,upi,yes,1,2,23.4,62,weekly,4,4,iphone,friend,yes
+harsha vardhan,female,43,surat,gujarat,09-07-2026,08-08-2026,1,monthly,premium,897,729,credit card,yes,2,1,16.4,53,daily,4,4,iphone,social media,no
+sanjay kumar,female,18,madurai,tamil nadu,15-07-2026,23-08-2026,1,monthly,pro,2,1,bank transfer,no,5,1,36.3,33,2-3 times/week,4,5,iphone,google,yes
+amit shah,male,39,unknown,andhra pradesh,15-06-2023,15-08-2026,39,monthly,premium,891,33,credit card,yes,2,3,10.6,66,daily,4,4,android phone,google,yes
+harsha vardhan,male,32,unknown,unknown,19-07-2026,27-08-2026,1,monthly,premium,930,353.5,credit card,no,2,2,53.8,35,monthly,3,2,android phone,google,yes
+suresh babu,female,35,unknown,telangana,30-05-2026,27-08-2026,3,annual,basic,577,353.5,bank transfer,yes,5,1,37.9,54.1,2-3 times/week,3,4,android phone,website,no
+varun malhotra,male,23,vadodara,gujarat,23-07-2026,27-08-2026,1,annual,pro,2,2500,bank transfer,yes,4,1,9.5,55,daily,4,4,mobile,friend,no
+aditya rao,male,40,nashik,maharashtra,29-07-2026,29-08-2026,1,monthly,basic,558,536,debit card,yes,3,4,17.5,54,daily,3,3,iphone,friend,no
+arjun kumar,male,33,amd,unknown,06-10-2025,15-08-2026,12,two-year,basic,783,7,bank transfer,yes,2,1,61.7,40.7,monthly,4,5,android phone,social media,no
+divya iyer,male,29,delhi,delhi,22-04-2026,27-08-2026,4,monthly,basic,532,1,credit card,no,3,2,15.6,48,rarely,3,3,android phone,google,yes
+amit shah,female,37,trivandrum,kerala,18-07-2026,20-08-2026,1,monthly,basic,784,666,debit card,yes,1,0,37.8,56,weekly,3,3,android phone,friend,no
+nikhil joshi,male,34,kochi,kerala,26-10-2025,24-08-2026,12,monthly,basic,629,5,bank transfer,yes,1,2,23.4,40,daily,3,3,android phone,social media,yes
+aditya rao,female,21,vadodara,gujarat,27-07-2026,27-08-2026,1,monthly,basic,456,362,bank transfer,no,0,1,18,39,daily,4,3,android phone,friend,no
+neha verma,male,46,vadodara,gujarat,31-07-2026,27-08-2026,12,annual,pro,2900,2,bank transfer,no,4,2,23.6,52,weekly,3,5,android phone,social media,yes
+priya reddy,female,29,unknown,tamil nadu,24-02-2026,13-08-2026,6,annual,basic,726,3,credit card,yes,3,3,29.5,57,monthly,3,3,iphone,advertisement,no
+amit shah,male,36,unknown,karnataka,28-03-2026,29-07-2026,5,two-year,premium,1,6,credit card,no,3,1,5.6,68.9,weekly,4,4,android phone,friend,no
+riya kapoor,female,31,karimnagar,telangana,07-01-2026,21-08-2026,2,two-year,premium,1,2200,debit card,yes,2,2,18.8,53,monthly,2,2,android phone,friend,no
+pooja nair,male,35,coimbatore,tamil nadu,02-11-2023,27-08-2026,34,monthly,premium,1500,44,bank transfer,yes,1,1,20.2,18,weekly,3,3,mobile,friend,no
+nikhil joshi,male,20,blr,karnataka,27-08-2026,31-08-2026,3,two-year,basic,491,1,credit card,no,2,1,27.5,51,weekly,5,4,laptop,friend,no
+neha verma,male,18,chennai,tamil nadu,16-07-2026,27-08-2026,1,annual,pro,1,1,debit card,yes,7,0,60.9,38.5,rarely,4,4,laptop,advertisement,no
+divya iyer,male,46,delhi,delhi,23-05-2026,27-08-2026,12,monthly,basic,870,2,bank transfer,no,5,1,27.7,53,monthly,5,5,iphone,website,no
+kiran das,female,46,delhi,dl,16-04-2026,27-08-2026,4,monthly,basic,752,2,credit card,yes,7,2,36.2,16,2-3 times/week,4,3,iphone,friend,no
+varun malhotra,male,27,salem,tamil nadu,16-12-2025,28-08-2026,12,two-year,premium,989,6,upi,no,3,0,45.4,42,weekly,4,4,android phone,google,no
+kiran das,female,28,bengaluru,karnataka,07-11-2026,22-08-2026,1,monthly,premium,1,1,credit card,yes,3,3,68.8,70.4,daily,4,3,android phone,friend,yes
+meera nair,female,54,unknown,delhi,21-07-2026,24-08-2026,1,monthly,premium,1,1100,upi,no,2,0,16.4,48,weekly,3,4,iphone,advertisement,yes
+ananya rao,female,46,trivandrum,kerala,03-01-2026,01-09-2026,12,monthly,basic,700,3800,upi,yes,3,1,15.7,48,daily,3,4,iphone,friend,no
+amit shah,female,40,madurai,tamil nadu,15-06-2026,27-08-2026,2,monthly,basic,857,1,bank transfer,yes,2,1,30.8,33,monthly,3,2,android phone,friend,no
+aditya rao,female,33,mangalore,karnataka,16-09-2025,28-08-2026,12,monthly,basic,411,4000,upi,yes,2,1,82.5,36.5,rarely,3,3,laptop,friend,no
+priya reddy,male,39,coimbatore,tamil nadu,21-04-2026,29-07-2026,4,annual,pro,2,9013,credit card,yes,6,0,16.4,18,weekly,3,2,laptop,google,yes
+manish gupta,male,30,nizamabad,telangana,08-07-2026,31-08-2026,1,monthly,premium,900,886,credit card,yes,3,4,16.7,36.4,weekly,3,3,android phone,google,no
+meera nair,female,33,calicut,kerala,02-02-2026,04-08-2026,7,annual,premium,1372,7824,bank transfer,no,3,1,32.5,72,monthly,4,4,android phone,friend,no
+rahul sharma,male,25,unknown,gujarat,28-08-2025,08-12-2026,12,monthly,basic,700,8,bank transfer,yes,3,1,29.1,75,daily,3,3,iphone,website,no
+nikhil joshi,male,29,visakhapatnam,andhra pradesh,01-07-2026,01-09-2026,12,annual,premium,581,2837,debit card,yes,6,2,49,66.9,weekly,4,4,android phone,friend,no
+aditya rao,female,27,vijayawada,andhra pradesh,05-07-2025,31-07-2026,14,two-year,premium,1,353.5,upi,no,7,1,10.6,35,weekly,4,4,android phone,social media,no
+nikhil joshi,male,32,mumbai,maharashtra,27-12-2025,15-08-2026,12,monthly,basic,677,5080,upi,yes,2,0,19.5,78,daily,4,4,android phone,google,no
+kavya rao,female,48,madras,tamil nadu,20-02-2024,25-08-2026,30,monthly,basic,581,15000,debit card,no,4,2,6.3,66,daily,5,4,android phone,friend,no
+vikram singh,female,33,vijayawada,andhra pradesh,24-03-2026,31-08-2026,5,annual,premium,1,6,debit card,no,2,1,26.1,38,rarely,4,4,laptop,social media,yes
+swathi reddy,female,38,kozhikode,kerala,26-04-2026,27-08-2026,4,monthly,basic,1,4,credit card,yes,5,0,47.5,24,2-3 times/week,5,5,mobile,social media,no
+varun malhotra,male,39,mumbai,maharashtra,05-10-2025,27-08-2026,11,monthly,basic,500,4,credit card,yes,2,1,41.3,47,daily,4,3,iphone,google,no
+meera nair,female,40,mangalore,karnataka,23-08-2025,31-07-2026,12,annual,pro,1600,18200,credit card,no,5,1,20.5,58,2-3 times/week,5,5,iphone,advertisement,no
+rahul sharma,male,35,calicut,kerala,06-11-2024,27-08-2026,22,monthly,pro,1600,28,bank transfer,yes,2,1,25.4,74,2-3 times/week,3,4,iphone,website,no
+pooja nair,female,62,karimnagar,telangana,20-05-2026,13-08-2026,12,monthly,basic,703,1,credit card,yes,3,1,29.1,60,daily,4,5,iphone,google,no
+divya iyer,male,34,warangal,telangana,12-11-2022,28-08-2026,46,two-year,basic,658,31000,upi,yes,1,2,7.1,36,daily,5,5,laptop,website,no
+rahul sharma,male,43,mangalore,karnataka,25-07-2026,27-08-2026,12,monthly,basic,840,681,debit card,yes,6,1,9.2,43,daily,3,3,android phone,social media,no
+priya reddy,male,37,kochi,kerala,04-05-2026,27-08-2026,12,annual,basic,470,1,upi,yes,4,1,6.9,37,daily,2,2,android phone,social media,no
+neha verma,female,23,guntur,andhra pradesh,30-05-2025,08-04-2026,14,monthly,premium,937,11,credit card,yes,3,1,18.3,73,daily,4,5,android phone,google,no
+suresh babu,male,25,delhi,delhi,24-06-2026,31-08-2026,12,monthly,basic,563,1,credit card,yes,1,1,16.2,54.9,monthly,3,2,iphone,friend,yes
+manish gupta,female,30,warangal,telangana,27-08-2026,25-08-2026,53,annual,basic,400,18,credit card,yes,1,1,4.6,54,weekly,4,3,android phone,friend,no
+vikram singh,male,39,surat,gujarat,06-07-2023,28-08-2026,38,monthly,basic,678,23,upi,yes,2,1,11,37,monthly,2,2,iphone,friend,no
+swathi reddy,female,35,guntur,unknown,31-07-2026,25-08-2026,1,monthly,basic,688,726,credit card,yes,1,1,57.6,63,2-3 times/week,2,2,android phone,website,yes
+aditya rao,female,41,hubballi,karnataka,15-06-2026,08-04-2026,2,two-year,basic,409,715,upi,yes,2,2,5.7,102,2-3 times/week,3,2,android phone,social media,no
+ananya rao,female,29,kozhikode,kerala,16-07-2026,30-08-2026,12,two-year,basic,745,663,bank transfer,no,4,1,21.7,72,weekly,2,3,android phone,social media,no
+suresh babu,female,27,mangalore,karnataka,13-11-2023,28-08-2026,34,monthly,basic,578,17400,bank transfer,no,3,0,18,12,daily,5,5,android phone,friend,yes
+sneha patel,male,35,chennai,tamil nadu,08-07-2026,18-07-2026,1,monthly,basic,600,560,credit card,yes,1,1,40.7,36,daily,3,3,laptop,friend,no
+kiran das,male,18,bengaluru,karnataka,05-03-2026,29-07-2026,6,two-year,pro,2,11400,credit card,yes,7,2,18.1,70,2-3 times/week,2,2,android phone,google,no
+amit shah,male,44,unknown,gujarat,26-07-2026,24-08-2026,12,annual,basic,700,564,debit card,yes,5,3,13.9,57.6,daily,4,3,laptop,website,yes
+sanjay kumar,female,42,guntur,andhra pradesh,03-02-2023,11-08-2026,43,annual,pro,2,99,bank transfer,yes,4,1,43,48,daily,3,3,android phone,social media,no
+priya reddy,male,37,delhi,dl,21-07-2026,09-01-2026,1,monthly,basic,562,525,bank transfer,yes,6,1,21.7,43.7,daily,3,2,android phone,friend,no
+harsha vardhan,male,47,guntur,andhra pradesh,14-03-2026,27-08-2026,5,monthly,premium,1600,7800,credit card,yes,3,0,17.8,15,rarely,3,2,iphone,website,yes
+divya iyer,male,35,unknown,delhi,16-09-2023,27-08-2026,36,monthly,basic,700,26,bank transfer,no,7,2,24.4,48,monthly,3,3,android phone,google,no
+kiran das,female,40,delhi,delhi,19-07-2026,26-08-2026,1,two-year,basic,652,675,debit card,yes,4,1,37.1,78,rarely,3,3,laptop,friend,yes
+kavya rao,female,27,guntur,andhra pradesh,10-05-2025,27-08-2026,12,two-year,premium,1300,10,bank transfer,yes,4,3,39.2,42.9,rarely,3,4,iphone,website,no
+priya reddy,female,48,ahmedabad,gujarat,20-07-2026,27-08-2026,1,annual,basic,741,353.5,credit card,yes,0,1,42.7,67,rarely,5,5,mobile,advertisement,no
+priya reddy,male,38,bom,maharashtra,31-07-2025,13-08-2026,13,two-year,basic,843,10252,credit card,yes,4,1,10.1,48,2-3 times/week,4,3,android phone,friend,no
+aditya rao,male,35,delhi,delhi,20-06-2026,21-08-2026,2,annual,pro,2,353.5,credit card,no,1,1,41.9,72,daily,5,5,android phone,social media,no
+arjun kumar,male,28,vizag,andhra pradesh,08-01-2026,27-08-2026,12,annual,premium,1,1,upi,yes,3,2,28,60,daily,3,2,iphone,friend,no
+suresh babu,female,19,hyd,unknown,14-08-2025,12-08-2026,12,annual,premium,1,17,credit card,yes,2,2,15.7,48,daily,4,5,mobile,friend,yes
+riya kapoor,male,24,warangal,telangana,27-07-2026,01-09-2026,1,annual,basic,400,356,credit card,no,1,1,31.1,52,weekly,3,3,android phone,social media,no
+manish gupta,female,38,nagpur,maharashtra,23-11-2025,22-08-2026,9,monthly,basic,815,7424,debit card,yes,2,1,27.5,54,daily,2,2,android phone,friend,no
+aditya rao,male,20,nagpur,maharashtra,16-01-2025,13-08-2026,19,monthly,basic,657,353.5,upi,no,1,1,8.5,26.3,daily,4,4,laptop,social media,no
+harsha vardhan,male,24,vijayawada,andhra pradesh,17-07-2026,29-08-2026,1,monthly,basic,412,411,credit card,yes,2,1,31.1,54,daily,3,4,laptop,google,no
+riya kapoor,male,29,vijayawada,andhra pradesh,23-07-2026,28-08-2026,12,annual,pro,2600,2,bank transfer,yes,6,0,24.9,42,daily,4,3,android phone,social media,no
+lakshmi devi,male,18,delhi,delhi,07-06-2025,27-08-2026,15,monthly,premium,900,13,bank transfer,yes,3,1,30.2,27,daily,4,4,android phone,google,no
+divya iyer,female,18,chennai,tamil nadu,16-09-2024,29-08-2026,23,monthly,basic,876,19,upi,yes,0,1,12.4,81,daily,4,3,android phone,social media,no
+rohit mehta,male,49,madras,tamil nadu,27-12-2024,01-08-2026,20,monthly,premium,581,17,debit card,yes,2,0,7.2,30,daily,2,3,android phone,social media,yes
+swathi reddy,male,36,unknown,karnataka,21-09-2024,29-08-2026,23,monthly,premium,1200,20,credit card,yes,4,2,25.3,31,weekly,3,3,mobile,friend,no
+aditya rao,female,35,vijayawada,andhra pradesh,15-07-2026,27-08-2026,1,monthly,premium,1,1400,debit card,yes,2,1,13.5,69,daily,3,3,android phone,google,no
